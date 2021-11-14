@@ -13,7 +13,7 @@ permalink: /
 Cet espace est dédié aux activités du consortium COSME² dans le cadre de la FAIRisation des données de ses différents corpus.
 {: .fs-6 .fw-300 }
 
-[COSME² {FAIR} Vade-mecum](/assets/[COSME2-FAIR]%20Vade-mecum.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
+[COSME² {FAIR} Vade-mecum](/assets/pdf/[COSME2-FAIR]%20Vade-mecum.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
 
 un aide-mémoire avec tous les liens outils
 {: .fs-4 .fw-300 .pt-1 }
