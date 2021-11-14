@@ -1,3 +1,11 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "/assets/images/logo.png"
 title: Consortium Sources Médiévales 2 - FAIR
+tagline: FAIRisation des corpus du COSME2
+description: Ce site est dédié aux activités du consortium COSME² dans le cadre de la FAIRisation des données de ses différents corpus.
+url: https://cosme-2.github.io
+author: Consortium Sources Médiévales 2 (COSME2)
+social:
+  name: Consortium Sources Médiévales 2
+  links:
+    - https://github.com/cosme-2
