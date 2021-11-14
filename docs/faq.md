@@ -69,8 +69,8 @@ Voir [Annexe 3. Choix d’un dépôt de données](/docs/fair-guide/annexe-3).
 
 De préférence, un dossier de dépôt doit contenir, mis à part les données elles-mêmes, un document “_README_” avec toutes les informations qui décrivent les données déposées aussi que toute la documentation nécessaire pour la meilleure compréhension des données.
 
-<span class="margin-top-and-italic">Pour l’exemple du document “_README_” et de la structure du dossier de dépôt, voir [AJOUTER LIEN EXEMPLE DEPOT!!!](#)</span>
-{: .fs-4 .fw-300 .text-red-300 }
+<span class="margin-top-and-italic">Pour l’exemple du document “_README_” et de la structure du dossier de dépôt, voir le dossier ["Dataset-upload-example"](https://github.com/cosme-2/FAIR-examples/tree/main/dataset-upload-example){:target="_blank"}</span>
+{: .fs-4 .fw-300 }
 
 ---
 
