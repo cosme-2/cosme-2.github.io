@@ -73,5 +73,5 @@ __\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-ent
 | <span class="corpus-table-header-left">Données FAIRisées</span>         | _données textuelles:_ JSON (export depuis TELMA)<br/>_données visuelles:_ JPG |
 | <span class="corpus-table-header-left">Dépôt de données</span>         	 | _en cours_ |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | _en cours_ |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | _en cours_ |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schema JSON"](https://github.com/cosme-2/corpus/tree/main/transscript){:target="_blank"} |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
