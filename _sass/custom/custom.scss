@@ -1,0 +1,147 @@
+/*** 1 - Colors ****/
+
+/* 1.1 - Links */
+
+/* a - links in texts */
+a {
+    color: #006796;
+}
+
+a:hover {
+    color: #277CB9;
+}
+
+a:not([class]):hover {
+ background-image:linear-gradient(rgba(39,124,185,0.45) 0%, rgba(39,124,185,0.45) 100%);
+}
+
+/* b - search loupe in search input */
+.search-input:focus+.search-label .search-icon {
+    color: #277CB9;
+}
+
+/* c - ancors on the left of headings */
+.main-content .anchor-heading svg {
+ color:#277CB9;
+}
+
+/* d - expander arrow in the left navigation menu */
+.nav-list .nav-list-item .nav-list-expander {
+ color:#277CB9;
+}
+
+/* e - for small screen size the left navigation menu turn into top little menu, this is a color of the icon of this top little menu  */
+.icon {
+ width:1.5rem;
+ height:1.5rem;
+ color:#277CB9;
+}
+
+/* 1.2 - Backgrounds */
+
+/* a - left side bar background */
+.side-bar {
+    /* background-color: #f5f6fa; */
+    background-color: #FAF9F5;
+    /* width: calc((100% - 1064px) / 2 + 264px); */
+}
+
+/* b - active or hover left side navigation menu */
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+    /* background-image:linear-gradient(-90deg, #ebedf5 0%, rgba(235,237,245,0.8) 80%, rgba(235,237,245,0) 100%); */
+    /* background-image: linear-gradient(-90deg, #EEEBDD 0%, rgba(238, 235, 221, 0.8) 80%, rgba(238, 235, 221, 0) 100%); */
+    background-image: linear-gradient(-90deg, #F3F1E7 0%, rgba(243, 241, 231, 0.8) 80%, rgba(243, 241, 231, 0) 100%);
+}
+
+.site-title:hover {
+    /* background-image:linear-gradient(-90deg, #ebedf5 0%, rgba(235,237,245,0.8) 80%, rgba(235,237,245,0) 100%); */
+    /* background-image: linear-gradient(-90deg, #EEEBDD 0%, rgba(238, 235, 221, 0.8) 80%, rgba(238, 235, 221, 0) 100%); */
+    background-image: linear-gradient(-90deg, #F3F1E7 0%, rgba(243, 241, 231, 0.8) 80%, rgba(243, 241, 231, 0) 100%);
+}
+
+.nav-list .nav-list-item .nav-list-expander:hover {
+    /* background-image:linear-gradient(-90deg, #ebedf5 0%, rgba(235,237,245,0.8) 100%)*/
+    background-image: linear-gradient(-90deg, #F3F1E7 0%, rgba(243, 241, 231, 0.8) 100%)
+}
+
+/* c - background when hover in search result */
+.search-result:hover,
+.search-result.active {
+    background-color: #F3F1E7;
+}
+
+::selection {
+ color:#fff;
+ background:#277CB9;
+}
+
+/* d - for small screen size the left navigation menu turn into top little menu, this is a background color on hover of this little menu  */
+
+.site-button:hover {
+ background-image:linear-gradient(-90deg, #F3F1E7 0%, rgba(243,241,231,0.8) 100%);
+}
+
+/*** 2 - Typography ****/
+
+/* justify all text */
+div.main-content p {
+    text-align: justify;
+}
+
+/*** 3 - Custom styles ****/
+
+
+/* display side by side vade-mecum button and texte (see on top of home page) */
+/*
+.vade-mecum-buttom {
+    float: left;
+}
+.vade-mecum-text {
+    display: block;
+    padding-top: 5px;
+}
+*/  
+
+/* color for FAIR data in the table on the overview page */
+
+.overview-table-yes{ 
+  color:green;
+  display: grid;
+  place-items: center;
+  }
+
+.overview-table-no{ 
+  color:red;
+  display: grid;
+  place-items: center;
+  }
+
+.overview-table-partially { 
+  color:orange;
+  display: grid;
+  place-items: center;
+  }
+
+/* make bold font left column to make it look like left/vertical header - on corpus page tables */
+
+.corpus-table-header-left{ 
+  font-weight: 600;
+  }
+
+.margin-top-reduction{ 
+  display: block;
+  margin-top: -15px;
+  }
+
+.margin-top-and-italic{ 
+  display: block;
+  margin-top: -10px;
+  font-style: italic;
+  }
+
+ /* Annexe 1 - to reduce margin for paragraphes in principes definitions (FAIR Guide) */
+ 
+.margin-left-indent{ 
+  margin-left: 30px;
+  }
