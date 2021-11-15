@@ -24,21 +24,21 @@ nav_order: 5
 
 FAIR est une abréviation de _Findable (= Facile à trouver)_, _Accessible_, _Interoperable (= Interopérable)_, _Reusable (= Réutilisable)_. Il s’agit de principes directeurs ou de recommandations (et non pas d’un standard) qui doivent être appliqués aux données de la recherche. Le but de la mise en place des principes FAIR est de rendre les données scientifiques plus accessibles et plus compréhensibles et leurs sauvegarde et réutilisation plus pérennes.
 
-<span class="margin-top-and-italic">Pour plus de détails, voir ["Qu’est-ce que FAIR?"](/docs/fair-guide/presentation.html#quest-ce-que-fair)</span>
+<span class="margin-top-and-italic">Pour plus de détails, voir ["Qu’est-ce que FAIR?"](/docs/fair-guide/presentation.html#quest-ce-que-fair){:target="_blank"}</span>
 {: .fs-4 .fw-300 }
 
 ### Pourquoi FAIRiser les données?
 
 Suivre les recommandations FAIR vise à permettre de garder les données propres, compréhensibles, pérennes et faciles à partager et, si nécessaire, à protéger légalement. En outre, le respect de ces recommandations et de plus en plus requis par de différents organismes de financement et leur application peut être un atout majeur lors des appels à projets.
 
-<span class="margin-top-and-italic">Pour plus de détails, voir ["Pourquoi FAIRiser les données?"](/docs/fair-guide/presentation.html#pourquoi-fairiser-les-données)</span>
+<span class="margin-top-and-italic">Pour plus de détails, voir ["Pourquoi FAIRiser les données?"](/docs/fair-guide/presentation.html#pourquoi-fairiser-les-données){:target="_blank"}</span>
 {: .fs-4 .fw-300 }
 
 ### Comment FAIRiser les données?
 
 Bien qu’il revienne à chaque projet de choisir les moyens par lesquels il souhaite atteindre les différents principes FAIR, il est possible d’envisager deux approches: la mise des données dans un dépôt de données institutionnel ou l’élaboration d’une infrastructure personnelle de gestion des données. Si, pour une raison ou une autre, vous voulez garder la main sur la totalité du processus et si vous avez la possibilité de faire accomplir les tâches techniques lourdes par du personnel compétent vous pouvez opter pour l’infrastructure personnelle, dans tous les autres cas, il vaut mieux se tourner vers un dépôt des données.
 
-<span class="margin-top-and-italic">Pour plus de détails, voir ["Écosystème FAIR"](/docs/fair-guide/presentation.html#écosystème-fair)</span>
+<span class="margin-top-and-italic">Pour plus de détails, voir ["Écosystème FAIR"](/docs/fair-guide/presentation.html#écosystème-fair){:target="_blank"}</span>
 {: .fs-4 .fw-300 }
 
 ### Quelles données faut-il FAIRiser?
@@ -46,7 +46,7 @@ Une “_unité des données_” à laquelle les principes FAIR sont appliqués e
 
 <span class="margin-top-reduction">À noter également que des corpus constitués des données d’une nature différente (par exemples, données textuelles, visuelles, chiffrées, etc.) peuvent regrouper chaque type de données dans un jeu de données séparé. Autrement dit, au sein d’un même corpus il peut exister plusieurs jeux de données où chaque “_jeu_” réunit des données analogues, par exemple les images, les textes, les notes, etc.</span>
 
-<span class="margin-top-and-italic">Pour plus de détails, voir ["Jeu de données"](/docs/fair-guide/presentation.html#jeu-de-données)</span>
+<span class="margin-top-and-italic">Pour plus de détails, voir ["Jeu de données"](/docs/fair-guide/presentation.html#jeu-de-données){:target="_blank"}</span>
 {: .fs-4 .fw-300 }
 
 ### Comment choisir la licence pour les données?
@@ -62,7 +62,7 @@ Il existe plusieurs outils qui aident à choisir la licence la plus adaptée à 
 
 ### Comment choisir un dépôt de données institutionnel?
 
-Voir [Annexe 3. Choix d’un dépôt de données](/docs/fair-guide/annexe-3).
+Voir [Annexe 3. Choix d’un dépôt de données](/docs/fair-guide/annexe-3){:target="_blank"}.
 
 
 ### Comment constituer un dossier de dépôt pour les données?
