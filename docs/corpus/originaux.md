@@ -18,7 +18,7 @@ nav_order: 20
 
 ### Information générale
 
-| <span class="corpus-table-header-left">Nom du corpus</span>                           | Originaux 1&2 |
+| <span class="corpus-table-header-left">Nom du corpus</span>                           | Originaux 1. Chartes originales antérieures à 1121 conservées en France<br/>Originaux 2. Chartes originales (1121-1220) conservées en France |
 | <span class="corpus-table-header-left">Adresse web</span>                             | (accès restreint) <br/> [TELMA: Originaux 1](http://telma-chartes.irht.cnrs.fr/originaux/page/presentation){:target="_blank"} <br/> [TELMA: Originaux 2](http://telma-chartes.irht.cnrs.fr/originaux2/page/presentation){:target="_blank"} |
 | <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Isabelle Guyot-Bachy (Université de Lorraine); <br/>Jean-Baptiste Renault (Université de Lorraine) |
 

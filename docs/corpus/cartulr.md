@@ -18,7 +18,7 @@ nav_order: 8
 
 ### Information générale
 
-| <span class="corpus-table-header-left">Nom du corpus</span>                           | CartulR |
+| <span class="corpus-table-header-left">Nom du corpus</span>                           | CartulR. Répertoire des cartulaires médiévaux et modernes |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: CartulR](https://telma-repertoires.irht.cnrs.fr/cartulr/page/presentation){:target="_blank"} |
 | <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Paul Bertrand (IRHT) |
 
