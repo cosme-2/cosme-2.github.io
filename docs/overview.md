@@ -27,7 +27,7 @@ Les **formats** les plus utilisés pour les données textuelles sont **xml** (po
 
 Enfin, à l’heure actuelle il ne semble pas exister des conventions ou des **standards** largement admis pour encoder ou représenter sous une forme numérique différents types de données issues de l’histoire médiévale. On ne peut que signaler l’utilisation des **recommandations de TEI P5 ou EAD** pour l’encodage des données sous format xml.
 
-Le tableau qui suit permet d'avoir un aperçu des informations principales sur chaque corpus et ses données et sur leur correspondance (simplifiée) aux principes FAIR. Pour plus de détails sur chaque corpus, voir: [Corpus](/docs/corpus){:target="_blank"}. Ces informations sont régulièrement mises à jour au fur et à mesure de l'avancement des opérations de la FAIRisation.
+Le tableau qui suit permet d'avoir un aperçu des informations principales sur chaque corpus et ses données et sur leur correspondance (simplifiée) aux principes FAIR. Pour plus de détails sur chaque corpus, voir: [Corpus](/docs/corpus){:target="_blank"}. Ces informations sont mises à jour au fur et à mesure de l'avancement des opérations de la FAIRisation.
 
 ##### Corpus du consortium COSME² et leur correspondance aux principes FAIR (voir: [Corpus](/docs/corpus){:target="_blank"})
 {: .text-center }
