@@ -30,7 +30,7 @@ nav_order: 13
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 500 Ko (Col&Mon) (données textuelles) <br/> 15 Mo (Collégiales) + 100 Mo images <br/> 10 Mo (Monastères) + 1 Go images |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 3329 notices |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |
-| <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | A l’heure actuelle, deux sites distincts (accès restreint): <br/> [http://vafl-s-applirecherche.unilim.fr/monasteres](http://vafl-s-applirecherche.unilim.fr/monasteres){:target="_blank"} <br/> [http://vafl-s-applirecherche.unilim.fr](http://vafl-s-applirecherche.unilim.fr){:target="_blank"} |
+| <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | A l’heure actuelle, deux sites distincts (accès restreint): <br/> [http://vafl-s-applirecherche.unilim.fr/monasteres](http://vafl-s-applirecherche.unilim.fr/monasteres){:target="_blank"} <br/> [http://vafl-s-applirecherche.unilim.fr](http://vafl-s-applirecherche.unilim.fr/collegiales/){:target="_blank"} |
 
 ### Correspondance aux principes FAIR
 
