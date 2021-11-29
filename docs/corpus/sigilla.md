@@ -26,7 +26,7 @@ nav_order: 26
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles, données visuelles |
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql, jpg |
-| <span class="corpus-table-header-left">Standards des données</span>                                        | aucun (base de données MySQL de Drupal) |
+| <span class="corpus-table-header-left">Standards des données</span>                                        | aucun (base de données SQL de Drupal) |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | impossible à définir |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 47200 notice et textes |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |

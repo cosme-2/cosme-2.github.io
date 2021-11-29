@@ -26,7 +26,7 @@ nav_order: 2
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles, données visuelles (photos des manuscrits) |
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql (certains éléments textuels peuvent garder les traces du balisage XML); <br/>jpg |
-| <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données MySQL de TELMA) |
+| <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données SQL de TELMA) |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | impossible à définir |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 900 textes |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |

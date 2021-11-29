@@ -26,7 +26,7 @@ nav_order: 13
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles, données visuelles, données géographiques (géoréférencement) |
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql, jpg, png <br/> Le projet comporte 3 bases de données en SQL: 2 bases sources (Collégiales et Monastères) et une base qui récupère des données des bases sources via un ETL (Col&Mon) |
-| <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données MySQL). <br/> [documentation en ligne](https://cercorapps.univ-st-etienne.fr/colemon/metadonnees/){:target="_blank"} |
+| <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données SQL). <br/> [documentation en ligne](https://cercorapps.univ-st-etienne.fr/colemon/metadonnees/){:target="_blank"} |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 500 Ko (Col&Mon) (données textuelles) <br/> 15 Mo (Collégiales) + 100 Mo images <br/> 10 Mo (Monastères) + 1 Go images |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 3329 notices |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |

@@ -26,7 +26,7 @@ nav_order: 25
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles |
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql |
-| <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données MySQL) |
+| <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données SQL) |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 20,7 Mo |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 32.778 notices et références bibliographiques <br/> 281.087 cotes de manuscrit |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |

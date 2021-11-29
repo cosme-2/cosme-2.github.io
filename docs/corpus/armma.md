@@ -26,7 +26,7 @@ nav_order: 4
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles, données visuelles (photos des manuscrits) |
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql, jpg |
-| <span class="corpus-table-header-left">Standards des données</span>                                        | aucun (base de données MySQL de WordPress) ou un modèle personnel? |
+| <span class="corpus-table-header-left">Standards des données</span>                                        | aucun (base de données SQL de WordPress) ou un modèle personnel? |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | texte: 21 Mo<br/>images: 17,2 Go |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 400 notices |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |
