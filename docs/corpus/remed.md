@@ -27,7 +27,7 @@ nav_order: 23
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles |
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql, (doc - ancienne version) |
 | <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données SQL de Heurist) |
-| <span class="corpus-table-header-left">Taille des fichiers</span>                                          | moins d'1 Mo |
+| <span class="corpus-table-header-left">Taille des fichiers</span>                                          | < 1 Mo |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 562 notices |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |
 | <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | base Heurist |
