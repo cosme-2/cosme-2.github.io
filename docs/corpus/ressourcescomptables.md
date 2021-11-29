@@ -68,5 +68,5 @@ nav_order: 14
 ### FAIRisation
 
 | <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _données textuelles:_ XML / TEI P5 |
-| <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4919335.svg)](https://doi.org/10.5281/zenodo.4919335){:target="_blank"} |
-| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Jamme, Armand. (2021). Ressources comptables en Dauphiné, Provence, Savoie et Venaissin (XIII<sup>e</sup> - XV<sup>e</sup> siècle) (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4919335 |
+| <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4919334.svg)](https://doi.org/10.5281/zenodo.4919334){:target="_blank"} |
+| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Jamme, Armand. (2021). Ressources comptables en Dauphiné, Provence, Savoie et Venaissin (XIII<sup>e</sup> - XV<sup>e</sup> siècle) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4919334 |
