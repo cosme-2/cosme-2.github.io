@@ -70,4 +70,5 @@ nav_order: 23
 | <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _données textuelles:_ CSV (export depuis la base Heurist) |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5590592.svg)](https://doi.org/10.5281/zenodo.5590592){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | COSME² (Consortium Sources Médiévales 2). (2021). Ressources médiévistes (ReMed) (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5590591 |
-
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | Aucune documentation n'est nécessaire, les données sont explicites en l'état. |
+| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
