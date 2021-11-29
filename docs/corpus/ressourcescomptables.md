@@ -70,5 +70,5 @@ nav_order: 14
 | <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _données textuelles:_ XML / TEI P5 |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4919334.svg)](https://doi.org/10.5281/zenodo.4919334){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Jamme, Armand. (2021). Ressources comptables en Dauphiné, Provence, Savoie et Venaissin (XIII<sup>e</sup> - XV<sup>e</sup> siècle) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4919334 |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [P5 Guidelines – TEI - Text Encoding Initiative](https://tei-c.org/guidelines/p5/){:target="_blank"} |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [TEI P5 Guidelines (Text Encoding Initiative)](https://tei-c.org/guidelines/p5/){:target="_blank"} |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
