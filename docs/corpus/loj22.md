@@ -28,7 +28,7 @@ nav_order: 19
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql (certains éléments textuels peuvent garder les traces du balisage XML) |
 | <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données SQL de TELMA) |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | < 3 Mo |
-| <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 5775 textes |
+| <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 904 documents |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |
 | <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | TELMA Chartes<sup>*</sup> |
 
