@@ -40,7 +40,7 @@ nav_order: 13
 | F1: Les (méta)données possèdent un identifiant persistant et unique au monde (persistent identifier, PID)	  | <span class="overview-table-no">Non</span> |
 | F2: Les données sont décrites avec des métadonnées riches													  | <span class="overview-table-no">Non</span> |
 | F3: Les métadonnées incluent, d’une façon claire et explicite, l’identifiant des données qu’elles décrivent | <span class="overview-table-no">Non</span> |
-| F4: Les (méta)données sont enregistrées ou indexées dans une ressource consultable						  | <span class="overview-table-partially">Partiellement</span> |
+| F4: Les (méta)données sont enregistrées ou indexées dans une ressource consultable						  | <span class="overview-table-partially">Partiellement</span> <span style="font-size: 11px;">(uniquement données)</span> |
 
 #### Accessible
 {: .no_toc }
