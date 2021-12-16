@@ -35,6 +35,7 @@ Le tableau qui suit permet d'avoir un aperçu des informations principales sur c
 {: .text-center }
 
 _(glissez vers la gauche pour voir le tableau en entier)_
+{: .fs-2 .text-center }
 
 | Corpus       | Format(s)       	     | Taille 			       | Écosystème FAIR     | Findable			     | Accessible 		     	 | Interoperable 	     	|  Reusable 	  |
 |:-------------|:----------------------|:--------------------|:--------------------|:------------------|:----------------------|:---------------------|:--------------|
