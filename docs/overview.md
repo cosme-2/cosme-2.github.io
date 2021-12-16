@@ -34,8 +34,8 @@ Le tableau qui suit permet d'avoir un aperçu des informations principales sur c
 ##### Corpus du consortium COSME² et leur correspondance aux principes FAIR (voir: [Corpus](/docs/corpus){:target="_blank"})
 {: .text-center }
 
-_(glisseze vers la gauche pour voir le tableau en entier)_
-{: .fs-2 .text-center }
+_(glissez ou déroulez le tableau à gauche ou à droite pour le voir en entier)_
+{: .fs-3 .text-center }
 
 | Corpus       | Format(s)       	     | Taille 			       | Écosystème FAIR     | Findable			     | Accessible 		     	 | Interoperable 	     	|  Reusable 	  |
 |:-------------|:----------------------|:--------------------|:--------------------|:------------------|:----------------------|:---------------------|:--------------|
