@@ -58,7 +58,7 @@ __\*__ - Le corpus “Europange” est constitué de plusieurs sous-corpus (Prov
 
 | I1. Les (méta)données utilisent un langage formel, accessible, partagé et largement répandu pour la représentation des connaissances| <span class="overview-table-yes">Oui</span> <span style="font-size: 11px; text-align: center; display: block;">(sous-corpus "Provence")</span> |
 | I2. Les (méta)données utilisent des vocabulaires qui suivent les principes FAIR 													  | <span class="overview-table-partially">Partiellement</span> <span style="font-size: 11px; text-align: center; display: block;">(métadonnées sous-corpus "Provence")</span>|
-| I3. Les (méta)données incluent des références qualifiées à d'autres (méta)données 												  | <span class="overview-table-no">Non</span>|
+| I3. Les (méta)données incluent des références qualifiées à d'autres (méta)données 												  | <span class="overview-table-yes">Oui</span> <span style="font-size: 11px; text-align: center; display: block;">(sous-corpus "Provence")</span>|
 
 #### Reusable (= Réutilisable)
 {: .no_toc }
