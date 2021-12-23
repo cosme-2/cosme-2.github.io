@@ -39,7 +39,7 @@ _<u>(glissez ou déroulez le tableau à gauche et à droite pour le voir en enti
 
 | Corpus       | Format(s)       	     | Taille 			       | Écosystème FAIR     | Findable			     | Accessible 		     	 | Interoperable 	     	|  Reusable 	  |
 |:-------------|:----------------------|:--------------------|:--------------------|:------------------|:----------------------|:---------------------|:--------------|
-| Europange | pdf, jpg, sql  | 12 Go | _à venir_  | <span class="overview-table-yes">Oui</span>| <span class="overview-table-yes">Oui</span>| <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-partially">Partiellement</span>|
+| Europange | pdf, jpg, sql  | 12 Go | infrastructure personnelle, Isidore  | <span class="overview-table-yes">Oui</span>| <span class="overview-table-yes">Oui</span>| <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-partially">Partiellement</span>|
 | Transscript  | sql, jpg | quelques Mo| _à venir_ | <span class="overview-table-no">Non</span>| <span class="overview-table-no">Non</span>| <span class="overview-table-partially">Partiellement</span> | <span class="overview-table-no">Non</span>|
 | Aposcripta  | sql | quelques Mo| _à venir_ | <span class="overview-table-no">Non</span>| <span class="overview-table-no">Non</span>| <span class="overview-table-partially">Partiellement</span> | <span class="overview-table-no">Non</span>|
 | Armma  | sql, jpg| texte: 21 Mo; images: 17,2 Go | _à venir_ | <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-no">Non</span>|
