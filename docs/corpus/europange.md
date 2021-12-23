@@ -71,7 +71,7 @@ __\*__ - Le corpus “Europange” est constitué de plusieurs sous-corpus (Prov
 ### FAIRisation
 
 | <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _données textuelles et visuelles:_ les pages HTML indexées et référencées par le moteur de recherche Isidore |
-| <span class="corpus-table-header-left">Dépôt de données</span>          	 | aucun dépôt de données; indexation et référencement par le moteur de recherche Isidore [10670/2.7ceuwo](https://isidore.science/collection/10670/2.7ceuwo) |
+| <span class="corpus-table-header-left">Dépôt de données</span>          	 | aucun dépôt de données; indexation et référencement par le moteur de recherche Isidore [10670/2.7ceuwo](https://isidore.science/collection/10670/2.7ceuwo){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | le moteur de recherche Isidore ne propose pas de citation bibliographie pour ses collections |
 | <span class="corpus-table-header-left">Documentation technique</span>   	 | _à venir_ |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | oui, site web personnel basé sur le CMS Drupal 7 |
