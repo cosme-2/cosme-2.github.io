@@ -23,9 +23,6 @@ nav_order: 1
 | <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> |  Resp. scientifique: Thierry Pécout (Université de Saint- Étienne)<br/>Resp. technique: Ahmad Fliti (CNRS, UMR LEM)|
 
 __\*__ - Le corpus “Europange” est constitué de plusieurs sous-corpus (Provence, Anjou, Lorraine, Royaume de Sicile). À l’heure actuelle, uniquement le sous-corpus “Provence” est accessible par l’intermédiaire du site web du projet (voir: [Europange - Corpus Provence](https://angevine-europe.huma-num.fr/ea/fr/corpus-provence){:target="_blank"}). Le sous-corpus “Provence” est également indexé (notice par notice) et référencé (avec l’attribution des identifiants pérennes) par le moteur de recherche Isidore (voir: [Isidore - Collection “Corpus Provence”](https://isidore.science/collection/10670/2.7ceuwo){:target="_blank"}).
-
-
-À l’heure actuelle, la plateforme TELMA se décline en deux sous-entités: [TELMA Chartes](http://telma-chartes.irht.cnrs.fr/){:target="_blank"} et [TELMA Repertoires](https://telma-repertoires.irht.cnrs.fr){:target="_blank"}. La migration vers [l’adresse unique](http://telma.irht.cnrs.fr){:target="_blank"} est prévue prochainement.
 {: .lh-1 .fs-2 .text-grey-dk-100 }
 
 ### Description des données
