@@ -69,4 +69,6 @@ _<u>(glissez ou déroulez le tableau à gauche et à droite pour le voir en enti
 | Titulus  | xml, jpg| impossible à définir| _à venir_ |  <span class="overview-table-no">Non</span>| <span class="overview-table-no">Non</span>|  <span class="overview-table-yes">Oui</span> | <span class="overview-table-no">Non</span>|
 | Prosopange  | sql, pdf, json, geoJson| 62 Mo| _à venir_ |  <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-partially">Partiellement</span> | <span class="overview-table-no">Non</span>|
 
+test
+
 <!-- __\*__ - En l’absence d’un accord explicite de l’auteur du corpus, les données n’ont pas pu être FAIRisées. -->
