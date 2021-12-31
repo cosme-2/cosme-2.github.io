@@ -14,10 +14,10 @@ nav_order: 7
 | Champ    				    | Qualité  							  				  | Correspondance éléments Dublin Core   | Correspondance champs Zenodo  	      |
 :---------------------------|:----------------------------------------------------|:--------------------------------------|:--------------------------------------|
 | Identifiant (PID): <span style="font-size: 11px; margin-top: 5px; display: block;">(L’identifiant est attribué automatiquement par le dépôt lors de la mise en ligne).</span>  | <span class="overview-table-no">obligatoire</span>  | DC.Identifier   					  | Digital Object Identifier     		  |
-|   | <span class="overview-table-no">obligatoire</span>  | DC.Date   							  | Publication date   |
-|   | <span class="overview-table-no">obligatoire</span>  | DC.Title   		   					  | Title   |
-|   | <span class="overview-table-no">obligatoire</span>  | DC.Creator   						  | Authors   |
-|   | <span class="overview-table-yes">optionnel</span>   | DC.Contributeur 					  | Contributors    |
+| Date de la mise en ligne (des données):   | <span class="overview-table-no">obligatoire</span>  | DC.Date   							  | Publication date   |
+| Intitulé (du jeu de données du corpus):  | <span class="overview-table-no">obligatoire</span>  | DC.Title   		   					  | Title   |
+| Auteur(s) du corpus (affiliation): <span style="font-size: 11px; margin-top: 5px; display: block;">(Par “l’auteur du corpus” on entend la ou les personne(s) qui ont créé le jeu de données et non la ou les personne(s) qui ont écrit les textes des documents contenus dans le corpus. Par exemple, si Jean-Paul Machin, chercheur au CNRS, a créé le corpus qui contient les textes de Dante Alighieri, on retient, comme auteur du corpus, J.-P.Machin et non Dante Alighieri.)</span>  | <span class="overview-table-no">obligatoire</span>  | DC.Creator   						  | Authors   |
+|  Contributeur(s) (affiliation, rôle): <span style="font-size: 11px; margin-top: 5px; display: block;">(Il s’agit de toutes les personnes qui ont contribué, d'une façon ou d'une autre, à l’élaboration du corpus. Voir infra la liste des différents rôles possibles des contributeurs telle qu’elle est proposée par le dépôt Zenodo)<sup>*</sup></span> | <span class="overview-table-yes">optionnel</span>   | DC.Contributeur 					  | Contributors    |
 |   | <span class="overview-table-no">obligatoire</span>  | DC.Description  					  |  Description   |
 |   | <span class="overview-table-yes">optionnel</span>   | DC.Format   						  |  _(Incorporer ces informations dans le champ “Description” lors de la saisie des métadonnées)_   |
 |   | <span class="overview-table-yes">optionnel</span>   |   									  |  _(Incorporer ces informations dans le champ “Description” lors de la saisie des métadonnées)_   |
@@ -33,8 +33,28 @@ nav_order: 7
 |   | <span class="overview-table-yes">optionnel</span>   | DC.Relation   						  |  Related/alternate identifiers   |
 
 
-
-
+__\*__ **<u>Liste des rôles des contributeurs (proposé par le dépôt Zenodo):</u>**
+- Contact person
+- Data collector
+- Data curator
+- Data manager
+- Distributor
+- Editor
+- Hosting institution
+- Other
+- Producer
+- Project leader
+- Project manager
+- Project member
+- Registration authority
+- Related person
+- Research group
+- Researcher
+- Rights holder
+- Sponsor
+- Supervisor
+- Work package leader
+{: .lh-1 .fs-2 .text-grey-dk-100 }
 
 
 *************
