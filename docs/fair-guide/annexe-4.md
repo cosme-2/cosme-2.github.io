@@ -13,7 +13,7 @@ nav_order: 7
 
 | Champ    				    | Qualité  							  				  | Correspondance éléments Dublin Core   | Correspondance champs Zenodo  	      |
 :---------------------------|:----------------------------------------------------|:--------------------------------------|:--------------------------------------|
-| Identifiant (PID): <span style="font-size: 11px; margin-top: 5px;">(L’identifiant est attribué automatiquement par le dépôt lors de la mise en ligne).</span>  | <span class="overview-table-no">obligatoire</span>  | DC.Identifier   					  | Digital Object Identifier     		  |
+| Identifiant (PID): <span style="font-size: 11px; margin-top: 5px; display: block;">(L’identifiant est attribué automatiquement par le dépôt lors de la mise en ligne).</span>  | <span class="overview-table-no">obligatoire</span>  | DC.Identifier   					  | Digital Object Identifier     		  |
 |   | <span class="overview-table-no">obligatoire</span>  | DC.Date   							  | Publication date   |
 |   | <span class="overview-table-no">obligatoire</span>  | DC.Title   		   					  | Title   |
 |   | <span class="overview-table-no">obligatoire</span>  | DC.Creator   						  | Authors   |
