@@ -8,6 +8,38 @@ nav_order: 7
 # Annexe 4. Modèle (prévisionnel) des métadonnées
 {: .no_toc }
 
+**Rappel:** Il est utile de rappeler que les principes FAIR ne sont que des recommandations qui visent à rendre les données scientifiques plus accessibles et plus compréhensibles et leurs sauvegarde et réutilisation plus pérennes. La _FAIRititude_ [FAIRness] complète des données n’est cependant qu’un objectif théorique difficilement atteignable (sur ce point, voir la bibliographie [[2](/docs/fair-guide/bibliography#2){:target="_blank"}], [[3](/docs/fair-guide/bibliography#3){:target="_blank"}], [[10](/docs/fair-guide/bibliography#10){:target="_blank"}], [[12](/docs/fair-guide/bibliography#12){:target="_blank"}]). Par conséquent, chaque champ des métadonnées doit être rempli le plus complètement possible, mais dans des limites raisonnables.
+{: .fw-300 }
+
+| Champ    				    | Qualité  							  				  | Correspondance éléments Dublin Core   | Correspondance champs Zenodo  	      |
+:---------------------------|:----------------------------------------------------|:--------------------------------------|:--------------------------------------|
+| Identifiant (PID): <span style="font-size: 11px; margin-top: 5px;">(L’identifiant est attribué automatiquement par le dépôt lors de la mise en ligne).</span>  | <span class="overview-table-no">obligatoire</span>  | DC.Identifier   					  | Digital Object Identifier     		  |
+|   | <span class="overview-table-no">obligatoire</span>  | DC.Date   							  | Publication date   |
+|   | <span class="overview-table-no">obligatoire</span>  | DC.Title   		   					  | Title   |
+|   | <span class="overview-table-no">obligatoire</span>  | DC.Creator   						  | Authors   |
+|   | <span class="overview-table-yes">optionnel</span>   | DC.Contributeur 					  | Contributors    |
+|   | <span class="overview-table-no">obligatoire</span>  | DC.Description  					  |  Description   |
+|   | <span class="overview-table-yes">optionnel</span>   | DC.Format   						  |  _(Incorporer ces informations dans le champ “Description” lors de la saisie des métadonnées)_   |
+|   | <span class="overview-table-yes">optionnel</span>   |   									  |  _(Incorporer ces informations dans le champ “Description” lors de la saisie des métadonnées)_   |
+|   | <span class="overview-table-yes">optionnel</span>   |    									  |  _(Incorporer ces informations dans le champ “Description” lors de la saisie des métadonnées)_   |
+|   | <span class="overview-table-yes">optionnel</span>   |    						   			  |  _(Incorporer ces informations dans le champ “Description” lors de la saisie des métadonnées)_   |
+|   | <span class="overview-table-yes">optionnel</span>   |    									  |  _(Incorporer ces informations dans le champ “Description” lors de la saisie des métadonnées)_   |
+|   | <span class="overview-table-yes">optionnel</span>   |    									  |  _(Incorporer ces informations dans le champ “Description” lors de la saisie des métadonnées)_   |
+|   | <span class="overview-table-yes">optionnel</span>   |    									  |  Version   |
+|   | <span class="overview-table-yes">optionnel</span>   | DC.Language   						  |  Language   |
+|   | <span class="overview-table-yes">optionnel</span>   | DC.Subject   						  |  Keywords   |
+|   | <span class="overview-table-yes">optionnel</span>   | DC.Rights   						  |  Access right & License   |
+|   | <span class="overview-table-yes">optionnel</span>   |    									  |  Funding / Grants   |
+|   | <span class="overview-table-yes">optionnel</span>   | DC.Relation   						  |  Related/alternate identifiers   |
+
+
+
+
+
+
+*************
+
+
 | Rubriques principales     | Correspondance éléments _Dublin Core_    |
 :---------------------------|:--------------------------------------|
 | Identifiant (PID):   | _DC.Identifier_  |
