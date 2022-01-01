@@ -14,17 +14,17 @@ Cette check-list peut-être utiliser lors de l’évaluation rapide de la corres
 | Données  		   |			 |
 :------------------|:-----------:|
 | Les données possèdent un identifiant pérenne (par exemple DOI, ARK, etc.) [F1]   | ☐ |
-| Les données sont accompagnées par des métadonnées [F2] | ☐ |
-| Les données sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1] |	 ☐ |
-| Les données sont encodées dans un format et avec un langage informatique connus et répandus [I1] | ☐ |
-| Les données sont accompagnées par une documentation ou sont basées sur les standards déjà existants [I2, R1.3] | ☐ |
+| Les données sont accompagnées par des métadonnées [F2] | &#x25a2; |
+| Les données sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1] |	 :white_large_square |
+| Les données sont encodées dans un format et avec un langage informatique connus et répandus [I1] | <input type="checkbox" disabled /> |
+| Les données sont accompagnées par une documentation ou sont basées sur les standards déjà existants [I2, R1.3] | &#9744; |
 
 | Métadonnées  		   |			 |
 :------------------|:-----------:|
-| Les métadonnées sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1]   | [ ] |
-| Les métadonnées sont encodées sous des formats et selon des normes et des standards en vigueur (par exemple RDF/XML, JSON-LD, etc.) [I1, I2, R1.3] |	 <ul><li>[ ]</li></ul> |
+| Les métadonnées sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1]   | &#x274f; |
+| Les métadonnées sont encodées sous des formats et selon des normes et des standards en vigueur (par exemple RDF/XML, JSON-LD, etc.) [I1, I2, R1.3] |	&#x2751; |
 | Les métadonnées qui accompagnent les données contiennent, au minimum, les éléments suivants: | |
-| <span class="margin-left">- identifiant pérenne des données auxquelles elles [métadonnées] sont reliées [F3]</span> | <ul><li>[ ]</li></ul> |
+| <span class="margin-left">- identifiant pérenne des données auxquelles elles [métadonnées] sont reliées [F3]</span> | &#x2610; |
 | <span class="margin-left">- description la plus complète possible des données (auteurs, intitulé, date de création, etc.) [F2]</span> | <ul><li>[ ]</li></ul> |
 | <span class="margin-left">- licence d’utilisation des données [R1.1]</span> | <ul><li>[ ]</li></ul> |
 | <span class="margin-left">- provenance des données [R1.2]</span> | <ul><li>[ ]</li></ul> |
