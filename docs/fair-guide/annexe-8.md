@@ -9,13 +9,10 @@ nav_order: 11
 {: .no_toc }
 
 **Rappel:** L’exemple de la FAIRisation qui suit se base entièrement sur le programme de la FAIRisation proposé plus haut (voir _supra_ ["Étapes de la FAIRisation"](/docs/fair-guide/fairization){:target="_blank"}). Chaque étape de la FAIRisation a été appliquée au corpus [“Comptabilités Principautés S/E”](https://cosme-2.github.io/docs/corpus/ressourcescomptables.html){:target="_blank"}. Le dépôt retenu pour le versement des données est Zenodo (administré par le CERN et soutenu par la Commission européenne et les programmes Horizon 2020 et OpenAIRE). (Sur le choix d’un dépôt voir _supra_ [Annexe 3](/docs/fair-guide/annexe-3){:target="_blank"} et [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}).
-{: .fs-2 .fw-300 }
+{: .fw-300 }
 
 À noter cependant qu’il s’agit de la FAIRisation “allégée”. De fait, le corpus “Comptabilités Principautés S/E” contient aussi bien les textes que les images; la FAIRisation qui suit ne s’applique qu’aux textes. On retient également que dans l’hypothèse du versement des données dans un dépôt institutionnel, la partie “métadonnées” des principes FAIR est garantie avant tout par le dépôt. Dans cette optique, l’auteur des données garantit essentiellement les principes FAIR liés aux données (voir _supra_ [“Qui FAIRise quoi?”](/docs/fair-guide/presentation.html#qui-fairise-quoi){:target="_blank"} et les [Annexe 1](/docs/fair-guide/annexe-1){:target="_blank"} et [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}).
-{: .fs-3 .fw-300 }
-
-À noter cependant qu’il s’agit de la FAIRisation “allégée”. De fait, le corpus “Comptabilités Principautés S/E” contient aussi bien les textes que les images; la FAIRisation qui suit ne s’applique qu’aux textes. On retient également que dans l’hypothèse du versement des données dans un dépôt institutionnel, la partie “métadonnées” des principes FAIR est garantie avant tout par le dépôt. Dans cette optique, l’auteur des données garantit essentiellement les principes FAIR liés aux données (voir _supra_ [“Qui FAIRise quoi?”](/docs/fair-guide/presentation.html#qui-fairise-quoi){:target="_blank"} et les [Annexe 1](/docs/fair-guide/annexe-1){:target="_blank"} et [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}).
-{: .fs-4 .fw-300 }
+{: .fw-300 }
 
 Le dépôt Zenodo possède le mécanisme de la gestion des versions (le versioning), ce qui permet, par la suite, de corriger, d’ajouter et de modifier les données au fur et à mesure. À noter toutefois que la mise à jour du dépôt passe ne pas par la correction des fichiers déjà déposés, mais par la création d’une nouvelle version avec son propre identifiant (DOI). Le jeu de données déposé possédera également un identifiant (DOI) “global” qui regroupe toutes les versions. Sur le versioning dans le dépôt Zenodo voir: [Zenodo - DOI versioning](https://help.zenodo.org/#versioning){:target="_blank"}.
 {: .fw-300 }
@@ -52,14 +49,17 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 ### 1. Vérification des données
 
 1.1. S’assurer que les langages et les formats/extensions utilisés pour l’encodage des données sont connus, largement utilisés et, de préférence, libres.
+
 XML est un format connu et largement utilisé.
 FAIR: I1 - rempli
 
-1.2. S’assurer que les données sont explicites et compréhensibles en l’état. Cela signifie que toutes les abréviations, tous les termes ambigus ou toutes les balises utilisées dans la description des données doivent être clairement expliqués ou avoir déjà une documentation existante. 
+1.2. S’assurer que les données sont explicites et compréhensibles en l’état. Cela signifie que toutes les abréviations, tous les termes ambigus ou toutes les balises utilisées dans la description des données doivent être clairement expliqués ou avoir déjà une documentation existante.
+
 XML TEI P5 est un standard connu qui possède une documentation.
 FAIR: I2 - rempli
 
 1.3. Créer un jeu de données du corpus. (Le plus souvent c’est un seul fichier de l’archive numérique, par exemple sous format zip).
+
 On crée un fichier de l’archive numérique zip de tous les fichiers XML.
 
 ### 2. Préparation des métadonnées
