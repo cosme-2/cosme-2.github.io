@@ -30,6 +30,17 @@ Pour d’autres exemples des dépôts des corpus médiévaux, voir:
 
 ---
 
+<details open markdown="block">
+  <summary>
+    Table des matières
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 ## Présentation des données
 _(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/docs/corpus/ressourcescomptables){:target="_blank"})_
 {: .fs-3 .fw-300 .lh-tight }
