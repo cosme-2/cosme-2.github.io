@@ -41,6 +41,8 @@ Bien qu’il revienne à chaque projet de choisir les moyens par lesquels il sou
 - Exemple de modèle des données pour un dépôt institutionnel: [Dataset upload example](https://github.com/cosme-2/FAIR-examples/tree/main/dataset-upload-example){:target="_blank"}
 - Exemple d’un dépôt réalisé: [CartulR. Répertoire des cartulaires médiévaux et modernes](https://zenodo.org/record/5752666){:target="_blank"}
 
+---
+
 ## Éléments-clés des principes FAIR
 
 Les recommandations FAIR sont composées de 15 principes (ou 27 dans la version étendue, voir [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}) qui doivent être satisfaits afin que les données soient considérées comme “_FAIRisées_”. Il est cependant possible de résumer l’ensemble de ces principes en quelques éléments-clés.
@@ -64,6 +66,8 @@ F1, F3, A1
 
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et d’attribuer par vous-même un PID pour vos données. (Pour la création manuelle d’un identifiant pérenne, vous pouvez vous appuyer, par exemple, sur les services de [OPIDoR-CNRS](https://opidor.fr/identifier)).
 
+---
+
 ### Métadonnées
 
 ##### Principes FAIR concernés
@@ -83,13 +87,15 @@ F1, F2, F3, F4, A1, I1, I2
 
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et d’attribuer par vous-même un PID pour vos données. (Pour la création manuelle d’un identifiant pérenne, vous pouvez vous appuyer, par exemple, sur les services de [OPIDoR-CNRS](https://opidor.fr/identifier)).
 
+---
+
 ### Stockage et affichage des données et des métadonnées
 
-#### Principes FAIR concernés:
+#### Principes FAIR concernés
 
 A1, A2
 
-#### Points à retenir:
+#### Points à retenir
 
 -  Les données et les métadonnées doivent être accessibles par un moyen répandu et connu du plus grand nombre. En pratique, on s’attend, dans la majorité des cas, que les données et les métadonnées soient accessibles sur Internet par l’intermédiaire d’un site web.
 
@@ -99,23 +105,15 @@ A1, A2
 
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et de maintenir un espace de stockage et d’affichage pour vos données et métadonnées.
 
-
-
-
-
-
-*************
-
-
-
+---
 
 ### Format et langage des données
 
-#### Principes FAIR concernés:
+#### Principes FAIR concernés
 
 I1
 
-#### Points à retenir:
+#### Points à retenir
 
 -  Les données doivent être encodées sous un format et avec un langage connu et largement répandu. En pratique, c’est le critère le plus facile à satisfaire; il suffit d’éviter de représenter les données sous un format qui n’a été utilisé que par trois personnes dans le monde au milieu des années 80 du siècle passé…
 
@@ -123,23 +121,15 @@ I1
 
 ***auteur des données:*** Quelle que soit l’approche que vous choisissez pour la FAIRisation de vos données (par l’intermédiaire d’un dépôt institutionnel ou par le biais d’une infrastructure personnelle), c’est à l’auteur de données qu’il appartient de s’assurer que ces données soient encodées sous un format et avec un langage appropriés.
 
-
-
-
-
-
-*************
-
-
-
+---
 
 ### Documentation des données
 
-#### Principes FAIR concernés:
+#### Principes FAIR concernés
 
 I2, R1.3
 
-#### Points à retenir:
+#### Points à retenir
 
 -  Toutes les données doivent être explicites et compréhensibles en l’état. En pratique, cela signifie que le modèle et la structure des données, les abréviations, les vocabulaires et les conventions utilisés, les éventuels écueils et les difficultés du traitement des données, tous ces éléments doivent être décrits et annotés. En résumé, cette documentation doit être suffisamment complète pour permettre à une personne tierce de comprendre et d’analyser les données présentes.
 
@@ -149,23 +139,15 @@ I2, R1.3
 
 ***auteur des données:*** Quelle que soit l’approche que vous choisissez pour la FAIRisation de vos données (par l’intermédiaire d’un dépôt institutionnel ou par le biais d’une infrastructure personnelle), c’est à l’auteur de données qu’il appartient de mettre en place une documentation appropriée.
 
-
-
-
-
-
-*************
-
-
-
+---
 
 ### Licence d’utilisation
 
-#### Principes FAIR concernés:
+#### Principes FAIR concernés
 
 R1.1
 
-#### Points à retenir:
+#### Points à retenir
 
 -  Les métadonnées doivent contenir de façon claire et explicite la licence d’utilisation associée aux données qu’elles [métadonnées] accompagnent.
 
@@ -175,24 +157,15 @@ R1.1
 
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de vous assurer que vos métadonnées contiennent, de façon claire et explicite, la licence d’utilisation appropriée.
 
-
-
-
-
-
-
-*************
-
-
-
+---
 
 ### Provenance des données
 
-#### Principes FAIR concernés:
+#### Principes FAIR concernés
 
 R1.2
 
-#### Points à retenir:
+#### Points à retenir
 
 -  Les métadonnées doivent contenir les informations sur la provenance des données. En pratique, il s’agit, le plus souvent, d’indiquer la provenance de données en tant qu’objet digital. Par exemple, les données peuvent être produites lors d’un autre projet et ensuite réutilisées, corrigées et modifiées par le présent projet. Le contenu de ce champ peut, par exemple, être le suivant: “_Les données qui concernent les VIII<sup>e</sup> et IX<sup>e</sup> siècles ont été extraites d’un jeu de donnée sous format SQL produit lors du projet “X” et corrigées ensuite par Monsieur Untel. Les données qui concernent le XII<sup>e</sup> siècle ont été extraites d’un jeu de donnée sous format XML produit lors du projet “Y” sans aucune correction supplémentaire. Toutes les autres données ont été saisies manuellement par Monsieur Unautre et Madame Uneautre sous format des documents JSON dans la base MongoDB_”. Pour plus de détail sur la notion de la provenance des données, voir par exemple: [RD-Alliance/Issues: Indicators for R1.2: (meta)data are associated with detailed provenance](https://github.com/rd-alliance/FAIR-data-maturity-model-WG/issues/28).
 
@@ -201,9 +174,6 @@ R1.2
 ***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, vous pouvez soit inclure les informations sur la provenance des données dans le champ “Description” lors de la mise en ligne, soit accompagner vos données avec un document explicatif (par exemple un fichier  “Readme”) qui contiendra ces informations.
 
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, vous pouvez soit inclure les informations sur la provenance des données dans vos métadonnées, soit accompagner vos données avec un document explicatif (par exemple un fichier “Readme”) qui contiendra ces informations.
-
-
-
 
 ---
 
