@@ -145,3 +145,40 @@ div.main-content p {
 .margin-left-indent{ 
   margin-left: 30px;
   }
+
+ /* Annexe 4 */
+ 
+ /* make a small/italic text for questions further description */
+
+.further-description{ 
+  font-size: 12px; 
+  font-style: italic; 
+  margin-top: 5px; 
+  display: block; 
+  text-align: justify;
+  }
+
+ /* make a small & italic text */
+
+.small-italic{ 
+  font-size: 12px; 
+  font-style: italic; 
+  }
+
+/* sign "+" for required fields */
+
+.required-field{ 
+  font-size: 14px; 
+  font-weight: bold;
+  color:red; 
+  }
+
+/* Annexe 5 */
+ 
+ /* header row */
+
+.header-row{ 
+  font-size: 14px; 
+  font-weight: bold;
+  background-color: grey;
+  } 
