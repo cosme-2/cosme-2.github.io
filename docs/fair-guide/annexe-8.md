@@ -83,7 +83,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 2.1.2. S’assurer que les données disposent une licence et qu’elle est clairement mentionnée dans les métadonnées. (Les données peuvent avoir tous types de licence, y compris les licences “non libres de droits”). 
 <span class="left-indent-bold">Si cela n’a pas été encore fait, on ajoute les informations sur la licence dans le brouillon des métadonnées créées précédemment.</span>
-<span class="left-indent-bold">Licence des données (corpus “Comptabilités Principautés S / E”): Open Access (Creative Commons Attribution 4.0 International)</span>
+<span class="left-indent-bold">Licence des données (corpus “Comptabilités Principautés S / E”): Open Access (Creative Commons Attribution 4.0 International).</span>
 <span class="left-indent-bold">FAIR: R1.1 - en attente.</span>
 
 2.1.3. S’assurer que les métadonnées contiennent un historique détaillé de la provenance des données. (Par exemple, les données peuvent être produites durant un autre projet et ensuite réutilisées, corrigées et modifiées par le présent projet). 
@@ -92,7 +92,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 2.1.4. S’assurer que les données utilisent des standards (s’il en existe) de présentation, d’organisation ou d’archivage communément utilisés dans le domaine scientifique auquel ces données appartiennent. (Ces informations seront par la suite utilisées dans les métadonnées).
 <span class="left-indent-bold">Si cela n’a pas été encore fait, on ajoute les informations sur les standards dans le brouillon des métadonnées créées précédemment.</span>
-<span class="left-indent-bold">Standards, conventions des données utilisées (corpus “Comptabilités Principautés S / E”): XML TEI P5</span>
+<span class="left-indent-bold">Standards, conventions des données utilisées (corpus “Comptabilités Principautés S / E”): XML TEI P5.</span>
 <span class="left-indent-bold">FAIR: R1.3 - en attente.</span>
 
 2.2. S’assurer que dans les cas où les présentes données peuvent être reliées à d’autres données (par exemple, les données textuelles peuvent être reliées aux images des manuscrits), les métadonnées contiennent des références à ces données reliées (par exemple le PID des données reliées, voir F1). Le type de lien entre les données doit être explicitement mentionné. (Par exemple, “ce texte est la transcription de ce manuscrit” ou “ce texte a été écrit par cette personne”).
