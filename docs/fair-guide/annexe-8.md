@@ -57,12 +57,12 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 1.2. S’assurer que les données sont explicites et compréhensibles en l’état. Cela signifie que toutes les abréviations, tous les termes ambigus ou toutes les balises utilisées dans la description des données doivent être clairement expliqués ou avoir déjà une documentation existante.
 
-XML TEI P5 est un standard connu qui possède une documentation.
-FAIR: I2 - rempli
+<span style="font-weight: bold; padding-left: 50px; display: block;">XML TEI P5 est un standard connu qui possède une documentation.</span>
+<span style="font-weight: bold; padding-left: 50px; display: block;">FAIR: I2 - rempli.</span>
 
 1.3. Créer un jeu de données du corpus. (Le plus souvent c’est un seul fichier de l’archive numérique, par exemple sous format zip).
 
-On crée un fichier de l’archive numérique zip de tous les fichiers XML.
+<span style="font-weight: bold; padding-left: 50px; display: block;">On crée un fichier de l’archive numérique zip de tous les fichiers XML.</span>
 
 ### 2. Préparation des métadonnées
 
