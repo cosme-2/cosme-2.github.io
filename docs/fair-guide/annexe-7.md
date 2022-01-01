@@ -55,9 +55,7 @@ F1, F3, A1
 ##### Points à retenir
 
 -  Il existe différents systèmes d’identifiants pérennes (Persistent IDentifier, PID). Parmi les plus connus, on peut citer DOI ([Digital Object Identifier](https://www.doi.org)), ARK ([Archival Resource Key](https://arks.org)) ou bien encore VIAF ([Virtual International Authority File](https://viaf.org)). Par exemple, un DOI se présente comme “_10.1000/182_”, un ARK comme “_ark:/53355/cl010066723_” et un VIAF comme “_106965171_”. Il est possible de choisir un type d’identifiant qui convient le mieux à vos données. À noter toutefois qu’un DOI reste l’identifiant générique le plus utilisé et le mieux connu et qu’il peut être aisément associé à une plus grande variété de données numériques.
-
 - Une URL (_Uniform Resource Locator_, communément appelée “_adresse web_”) peut, à certains égards, être considérée comme un PID, mais son utilisation doit être déconseillée à cause de son caractère instable. En pratique: Si vos données sont, par exemple, stockées et affichées par le biais de votre propre site internet, l’adresse web (URL) qui permet d’accéder à la page où vos données sont affichées peut, à certains égards, être considérée comme un identifiant pérenne pour les données en question. Or, cette approche est contre-indiquée car la nature même d’un site internet ne permet pas de garantir la persistance d’une adresse web à moyen et, surtout, à long terme.
-
 - Toutes les données que vous souhaitez FAIRiser doivent posséder un identifiant pérenne. Si vous optez pour la FAIRisation de votre corpus en tant que seul jeu de données c’est _<u>ce jeu de données</u>_ qui doit avoir un PID. Si vous choisissez de FAIRiser les notices de votre corpus une par une alors c’est _<u>chaque notice</u>_ qui doit détenir son propre PID.
 
 ##### Comment procéder?
@@ -76,9 +74,7 @@ F1, F2, F3, F4, A1, I1, I2
 
 -  Toutes les données que vous souhaitez FAIRiser doivent être accompagnées par des métadonnées. 
 ☞ Dans la plupart des cas, les métadonnées sont stockées dans un fichier spécifique. Ce fichier doit être encodé sous un format et selon les standards recommandés pour la représentation des métadonnées. Parmi ces formats et standards, on retient avant tout les recommandations RDF et les formats RDF/XML et JSON-LD.
-
 - Chaque fichier de métadonnées doit contenir l’identifiant pérenne (PID) des données auxquelles elles [métadonnées] sont associées.
-
 - Les métadonnées doivent contenir des informations suffisamment détaillées (auteurs, intitulé, date de création, description, mots-clés, etc.) sur les données qu’elles accompagnent. Il est possible, par exemple, de s’appuyer sur les éléments du vocabulaire _Dublin Core_ pour la construction des métadonnées.
 
 ##### Comment procéder?
