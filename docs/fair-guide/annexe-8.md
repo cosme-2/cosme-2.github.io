@@ -23,9 +23,9 @@ Le dépôt Zenodo possède le mécanisme de la gestion des versions (le versioni
 Pour d’autres exemples des dépôts des corpus médiévaux, voir:
 {: .fw-300 }
 
-- He, Sheng, Schomaker, Lambert, Samara, Petros, & Burgers, Jan. (2016). MPS Data set with images of medieval charters for handwriting-style based dating of manuscripts (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1194357  
-- Koho, Mikko, Tuominen, Jouni, Lewis, David, Ikkala, Esko, Heller, Benjamin, Thomson, Emma, … Fraas, Mitch. (2021). Mapping Manuscript Migrations Knowledge Graph (Version 2.2.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4440464 
-- Silvia Corbara, Alejandro Moreo, Fabrizio Sebastiani, & Mirko Tavoni. (2020). Two Datasets for the Computational Authorship Analysis of Medieval Latin Texts (Version 2.00) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4298503 
+- He, Sheng, Schomaker, Lambert, Samara, Petros, & Burgers, Jan. (2016). MPS Data set with images of medieval charters for handwriting-style based dating of manuscripts (Version v1.0) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.1194357](http://doi.org/10.5281/zenodo.1194357)  
+- Koho, Mikko, Tuominen, Jouni, Lewis, David, Ikkala, Esko, Heller, Benjamin, Thomson, Emma, … Fraas, Mitch. (2021). Mapping Manuscript Migrations Knowledge Graph (Version 2.2.0) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.4440464](http://doi.org/10.5281/zenodo.4440464) 
+- Silvia Corbara, Alejandro Moreo, Fabrizio Sebastiani, & Mirko Tavoni. (2020). Two Datasets for the Computational Authorship Analysis of Medieval Latin Texts (Version 2.00) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.4298503](http://doi.org/10.5281/zenodo.4298503) 
 {: .fw-300 }
 
 ---
