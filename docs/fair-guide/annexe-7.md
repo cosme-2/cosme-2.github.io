@@ -53,6 +53,7 @@ Les recommandations FAIR sont composées de 15 principes (ou 27 dans la version 
 Principes "FAIR" concernés
 {: .fs-5 .fw-500 }
 F1, F3, A1
+{: .ml-6 }
 
 Points à retenir
 {: .fs-5 .fw-500 }
