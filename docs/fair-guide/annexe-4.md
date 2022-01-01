@@ -11,9 +11,6 @@ nav_order: 7
 **Rappel:** Il est utile de rappeler que les principes FAIR ne sont que des recommandations qui visent à rendre les données scientifiques plus accessibles et plus compréhensibles et leurs sauvegarde et réutilisation plus pérennes. La _FAIRititude_ [FAIRness] complète des données n’est cependant qu’un objectif théorique difficilement atteignable (sur ce point, voir la bibliographie [[2](/docs/fair-guide/bibliography#2){:target="_blank"}], [[3](/docs/fair-guide/bibliography#3){:target="_blank"}], [[10](/docs/fair-guide/bibliography#10){:target="_blank"}], [[12](/docs/fair-guide/bibliography#12){:target="_blank"}]). Par conséquent, chaque champ des métadonnées doit être rempli le plus complètement possible, mais dans des limites raisonnables.
 {: .fw-300 }
 
-_<u>(glissez ou déroulez le tableau à gauche et à droite pour le voir en entier)</u>_
-{: .fs-3 .text-center }
-
 | Champ    				    | Qualité  							  				  | Correspondance éléments Dublin Core   | Correspondance champs Zenodo  	      |
 :---------------------------|:----------------------------------------------------|:--------------------------------------|:--------------------------------------|
 | Identifiant (PID): <span style="font-size: 12px; font-style: italic; margin-top: 5px; display: block; text-align: justify;">(L’identifiant est attribué automatiquement par le dépôt lors de la mise en ligne.)</span>  | <span class="overview-table-no">obligatoire</span>  | DC.Identifier   					  | Digital Object Identifier     		  |
@@ -34,7 +31,6 @@ _<u>(glissez ou déroulez le tableau à gauche et à droite pour le voir en enti
 | Droit d'accès et licence des données (FAIR: R1.1): <span style="font-size: 12px; font-style: italic; margin-top: 5px; display: block; text-align: justify;">(Il existe différents types du droit d’accès et de licences. Voir infra la liste des droits d’accès proposée par le dépôt Zenodo. Le nombre de différentes licences est bien trop élevé pour les mentionner toutes.)<sup>**</sup></span>  | <span class="overview-table-yes">optionnel</span>   | DC.Rights   						  |  Access right & License   |
 | Financement(s): <span style="font-size: 12px; font-style: italic; margin-top: 5px; display: block; text-align: justify;">(Il s'agit de tous les financements qui ont permis l’élaboration de ce corpus.)</span>  | <span class="overview-table-yes">optionnel</span>   |    									  |  Funding / Grants   |
 | Données liées (FAIR: I3): <span style="font-size: 12px; font-style: italic; margin-top: 5px; display: block; text-align: justify;">(Mentionner, le cas échéant, le PID, l’intitulé des données liées et le type de lien. Par exemple: <br/> “ces textes (PID, intitulé du jeu de données avec les textes) <u>est la transcription</u> de ces photos de manuscrits (PID, intitulé du jeu de données avec les images)”.)</span>  | <span class="overview-table-yes">optionnel</span>   | DC.Relation   						  |  Related/alternate identifiers   |
-
 
 __\*__ **<u>Liste des rôles des contributeurs (proposé par le dépôt Zenodo):</u>**
 {: .lh-1 .fs-2 .text-grey-dk-100 }
