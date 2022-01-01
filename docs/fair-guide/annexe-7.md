@@ -11,7 +11,7 @@ nav_order: 10
 Ce rapide tour des éléments-clés des principes FAIR et de leur mise en pratique permet de livrer, quand cela est nécessaire, une présentation succincte de FAIR.
 {: .fs-6 .fw-300 }
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Table des matières
   </summary>
