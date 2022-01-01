@@ -19,7 +19,7 @@ Cette check-list peut-être utiliser lors de l’évaluation rapide de la corres
 | Les données sont encodées dans un format et avec un langage informatique connus et répandus [I1] | <input type="checkbox" disabled /> |
 | Les données sont accompagnées par une documentation ou sont basées sur les standards déjà existants [I2, R1.3] | &#9744; |
 
-| Métadonnées  		   |			 |
+| Métadonnéess  		   |			 |
 :------------------|:-----------:|
 | Les métadonnées sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1]   | &#x274f; |
 | Les métadonnées sont encodées sous des formats et selon des normes et des standards en vigueur (par exemple RDF/XML, JSON-LD, etc.) [I1, I2, R1.3] |	&#x2751; |
