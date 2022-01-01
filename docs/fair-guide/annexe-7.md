@@ -16,7 +16,7 @@ Ce rapide tour des éléments-clés des principes FAIR et de leur mise en pratiq
     Table des matières
   </summary>
   {: .text-delta }
-- TOC
+1. TOC
 {:toc}
 </details>
 
