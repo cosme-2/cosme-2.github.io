@@ -34,13 +34,10 @@ Pour d’autres exemples des dépôts des corpus médiévaux, voir:
 _(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/docs/corpus/ressourcescomptables){:target="_blank"})_
 {: .fs-3 .fw-300 .lh-tight }
 
-**Corpus:** Comptabilités Principautés S/EE<br/>
-**Format des données:** XML (texte)
-
-**Standard des données:** XML TEI P5
-
-**Unité de données:** 25 comptes (=25 fichiers XML)
-
+**Corpus:** Comptabilités Principautés S/E<br/>
+**Format des données:** XML (texte)<br/>
+**Standard des données:** XML TEI P5<br/>
+**Unité de données:** 25 comptes (=25 fichiers XML)<br/>
 **Affichage et stockage des données:** les données sont affichées sur un site web personnel, mais sont stockées et interrogées via la base eXist-db.
 
 ---
