@@ -108,7 +108,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 3.1. Enregistrement des données et des métadonnées.
 
 3.1.1. Choisir une ressource consultable (par exemple, un dépôt de données) qui répond à tous les critères FAIR applicables aux métadonnées (F1, F3, F4, A1.1, A1.2, A2, I1, I2, I3, R1.1, R1.2, R1.3). La plupart des grands dépôts de données affichent de façon claire leur conformité aux critères FAIR. (_Pour plus de détails sur le choix de dépôt et sur les critères FAIR auxquels il doit répondre voir infra [Annexe 3](/docs/fair-guide/annexe-3){:target="_blank"}_)
-<span class="left-indent-bold">On choisit le dépôt Zenodo. Ce dépôt de données est une infrastructure officielle hébergée par le CERN et financée par l’European Commission (OpenAIRE & Horizon 2020). Ce dépôt répond à tous les critères FAIR, voir [Zenodo-FAIR Principles](https://about.zenodo.org/principles/).</span>
+<span class="left-indent-bold">On choisit le dépôt Zenodo. Ce dépôt de données est une infrastructure officielle hébergée par le CERN et financée par l’European Commission (OpenAIRE & Horizon 2020). Ce dépôt répond à tous les critères FAIR, voir [Zenodo-FAIR Principles](https://about.zenodo.org/principles/){:target="_blank"}.</span>
 {: .ml-6 }
 
 3.1.2. Enregistrer les données et les métadonnées y associées dans une ressource consultable choisie précédemment. 
