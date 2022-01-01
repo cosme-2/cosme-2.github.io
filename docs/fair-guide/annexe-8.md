@@ -50,18 +50,18 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 1.1. S’assurer que les langages et les formats/extensions utilisés pour l’encodage des données sont connus, largement utilisés et, de préférence, libres.
 
-<span style="font-weight: bold; padding-left: 50px; display: block;">XML est un format connu et largement utilisé.</span>
-<span style="font-weight: bold; padding-left: 50px; display: block;">FAIR: I1 - rempli.</span>
+<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 0.9;">XML est un format connu et largement utilisé.</span>
+<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 0.9;">FAIR: I1 - rempli.</span>
 
 
 1.2. S’assurer que les données sont explicites et compréhensibles en l’état. Cela signifie que toutes les abréviations, tous les termes ambigus ou toutes les balises utilisées dans la description des données doivent être clairement expliqués ou avoir déjà une documentation existante.
 
-<span style="font-weight: bold; padding-left: 50px; display: block;">XML TEI P5 est un standard connu qui possède une documentation.</span>
-<span style="font-weight: bold; padding-left: 50px; display: block;">FAIR: I2 - rempli.</span>
+<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 0.9;">XML TEI P5 est un standard connu qui possède une documentation.</span>
+<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 0.9;">FAIR: I2 - rempli.</span>
 
 1.3. Créer un jeu de données du corpus. (Le plus souvent c’est un seul fichier de l’archive numérique, par exemple sous format zip).
 
-<span style="font-weight: bold; padding-left: 50px; display: block;">On crée un fichier de l’archive numérique zip de tous les fichiers XML.</span>
+<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 0.9;">On crée un fichier de l’archive numérique zip de tous les fichiers XML.</span>
 
 ### 2. Préparation des métadonnées
 
