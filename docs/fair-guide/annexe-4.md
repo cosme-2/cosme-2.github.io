@@ -32,7 +32,7 @@ nav_order: 7
 | Financement(s): <span class="further-description">(Il s'agit de tous les financements qui ont permis l’élaboration de ce corpus.)</span>  |     									  |  Funding / Grants   |
 | Données liées (FAIR: I3): <span class="further-description">(Mentionner, le cas échéant, le PID, l’intitulé des données liées et le type de lien. Par exemple: <br/> “ces textes (PID, intitulé du jeu de données avec les textes) <u>est la transcription</u> de ces photos de manuscrits (PID, intitulé du jeu de données avec les images)”.)</span>  |   DC.Relation   						  |  Related/alternate identifiers   |
 
-__<sup style="color:red;">+</sup>__ - Champ obligatoire dans le dépôt de données Zenodo.
+__<sup style="color:red;">+</sup>__ Champ obligatoire dans le dépôt de données Zenodo.
 {: .lh-1 .fs-2 .text-grey-dk-100 }
 
 __\*__ **<u>Liste des rôles des contributeurs (proposé par le dépôt Zenodo):</u>**
