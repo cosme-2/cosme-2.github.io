@@ -47,6 +47,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 {: .fs-3 .fw-300 .lh-tight }
 
 ### 1. Vérification des données
+<br/>
 
 1.1. S’assurer que les langages et les formats/extensions utilisés pour l’encodage des données sont connus, largement utilisés et, de préférence, libres.
 
