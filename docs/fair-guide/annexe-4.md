@@ -54,7 +54,7 @@ __\*__ **<u>Liste des rôles des contributeurs (proposé par le dépôt Zenodo):
 - Sponsor
 - Supervisor
 - Work package leader
-{: .lh-1 .ml-1 .fs-2 .text-grey-dk-100 }
+{: .lh-1 .ml-2 .fs-2 .text-grey-dk-100 }
 
 __\*\*__ **<u>Les différents types des droits d’accès (proposé par le dépôt Zenodo):</u>**
 {: .lh-1 .fs-2 .text-grey-dk-100 }
@@ -62,7 +62,7 @@ __\*\*__ **<u>Les différents types des droits d’accès (proposé par le dép�
 - Embargoed Access 
 - Restricted Access 
 - Closed Access 
-{: .lh-1 .ml-1 .fs-2 .text-grey-dk-100 }
+{: .lh-1 .ml-2 .fs-2 .text-grey-dk-100 }
 
 *************
 
