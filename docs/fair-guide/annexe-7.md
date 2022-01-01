@@ -9,7 +9,7 @@ nav_order: 10
 {: .no_toc }
 
 Ce rapide tour des éléments-clés des principes FAIR et de leur mise en pratique permet de livrer, quand cela est nécessaire, une présentation succincte de FAIR.
-{: .fw-300 }
+{: .fs-6 .fw-300 }
 
 <details open markdown="block">
   <summary>
