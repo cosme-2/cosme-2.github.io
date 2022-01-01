@@ -46,24 +46,19 @@ _(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/doc
 _(voir supra le programme complet et toutes les étapes de la FAIRisation [“Étapes de la FAIRisation”](/docs/fair-guide/fairization){:target="_blank"})_
 {: .fs-3 .fw-300 .lh-tight }
 
-### 1. Vérification des donnéesz
+### 1. Vérification des données
 {: .mb-3 }
 
 1.1. S’assurer que les langages et les formats/extensions utilisés pour l’encodage des données sont connus, largement utilisés et, de préférence, libres.
-{: .mb-0 }
-
 <span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1.1;">XML est un format connu et largement utilisé.</span>
 <span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1.1;">FAIR: I1 - rempli.</span>
-
 
 1.2. S’assurer que les données sont explicites et compréhensibles en l’état. Cela signifie que toutes les abréviations, tous les termes ambigus ou toutes les balises utilisées dans la description des données doivent être clairement expliqués ou avoir déjà une documentation existante.
 <span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1.2;">XML TEI P5 est un standard connu qui possède une documentation.</span>
 <span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1.2;">FAIR: I2 - rempli.</span>
 
 1.3. Créer un jeu de données du corpus. (Le plus souvent c’est un seul fichier de l’archive numérique, par exemple sous format zip).
-
 <span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1;">On crée un fichier de l’archive numérique zip de tous les fichiers XML.</span>
-{: .mt-0 }
 
 ### 2. Préparation des métadonnées
 {: .mb-3 }
@@ -73,7 +68,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
   2.1.1. S’assurer que les métadonnées contiennent le plus de détails possible. (Se référer au modèle des métadonnées détaillées, voir Annexe 5) 
 <span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1;">Il n’existe aucune métadonnée pour le jeu de données du corpus. On écrit (pour l’instant dans n’importe quel fichier texte) les métadonnées en se basant sur le modèle de l’Annexe 4. Ces métadonnées seront par la suite utilisées lors de la mise des données dans un dépôt.</span> 
 <span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1;">FAIR: F2 - en attente.</span>
-{: .mt-0 }
+
 
 
 
