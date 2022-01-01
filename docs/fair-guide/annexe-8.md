@@ -65,6 +65,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 <span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1;">On crée un fichier de l’archive numérique zip de tous les fichiers XML.</span>
 
 ### 2. Préparation des métadonnées
+{: .mb-2 .d-block }
 
 2.1. Préparation des métadonnées complètes.
 
