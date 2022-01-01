@@ -30,6 +30,11 @@ Cette check-list peut-être utiliser lors de l’évaluation rapide de la corres
 | <span class="margin-left">- provenance des données [R1.2]</span> | <ul><li>[ ]</li></ul> |
 | <span class="margin-left">- liens, le cas échéant, vers les autres données associées [I3]</span> | <ul><li>[ ]</li></ul> |
 
+- []
+- []
+
+- [ ]
+- [ ]
 
 ******************
 
