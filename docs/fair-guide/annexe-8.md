@@ -66,8 +66,8 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 2.1. Préparation des métadonnées complètes.
 
   2.1.1. S’assurer que les métadonnées contiennent le plus de détails possible. (Se référer au modèle des métadonnées détaillées, voir Annexe 5) 
-<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1;">Il n’existe aucune métadonnée pour le jeu de données du corpus. On écrit (pour l’instant dans n’importe quel fichier texte) les métadonnées en se basant sur le modèle de l’Annexe 4. Ces métadonnées seront par la suite utilisées lors de la mise des données dans un dépôt.</span> 
-<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1;">FAIR: F2 - en attente.</span>
+<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1.2;">Il n’existe aucune métadonnée pour le jeu de données du corpus. On écrit (pour l’instant dans n’importe quel fichier texte) les métadonnées en se basant sur le modèle de l’Annexe 4. Ces métadonnées seront par la suite utilisées lors de la mise des données dans un dépôt.</span> 
+<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1.2;">FAIR: F2 - en attente.</span>
 
 
 
