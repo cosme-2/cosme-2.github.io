@@ -36,6 +36,19 @@ Cette check-list peut-être utiliser lors de l’évaluation rapide de la corres
 - [ ]
 - [ ]
 
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
+
 ******************
 
 **Données**
