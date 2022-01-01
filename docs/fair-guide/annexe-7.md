@@ -132,7 +132,6 @@ I2, R1.3
 #### Points à retenir
 
 -  Toutes les données doivent être explicites et compréhensibles en l’état. En pratique, cela signifie que le modèle et la structure des données, les abréviations, les vocabulaires et les conventions utilisés, les éventuels écueils et les difficultés du traitement des données, tous ces éléments doivent être décrits et annotés. En résumé, cette documentation doit être suffisamment complète pour permettre à une personne tierce de comprendre et d’analyser les données présentes.
-
 - Si vous vous appuyez sur les modèles des données déjà décrits et documentés, par exemple les recommandations TEI P5 pour le langage XML, il suffit, dans la plupart des cas, de renvoyer vers cette documentation existante.
 
 #### Comment procéder?
