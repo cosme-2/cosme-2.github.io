@@ -48,11 +48,11 @@ Les recommandations FAIR sont composées de 15 principes (ou 27 dans la version 
 
 ### Identifiant pérenne
 
-#### Principes FAIR concernés:
+##### Principes FAIR concernés
 
 F1, F3, A1
 
-#### Points à retenir:
+##### Points à retenir
 
 -  Il existe différents systèmes d’identifiants pérennes (Persistent IDentifier, PID). Parmi les plus connus, on peut citer DOI ([Digital Object Identifier](https://www.doi.org)), ARK ([Archival Resource Key](https://arks.org)) ou bien encore VIAF ([Virtual International Authority File](https://viaf.org)). Par exemple, un DOI se présente comme “_10.1000/182_”, un ARK comme “_ark:/53355/cl010066723_” et un VIAF comme “_106965171_”. Il est possible de choisir un type d’identifiant qui convient le mieux à vos données. À noter toutefois qu’un DOI reste l’identifiant générique le plus utilisé et le mieux connu et qu’il peut être aisément associé à une plus grande variété de données numériques.
 
@@ -60,27 +60,19 @@ F1, F3, A1
 
 - Toutes les données que vous souhaitez FAIRiser doivent posséder un identifiant pérenne. Si vous optez pour la FAIRisation de votre corpus en tant que seul jeu de données c’est _<u>ce jeu de données</u>_ qui doit avoir un PID. Si vous choisissez de FAIRiser les notices de votre corpus une par une alors c’est _<u>chaque notice</u>_ qui doit détenir son propre PID.
 
-#### Comment procéder?
+##### Comment procéder?
 
 ***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt se charge automatiquement de la création et de l’attribution d’un PID pour vos données.
 
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et d’attribuer par vous-même un PID pour vos données. (Pour la création manuelle d’un identifiant pérenne, vous pouvez vous appuyer, par exemple, sur les services de [OPIDoR-CNRS](https://opidor.fr/identifier)).
 
-
-
-
-*************
-
-
-
-
 ### Métadonnées
 
-#### Principes FAIR concernés:
+##### Principes FAIR concernés
 
 F1, F2, F3, F4, A1, I1, I2
 
-#### Points à retenir:
+##### Points à retenir
 
 -  Toutes les données que vous souhaitez FAIRiser doivent être accompagnées par des métadonnées. 
 ☞ Dans la plupart des cas, les métadonnées sont stockées dans un fichier spécifique. Ce fichier doit être encodé sous un format et selon les standards recommandés pour la représentation des métadonnées. Parmi ces formats et standards, on retient avant tout les recommandations RDF et les formats RDF/XML et JSON-LD.
@@ -89,20 +81,11 @@ F1, F2, F3, F4, A1, I1, I2
 
 - Les métadonnées doivent contenir des informations suffisamment détaillées (auteurs, intitulé, date de création, description, mots-clés, etc.) sur les données qu’elles accompagnent. Il est possible, par exemple, de s’appuyer sur les éléments du vocabulaire _Dublin Core_ pour la construction des métadonnées.
 
-#### Comment procéder?
+##### Comment procéder?
 
 ***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt se charge automatiquement de la création et de l’attribution d’un PID pour vos données.
 
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et d’attribuer par vous-même un PID pour vos données. (Pour la création manuelle d’un identifiant pérenne, vous pouvez vous appuyer, par exemple, sur les services de [OPIDoR-CNRS](https://opidor.fr/identifier)).
-
-
-
-
-
-*************
-
-
-
 
 ### Stockage et affichage des données et des métadonnées
 
