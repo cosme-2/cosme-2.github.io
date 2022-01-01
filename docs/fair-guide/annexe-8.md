@@ -8,30 +8,30 @@ nav_order: 11
 # Annexe 8. Exemple de la FAIRisation par l’intermédiaire du versement des données dans un dépôt
 {: .no_toc }
 
-**Rappel:** L’exemple de la FAIRisation qui suit se base entièrement sur le programme de la FAIRisation proposé plus haut (voir _supra_ ["Étapes de la FAIRisation"](/docs/fair-guide/fairization){:target="_blank"}). Chaque étape de la FAIRisation a été appliquée au corpus [“Comptabilités Principautés S/E”](https://cosme-2.github.io/docs/corpus/ressourcescomptables.html). Le dépôt retenu pour le versement des données est Zenodo (administré par le CERN et soutenu par la Commission européenne et les programmes Horizon 2020 et OpenAIRE). (Sur le choix d’un dépôt voir _supra_ [Annexe 3](/docs/fair-guide/annexe-3){:target="_blank"} et [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}).
+**Rappel:** L’exemple de la FAIRisation qui suit se base entièrement sur le programme de la FAIRisation proposé plus haut (voir _supra_ ["Étapes de la FAIRisation"](/docs/fair-guide/fairization){:target="_blank"}). Chaque étape de la FAIRisation a été appliquée au corpus [“Comptabilités Principautés S/E”](https://cosme-2.github.io/docs/corpus/ressourcescomptables.html){:target="_blank"}. Le dépôt retenu pour le versement des données est Zenodo (administré par le CERN et soutenu par la Commission européenne et les programmes Horizon 2020 et OpenAIRE). (Sur le choix d’un dépôt voir _supra_ [Annexe 3](/docs/fair-guide/annexe-3){:target="_blank"} et [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}).
 {: .fw-300 }
 
 À noter cependant qu’il s’agit de la FAIRisation “allégée”. De fait, le corpus “Comptabilités Principautés S/E” contient aussi bien les textes que les images; la FAIRisation qui suit ne s’applique qu’aux textes. On retient également que dans l’hypothèse du versement des données dans un dépôt institutionnel, la partie “métadonnées” des principes FAIR est garantie avant tout par le dépôt. Dans cette optique, l’auteur des données garantit essentiellement les principes FAIR liés aux données (voir _supra_ [“Qui FAIRise quoi?”](/docs/fair-guide/presentation.html#qui-fairise-quoi){:target="_blank"} et les [Annexe 1](/docs/fair-guide/annexe-1){:target="_blank"} et [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}).
 {: .fw-300 }
 
-Le dépôt Zenodo possède le mécanisme de la gestion des versions (le versioning), ce qui permet, par la suite, de corriger, d’ajouter et de modifier les données au fur et à mesure. À noter toutefois que la mise à jour du dépôt passe ne pas par la correction des fichiers déjà déposés, mais par la création d’une nouvelle version avec son propre identifiant (DOI). Le jeu de données déposé possédera également un identifiant (DOI) “global” qui regroupe toutes les versions. Sur le versioning dans le dépôt Zenodo voir: [Zenodo - DOI versioning](https://help.zenodo.org/#versioning).
+Le dépôt Zenodo possède le mécanisme de la gestion des versions (le versioning), ce qui permet, par la suite, de corriger, d’ajouter et de modifier les données au fur et à mesure. À noter toutefois que la mise à jour du dépôt passe ne pas par la correction des fichiers déjà déposés, mais par la création d’une nouvelle version avec son propre identifiant (DOI). Le jeu de données déposé possédera également un identifiant (DOI) “global” qui regroupe toutes les versions. Sur le versioning dans le dépôt Zenodo voir: [Zenodo - DOI versioning](https://help.zenodo.org/#versioning){:target="_blank"}.
 {: .fw-300 }
 
-**Pour le dépôt qui résulte de cette FAIRisation voir: [Ressources comptables en Dauphiné, Provence, Savoie et Venaissin (XIII<sup>e</sup> - XV<sup>e</sup> siècle)](https://zenodo.org/record/4919334).**
+**Pour le dépôt qui résulte de cette FAIRisation voir: [https://zenodo.org/record/4919334](https://zenodo.org/record/4919334){:target="_blank"}.**
 {: .fw-300 }
 
 Pour d’autres exemples des dépôts des corpus médiévaux, voir:
 {: .fw-300 }
 
-- He, Sheng, Schomaker, Lambert, Samara, Petros, & Burgers, Jan. (2016). MPS Data set with images of medieval charters for handwriting-style based dating of manuscripts (Version v1.0) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.1194357](http://doi.org/10.5281/zenodo.1194357)  
-- Koho, Mikko, Tuominen, Jouni, Lewis, David, Ikkala, Esko, Heller, Benjamin, Thomson, Emma, … Fraas, Mitch. (2021). Mapping Manuscript Migrations Knowledge Graph (Version 2.2.0) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.4440464](http://doi.org/10.5281/zenodo.4440464) 
-- Silvia Corbara, Alejandro Moreo, Fabrizio Sebastiani, & Mirko Tavoni. (2020). Two Datasets for the Computational Authorship Analysis of Medieval Latin Texts (Version 2.00) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.4298503](http://doi.org/10.5281/zenodo.4298503) 
+- He, Sheng, Schomaker, Lambert, Samara, Petros, & Burgers, Jan. (2016). MPS Data set with images of medieval charters for handwriting-style based dating of manuscripts (Version v1.0) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.1194357](http://doi.org/10.5281/zenodo.1194357){:target="_blank"}  
+- Koho, Mikko, Tuominen, Jouni, Lewis, David, Ikkala, Esko, Heller, Benjamin, Thomson, Emma, … Fraas, Mitch. (2021). Mapping Manuscript Migrations Knowledge Graph (Version 2.2.0) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.4440464](http://doi.org/10.5281/zenodo.4440464){:target="_blank"}
+- Silvia Corbara, Alejandro Moreo, Fabrizio Sebastiani, & Mirko Tavoni. (2020). Two Datasets for the Computational Authorship Analysis of Medieval Latin Texts (Version 2.00) [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.4298503](http://doi.org/10.5281/zenodo.4298503){:target="_blank"}
 {: .fw-300 }
 
 ---
 
 ## Présentation des données
-_(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/docs/corpus/ressourcescomptables))_
+_(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/docs/corpus/ressourcescomptables){:target="_blank"})_
 {: .fs-3 .fw-300 .lh-tight }
 
 **Corpus:** Comptabilités Principautés S/E
@@ -47,7 +47,7 @@ _(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/doc
 ---
 
 ## FAIRisation des données
-_(voir supra le programme complet et toutes les étapes de la FAIRisation [“Étapes de la FAIRisation”](/docs/fair-guide/fairization)_
+_(voir supra le programme complet et toutes les étapes de la FAIRisation [“Étapes de la FAIRisation”](/docs/fair-guide/fairization){:target="_blank"}_
 {: .fs-3 .fw-300 .lh-tight }
 
 1. Vérification des données
