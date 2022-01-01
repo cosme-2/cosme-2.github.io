@@ -11,70 +11,24 @@ nav_order: 9
 Cette check-list peut-être utiliser lors de l’évaluation rapide de la correspondance des données d’un corpus aux principes FAIR.
 {: .fw-300 }
 
-| Données  		   |			 |
+| Données  		   			 |
 :------------------|:-----------:|
-| Les données possèdent un identifiant pérenne (par exemple DOI, ARK, etc.) [F1]   | ☐ |
-| Les données sont accompagnées par des métadonnées [F2] | &#x25a2; |
-| Les données sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1] |	 :white_large_square |
+| Les données possèdent un identifiant pérenne (par exemple DOI, ARK, etc.) [F1]   | <input type="checkbox" disabled /> |
+| Les données sont accompagnées par des métadonnées [F2] | <input type="checkbox" disabled /> |
+| Les données sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1] |	 <input type="checkbox" disabled /> |
 | Les données sont encodées dans un format et avec un langage informatique connus et répandus [I1] | <input type="checkbox" disabled /> |
-| Les données sont accompagnées par une documentation ou sont basées sur les standards déjà existants [I2, R1.3] | &#9744; |
+| Les données sont accompagnées par une documentation ou sont basées sur les standards déjà existants [I2, R1.3] | <input type="checkbox" disabled /> |
 
 | Métadonnéess  		   |			 |
 :------------------|:-----------:|
-| Les métadonnées sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1]   | &#x274f; |
-| Les métadonnées sont encodées sous des formats et selon des normes et des standards en vigueur (par exemple RDF/XML, JSON-LD, etc.) [I1, I2, R1.3] |	&#x2751; |
+| Les métadonnées sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1]   | <input type="checkbox" disabled /> |
+| Les métadonnées sont encodées sous des formats et selon des normes et des standards en vigueur (par exemple RDF/XML, JSON-LD, etc.) [I1, I2, R1.3] |	<input type="checkbox" disabled /> |
 | Les métadonnées qui accompagnent les données contiennent, au minimum, les éléments suivants: | |
-| <span class="margin-left">- identifiant pérenne des données auxquelles elles [métadonnées] sont reliées [F3]</span> | &#x2610; |
-| <span class="margin-left">- description la plus complète possible des données (auteurs, intitulé, date de création, etc.) [F2]</span> | <ul><li>[ ]</li></ul> |
-| <span class="margin-left">- licence d’utilisation des données [R1.1]</span> | <ul><li>[ ]</li></ul> |
-| <span class="margin-left">- provenance des données [R1.2]</span> | <ul><li>[ ]</li></ul> |
-| <span class="margin-left">- liens, le cas échéant, vers les autres données associées [I3]</span> | <ul><li>[ ]</li></ul> |
-
-- []
-- []
-
-- [ ]
-- [ ]
-
-- [ ] sdgfsddf
-- [ ] qerrrr
-
-### Solar System Exploration, 1950s – 1960s
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
-
-
-| Task           | Time required | Assigned to   | Current Status | Finished | 
-|----------------|---------------|---------------|----------------|-----------|
-| Calendar Cache | > 5 hours  |  | in progress | - [x] ok?
-| Object Cache   | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
-| Object Cache   | > 5 hours  |  | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
-| Object Cache   | > 5 hours  |  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
-
-
-- [x] works
-- [x] works too
-
-******************
-
-**Données**
-{: .lh-1 .fs-4 .text-grey-dk-100 }
-
-Les données possèdent un identifiant pérenne (par exemple DOI, ARK, etc.) [F1]	 [ ]
-Les données sont accompagnées par des métadonnées [F2]	 <ul><li>[ ]</li></ul>
-Les données sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1]
-Les données sont encodées dans un format et avec un langage informatique connus et répandus [I1]
-Les données sont accompagnées par une documentation  ou sont basées sur les standards déjà existants [I2, R1.3]
-
-******************
+| <span class="margin-left">- identifiant pérenne des données auxquelles elles [métadonnées] sont reliées [F3]</span> | <input type="checkbox" disabled /> |
+| <span class="margin-left">- description la plus complète possible des données (auteurs, intitulé, date de création, etc.) [F2]</span> | <input type="checkbox" disabled /> |
+| <span class="margin-left">- licence d’utilisation des données [R1.1]</span> | <input type="checkbox" disabled /> |
+| <span class="margin-left">- provenance des données [R1.2]</span> | <input type="checkbox" disabled /> |
+| <span class="margin-left">- liens, le cas échéant, vers les autres données associées [I3]</span> | <input type="checkbox" disabled /> |
 
 ---
 
