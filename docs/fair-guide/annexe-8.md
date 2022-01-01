@@ -61,24 +61,25 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 {: .mb-3 }
 
 1.1. S’assurer que les langages et les formats/extensions utilisés pour l’encodage des données sont connus, largement utilisés et, de préférence, libres.
-<span style="font-weight: bold; padding-left: 70px; display: block; line-height: 1.3;">XML est un format connu et largement utilisé.</span>
-<span style="font-weight: bold; padding-left: 70px; display: block; line-height: 1.3;">FAIR: I1 - rempli.</span>
+<span class="left-indent-bold">XML est un format connu et largement utilisé.</span>
+<span class="left-indent-bold">FAIR: I1 - rempli.</span>
 
 1.2. S’assurer que les données sont explicites et compréhensibles en l’état. Cela signifie que toutes les abréviations, tous les termes ambigus ou toutes les balises utilisées dans la description des données doivent être clairement expliqués ou avoir déjà une documentation existante.
-<span style="font-weight: bold; padding-left: 70px; display: block; line-height: 1.3;">XML TEI P5 est un standard connu qui possède une documentation.</span>
-<span style="font-weight: bold; padding-left: 70px; display: block; line-height: 1.3;">FAIR: I2 - rempli.</span>
+<span class="left-indent-bold">XML TEI P5 est un standard connu qui possède une documentation.</span>
+<span class="left-indent-bold">FAIR: I2 - rempli.</span>
 
 1.3. Créer un jeu de données du corpus. (Le plus souvent c’est un seul fichier de l’archive numérique, par exemple sous format zip).
-<span style="font-weight: bold; padding-left: 70px; display: block; line-height: 1.3;">On crée un fichier de l’archive numérique zip de tous les fichiers XML.</span>
+<span class="left-indent-bold">On crée un fichier de l’archive numérique zip de tous les fichiers XML.</span>
 
 ### 2. Préparation des métadonnées
 {: .mb-3 }
 
 2.1. Préparation des métadonnées complètes.
 
-<span style="padding-left: 30px; display: block;">2.1.1. S’assurer que les métadonnées contiennent le plus de détails possible. (Se référer au modèle des métadonnées détaillées, voir [Annexe 4](/docs/fair-guide/annexe-4){:target="_blank"})</span>
-<span style="font-weight: bold; padding-left: 70px; display: block; line-height: 1.3;">Il n’existe aucune métadonnée pour le jeu de données du corpus. On écrit (pour l’instant dans n’importe quel fichier texte) les métadonnées en se basant sur le modèle de l’[Annexe 4](/docs/fair-guide/annexe-4){:target="_blank"}. Ces métadonnées seront par la suite utilisées lors de la mise des données dans un dépôt.</span> 
-<span style="font-weight: bold; padding-left: 70px; display: block; line-height: 1.3;">FAIR: F2 - en attente.</span>
+2.1.1. S’assurer que les métadonnées contiennent le plus de détails possible. (Se référer au modèle des métadonnées détaillées, voir [Annexe 4](/docs/fair-guide/annexe-4){:target="_blank"})
+{: .ml-6 }
+<span class="left-indent-bold">Il n’existe aucune métadonnée pour le jeu de données du corpus. On écrit (pour l’instant dans n’importe quel fichier texte) les métadonnées en se basant sur le modèle de l’[Annexe 4](/docs/fair-guide/annexe-4){:target="_blank"}. Ces métadonnées seront par la suite utilisées lors de la mise des données dans un dépôt.</span> 
+<span class="left-indent-bold">FAIR: F2 - en attente.</span>
 
 
 
@@ -92,28 +93,6 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 
 
-************************
-
-
-
-
-
-
-**Rappel:** Il est utile de rappeler que les principes FAIR ne sont que des recommandations qui visent à rendre les données scientifiques plus accessibles et plus compréhensibles et leurs sauvegarde et réutilisation plus pérennes. La _FAIRititude_ [FAIRness] complète des données n’est cependant qu’un objectif théorique difficilement atteignable (sur ce point, voir la bibliographie [[2](/docs/fair-guide/bibliography#2){:target="_blank"}], [[3](/docs/fair-guide/bibliography#3){:target="_blank"}], [[10](/docs/fair-guide/bibliography#10){:target="_blank"}], [[12](/docs/fair-guide/bibliography#12){:target="_blank"}]). Par conséquent, chaque champ des métadonnées doit être rempli le plus complètement possible, mais dans des limites raisonnables.
-{: .fw-300 }
-
-<details open markdown="block">
-  <summary>
-    Table des matières
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
-
-## FAIR par la pratique
 
 
 
