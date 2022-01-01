@@ -36,13 +36,10 @@ Les principes FAIR indiquent seulement que le FDO doit être “_une entité sig
 
 Bien qu’il revienne à chaque projet de choisir les moyens par lesquels il souhaite atteindre les différents principes FAIR, **il est généralement possible d’envisager deux approches: la mise des données dans un dépôt de données institutionnel ou l’élaboration d’une infrastructure personnelle de gestion des données**. Si, pour une raison ou une autre, vous voulez garder la main sur la totalité du processus et si vous avez la possibilité de faire accomplir les tâches techniques lourdes par du personnel compétent vous pouvez opter pour l’infrastructure personnelle, dans tous les autres cas, il vaut mieux se tourner vers un dépôt des données.
 
-Pour plus de détails sur les différentes approches de la FAIRisation, voir: [Écosystème FAIR](/docs/fair-guide/presentation.html#écosystème-fair){:target="_blank"}
-
-Exemple comment un dépôt peut remplir les critères FAIR: [Zenodo: FAIR Principles](https://about.zenodo.org/principles/){:target="_blank"}
-
-Exemple de modèle des données pour un dépôt institutionnel: [Dataset upload example](https://github.com/cosme-2/FAIR-examples/tree/main/dataset-upload-example){:target="_blank"}
-
-Exemple d’un dépôt réalisé: [CartulR. Répertoire des cartulaires médiévaux et modernes](https://zenodo.org/record/5752666){:target="_blank"}
+- Pour plus de détails sur les différentes approches de la FAIRisation, voir: [Écosystème FAIR](/docs/fair-guide/presentation.html#écosystème-fair){:target="_blank"}
+- Exemple comment un dépôt peut remplir les critères FAIR: [Zenodo: FAIR Principles](https://about.zenodo.org/principles/){:target="_blank"}
+- Exemple de modèle des données pour un dépôt institutionnel: [Dataset upload example](https://github.com/cosme-2/FAIR-examples/tree/main/dataset-upload-example){:target="_blank"}
+- Exemple d’un dépôt réalisé: [CartulR. Répertoire des cartulaires médiévaux et modernes](https://zenodo.org/record/5752666){:target="_blank"}
 
 ## Éléments-clés des principes FAIR
 
