@@ -13,11 +13,11 @@ Cette check-list peut-être utiliser lors de l’évaluation rapide de la corres
 
 | Données  		   |			 |
 :------------------|:-----------:|
-| Les données possèdent un identifiant pérenne (par exemple DOI, ARK, etc.) [F1]   | [] |
-| Les données sont accompagnées par des métadonnées [F2] |	 <ul><li>[]</li></ul> |
-| Les données sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1] |	 <ul><li>[ ]</li></ul> |
-| Les données sont encodées dans un format et avec un langage informatique connus et répandus [I1] |	 <ul><li>[ ]</li></ul> |
-| Les données sont accompagnées par une documentation ou sont basées sur les standards déjà existants [I2, R1.3] |	 <ul><li>[ ]</li></ul> |
+| Les données possèdent un identifiant pérenne (par exemple DOI, ARK, etc.) [F1]   | ☐ |
+| Les données sont accompagnées par des métadonnées [F2] | ☐ |
+| Les données sont indexées et accessibles (par exemple par l’intermédiaire d’un site internet) [F4, A1] |	 ☐ |
+| Les données sont encodées dans un format et avec un langage informatique connus et répandus [I1] | ☐ |
+| Les données sont accompagnées par une documentation ou sont basées sur les standards déjà existants [I2, R1.3] | ☐ |
 
 | Métadonnées  		   |			 |
 :------------------|:-----------:|
