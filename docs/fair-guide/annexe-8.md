@@ -46,7 +46,7 @@ _(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/doc
 _(voir supra le programme complet et toutes les étapes de la FAIRisation [“Étapes de la FAIRisation”](/docs/fair-guide/fairization){:target="_blank"})_
 {: .fs-3 .fw-300 .lh-tight }
 
-### 1. Vérification des donnéesa
+### 1. Vérification des données
 {: .mb-3 }
 
 1.1. S’assurer que les langages et les formats/extensions utilisés pour l’encodage des données sont connus, largement utilisés et, de préférence, libres.
@@ -66,8 +66,8 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 2.1. Préparation des métadonnées complètes.
 
   2.1.1. S’assurer que les métadonnées contiennent le plus de détails possible. (Se référer au modèle des métadonnées détaillées, voir Annexe 5) 
-<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1.3;">Il n’existe aucune métadonnée pour le jeu de données du corpus. On écrit (pour l’instant dans n’importe quel fichier texte) les métadonnées en se basant sur le modèle de l’Annexe 4. Ces métadonnées seront par la suite utilisées lors de la mise des données dans un dépôt.</span> 
-<span style="font-weight: bold; padding-left: 50px; display: block; line-height: 1.3;">FAIR: F2 - en attente.</span>
+<span style="font-weight: bold; padding-left: 50px; display: block;">Il n’existe aucune métadonnée pour le jeu de données du corpus. On écrit (pour l’instant dans n’importe quel fichier texte) les métadonnées en se basant sur le modèle de l’Annexe 4. Ces métadonnées seront par la suite utilisées lors de la mise des données dans un dépôt.</span> 
+<span style="font-weight: bold; padding-left: 50px; display: block;">FAIR: F2 - en attente.</span>
 
 
 
