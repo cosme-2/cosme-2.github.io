@@ -31,7 +31,7 @@ Pour d’autres exemples des dépôts des corpus médiévaux, voir:
 ---
 
 ## Présentation des données
-(voir fiche détaillée du corpus “Comptabilités Principautés S/E”)
+(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/docs/corpus/ressourcescomptables))
 
 **Corpus:** Comptabilités Principautés S/E 
 **Format des données:** XML (texte)
