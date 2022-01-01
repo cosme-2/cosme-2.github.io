@@ -8,8 +8,19 @@ nav_order: 10
 # Annexe 7. FAIR par la pratique & Éléments-clés des principes FAIR
 {: .no_toc }
 
-Ce rapide tour des éléments-clés des principes FAIR et de leur mise en pratique permet de livrer, quand cela est nécessaire, une présentation succincte de l’initiative FAIR.
+Ce rapide tour des éléments-clés des principes FAIR et de leur mise en pratique permet de livrer, quand cela est nécessaire, une présentation succincte de FAIR.
 {: .fw-300 }
+
+<details open markdown="block">
+  <summary>
+    Table des matières
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 
 ## FAIR par la pratique
 
