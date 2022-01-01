@@ -30,17 +30,18 @@ Pour d’autres exemples des dépôts des corpus médiévaux, voir:
 
 ---
 
-Présentation des données
-(voir fiche détaillée du corpus “Comptabilités Principautés S / E”)
+## Présentation des données
+(voir fiche détaillée du corpus “Comptabilités Principautés S/E”)
 
-Corpus: Comptabilités Principautés S / E 
-Format des données: XML (texte)
-Standard des données: XML TEI P5
-Unité de données: 25 comptes (=25 fichiers XML)
-Affichage et stockage des données: les données sont affichées sur un site web personnel, mais sont stockées et interrogées via la base eXist-db.
+**Corpus:** Comptabilités Principautés S/E 
+**Format des données:** XML (texte)
+**Standard des données:** XML TEI P5
+**Unité de données:** 25 comptes (=25 fichiers XML)
+**Affichage et stockage des données:** les données sont affichées sur un site web personnel, mais sont stockées et interrogées via la base eXist-db.
 
+---
 
-FAIRisation des données
+## FAIRisation des données
 (voir supra le programme complet et toutes les étapes de la FAIRisation “2. Étapes de la FAIRisation”)
 
 1. Vérification des données
