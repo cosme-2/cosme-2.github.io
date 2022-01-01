@@ -11,7 +11,7 @@ nav_order: 9
 Cette check-list peut-être utiliser lors de l’évaluation rapide de la correspondance des données d’un corpus aux principes FAIR.
 {: .fw-300 }
 
-| Données  		   			 |
+| Données  		   |			 |
 :------------------|:-----------:|
 | Les données possèdent un identifiant pérenne (par exemple DOI, ARK, etc.) [F1]   | <input type="checkbox" disabled /> |
 | Les données sont accompagnées par des métadonnées [F2] | <input type="checkbox" disabled /> |
