@@ -34,8 +34,7 @@ Pour d’autres exemples des dépôts des corpus médiévaux, voir:
 _(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/docs/corpus/ressourcescomptables){:target="_blank"})_
 {: .fs-3 .fw-300 .lh-tight }
 
-**Corpus:** Comptabilités Principautés S/E
-
+**Corpus:** Comptabilités Principautés S/EE<br/>
 **Format des données:** XML (texte)
 
 **Standard des données:** XML TEI P5
