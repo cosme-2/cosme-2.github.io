@@ -61,6 +61,7 @@ __\*__ **<u>Liste des rôles des contributeurs (proposé par le dépôt Zenodo):
 {: .lh-1 .fs-2 .text-grey-dk-100 }
 
 __\*\*__ **<u>Les différents types des droits d’accès (proposé par le dépôt Zenodo):</u>**
+{: .lh-1 .fs-2 .text-grey-dk-100 }
 - Open Access 
 - Embargoed Access 
 - Restricted Access 
