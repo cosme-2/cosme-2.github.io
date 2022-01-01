@@ -50,7 +50,7 @@ Les recommandations FAIR sont composées de 15 principes (ou 27 dans la version 
 
 ### Identifiant pérenne
 
-#### Principes FAIR concernés
+#### Principes "FAIR" concernés
 
 F1, F3, A1
 
@@ -70,7 +70,7 @@ F1, F3, A1
 
 ### Métadonnées
 
-#### Principes FAIR concernés
+#### Principes "FAIR" concernés
 
 F1, F2, F3, F4, A1, I1, I2
 
@@ -91,7 +91,7 @@ F1, F2, F3, F4, A1, I1, I2
 
 ### Stockage et affichage des données et des métadonnées
 
-#### Principes FAIR concernés
+#### Principes "FAIR" concernés
 
 A1, A2
 
@@ -109,7 +109,7 @@ A1, A2
 
 ### Format et langage des données
 
-#### Principes FAIR concernés
+#### Principes "FAIR" concernés
 
 I1
 
@@ -125,7 +125,7 @@ I1
 
 ### Documentation des données
 
-#### Principes FAIR concernés
+#### Principes "FAIR" concernés
 
 I2, R1.3
 
@@ -142,7 +142,7 @@ I2, R1.3
 
 ### Licence d’utilisation
 
-#### Principes FAIR concernés
+#### Principes "FAIR" concernés
 
 R1.1
 
@@ -160,7 +160,7 @@ R1.1
 
 ### Provenance des données
 
-#### Principes FAIR concernés
+#### Principes "FAIR" concernés
 
 R1.2
 
