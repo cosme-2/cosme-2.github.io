@@ -33,7 +33,7 @@ Ce questionnaire peut-être utiliser lors de l’évaluation complète de la cor
 :------------------------------------------|
 | F1: Les données possèdent-elles un identifiant persistant et unique au monde (PID)? <span class="further-description">(Par exemple DOI, ARK, ISBN, etc.)</span>   | 
 | F2: Les données sont-elles décrites avec des métadonnées détaillées?   | 
-| <span class="header-row">F3:Le PID des données (voir F1) est-il mentionné dans les métadonnées?</span>    | 
+| F3:Le PID des données (voir F1) est-il mentionné dans les métadonnées?    | 
 | F4: Les données et les métadonnées y associées sont-elles enregistrées ou indexées dans une ressource consultable (par exemple, un dépôt de données)?   | 
 | A1.1: Les données sont-elles accessibles via un protocole de communication ouvert, gratuit et largement utilisé? <span class="further-description">(Il s’agit avant tout des protocoles informatiques libres et connus comme HTTP (=site web), FTP etc. Les autres “protocoles de communications” qui s’appuient sur des logiciels propriétaires et non universellement implantés (par exemple Skype, Microsoft Exchange Server, etc) ne répondent pas à ce critère).</span>   | 
 | A1.2: Les données sont-elles accessibles via un protocole de communication qui permet, si nécessaire, de mettre en place une procédure d'authentification et d’autorisation? <span class="further-description">(FAIR data ne signifie pas OpenData. Le protocole via lequel les données et les métadonnées sont accessibles, doit avoir la possibilité, en cas de besoin, de restreindre l’accès aux données, par exemple uniquement aux utilisateurs possédant un login et un mot de passe.)</span>   | 
