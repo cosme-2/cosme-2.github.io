@@ -50,8 +50,10 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 1.1. S’assurer que les langages et les formats/extensions utilisés pour l’encodage des données sont connus, largement utilisés et, de préférence, libres.
 
+<div style="font-weight: bold; padding-left: 50px;">
 XML est un format connu et largement utilisé.
 FAIR: I1 - rempli
+</div>
 
 1.2. S’assurer que les données sont explicites et compréhensibles en l’état. Cela signifie que toutes les abréviations, tous les termes ambigus ou toutes les balises utilisées dans la description des données doivent être clairement expliqués ou avoir déjà une documentation existante.
 
