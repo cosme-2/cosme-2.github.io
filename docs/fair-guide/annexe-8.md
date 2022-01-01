@@ -46,7 +46,7 @@ _(voir fiche détaillée du corpus [“Comptabilités Principautés S/E”](/doc
 _(voir supra le programme complet et toutes les étapes de la FAIRisation [“Étapes de la FAIRisation”](/docs/fair-guide/fairization){:target="_blank"})_
 {: .fs-3 .fw-300 .lh-tight }
 
-### 1. Vérification des donnéesd
+### 1. Vérification des données
 {: .mb-2 }
 
 1.1. S’assurer que les langages et les formats/extensions utilisés pour l’encodage des données sont connus, largement utilisés et, de préférence, libres.
