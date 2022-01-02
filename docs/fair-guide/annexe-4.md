@@ -8,7 +8,7 @@ nav_order: 7
 # Annexe 4. Modèle (prévisionnel) des métadonnées
 {: .no_toc }
 
-[FAIR. Modèle des métadonnées.docx](/assets/doc/FAIR.%20Modèle%20des%20métadonnées.docx){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
+[FAIR. Modèle des métadonnées.docx](/assets/doc/FAIR.docx){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
 
 télécharger le modèlee des métadonnées FAIR
 {: .fs-4 .fw-300 }
