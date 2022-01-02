@@ -6,7 +6,8 @@ nav_order: 8
 ---
 
 # Annexe 5. Évaluation complète (questionnaire détaillé) de la correspondance des données aux principes FAIR
-{: .no_toc }
+{: .no_toc .mb-3}
+<span style="margin-top: 30px; display: block;"></span>
 
 [FAIR. Questionnaire détaillé.docx](/assets/doc/FAIR.%20Questionnaire%20detaille.docx){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
 
