@@ -16,6 +16,8 @@ nav_order: 7
 télécharger ce modèle des métadonnées FAIR en fichier .docx
 {: .fs-3 .fw-300 }
 
+---
+
 | Champ    				    | Correspondance éléments Dublin Core   | Correspondance champs Zenodo  	    |
 :---------------------------|:--------------------------------------|:--------------------------------------|
 | Identifiant (PID): <span class="further-description">(L’identifiant est attribué automatiquement par le dépôt lors de la mise en ligne.)</span>  |  DC.Identifier   					  | Digital Object Identifier<sup class="required-field">+</sup>     		  |
