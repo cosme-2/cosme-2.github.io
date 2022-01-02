@@ -89,7 +89,7 @@ F1, F2, F3, F4, A1, I1, I2
 <u>Comment procéder?</u>
 {: .fs-4 .fw-500 .ml-5 .mb-1 }
 ***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt se charge automatiquement de la création et de la conservation des fichiers des métadonnées avec un format et selon les standards en vigueur. Il ne vous reste qu’à remplir les champs (auteurs de données, contenu du dépôt, etc.) fournis par le dépôt lors de l’ajout de vos données.<br/>
-***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de vous assurer que vos métadonnées contiennent tous les éléments nécessaires, qu’elles sont conservées par vos soins sous un format et selon les standards recommandés et qu’elles [métadonnées] sont reliées (par le biais d’un PID) à vos données.
+***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de vous assurer que vos métadonnées contiennent tous les éléments nécessaires, qu’elles sont conservées par vos soins sous un format et selon les standards recommandés et qu’elles [_métadonnées_] sont reliées (par le biais d’un PID) à vos données.
 {: .ml-8 .mt-1 }
 
 ---
