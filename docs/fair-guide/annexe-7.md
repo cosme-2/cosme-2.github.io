@@ -48,7 +48,7 @@ Bien qu’il revienne à chaque projet de choisir les moyens par lesquels il sou
 - _Exemple comment un dépôt peut remplir les critères FAIR: [Zenodo: FAIR Principles](https://about.zenodo.org/principles/){:target="_blank"}_
 - _Exemple de modèle des données pour un dépôt institutionnel: [Dataset upload example](https://github.com/cosme-2/FAIR-examples/tree/main/dataset-upload-example){:target="_blank"}_
 - _Exemple d’un dépôt réalisé: [CartulR. Répertoire des cartulaires médiévaux et modernes](https://zenodo.org/record/5752666){:target="_blank"}_
-{: .ml-8 .lh-tight}
+{: .ml-5 .lh-tight}
 
 ---
 
