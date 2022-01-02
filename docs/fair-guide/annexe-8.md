@@ -5,7 +5,7 @@ parent: Guide FAIR
 nav_order: 11
 ---
 
-# Annexe 8. Exemple de la FAIRisation par l’intermédiaire du versement des données dans un dépôt
+# Annexe 8. Exemple de FAIRisation par l’intermédiaire du versement de données dans un dépôt
 {: .no_toc }
 
 **Rappel:** L’exemple de la FAIRisation qui suit se base entièrement sur le programme de la FAIRisation proposé plus haut (voir _supra_ ["Étapes de la FAIRisation"](/docs/fair-guide/fairization){:target="_blank"}). Chaque étape de la FAIRisation a été appliquée au corpus [“Comptabilités Principautés S/E”](https://cosme-2.github.io/docs/corpus/ressourcescomptables.html){:target="_blank"}. Le dépôt retenu pour le versement des données est Zenodo (administré par le CERN et soutenu par la Commission européenne et les programmes Horizon 2020 et OpenAIRE). (Sur le choix d’un dépôt voir _supra_ [Annexe 3](/docs/fair-guide/annexe-3){:target="_blank"} et [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}).
