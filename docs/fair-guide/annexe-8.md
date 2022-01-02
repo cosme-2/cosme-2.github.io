@@ -121,34 +121,34 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 <span class="left-indent-bold">FAIR: I3. - rempli.</span>
 {: .ml-6 }
 
-![](/assets/images/Annexe8-Img1-Upload.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img1-Upload.jpg){:width="90%" .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img2-Upload-with-file.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img2-Upload-with-file.jpg){:width="90%" .d-block .mx-auto}
 
 ##### Image 1 & 2. Ajouter le jeu de données.
 {: .no_toc .text-center .mb-5 }
 
-![](/assets/images/Annexe8-Img3-Dataset.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img3-Dataset.jpg){:width="90%" .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img4-Basic-information-1.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img4-Basic-information-1.jpg){:width="90%" .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img5-Basic-information-2.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img5-Basic-information-2.jpg){:width="90%" .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img6-Licence.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img6-Licence.jpg){:width="90%" .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img7-Funding.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img7-Funding.jpg){:width="90%" .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img8-Contributors.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img8-Contributors.jpg){:width="90%" .d-block .mx-auto}
 
 ##### Image 3 & 8. Remplir le formulaire des métadonnées.
 {: .no_toc .text-center .mb-5 }
 
-![](/assets/images/Annexe8-Img9-Start-upload.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img9-Start-upload.jpg){: .d-block .mx-auto}
 
 ##### Image 9. Uploader le fichier du corpus.
 {: .no_toc .text-center .mb-5 }
 
-![](/assets/images/Annexe8-Img10-Publish.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img10-Publish.jpg){: .d-block .mx-auto}
 
 ##### Image 10. Publier le dépôt en ligne.
 {: .no_toc .text-center .mb-5 }
