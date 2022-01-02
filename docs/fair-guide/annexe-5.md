@@ -8,6 +8,13 @@ nav_order: 8
 # Annexe 5. Évaluation complète (questionnaire détaillé) de la correspondance des données aux principes FAIR
 {: .no_toc }
 
+[FAIR. Questionnaire détaillé.docx](/assets/doc/FAIR.%20Questionnaire%20detaille.docx){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
+
+télécharger le modèle du questionnaire détaillé
+{: .fs-4 .fw-300}
+
+---
+
 Ce questionnaire peut-être utiliser lors de l’évaluation complète de la correspondance des données d’un corpus aux principes FAIR. À noter toutefois que ce questionnaire s’appuie sur l’hypothèse du versement des données dans un dépôt institutionnel de données quand la partie “métadonnées” est garantie avant tout par le dépôt. Dans cette optique, l’auteur des données garantit essentiellement les principes FAIR liés aux données. Cela explique le remplacement dans certaines questions du vocable “(méta)données” uniquement par le vocable “données” (voir _supra_ [“Qui FAIRise quoi?”](/docs/fair-guide/presentation.html#qui-fairise-quoi){:target="_blank"} et [Annexe 1](/docs/fair-guide/annexe-1){:target="_blank"}, [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}, [Annexe 3](/docs/fair-guide/annexe-3){:target="_blank"}).
 {: .fw-300 }
 
