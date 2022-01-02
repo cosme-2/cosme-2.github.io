@@ -48,25 +48,25 @@ Bien qu’il revienne à chaque projet de choisir les moyens par lesquels il sou
 Les recommandations FAIR sont composées de 15 principes (ou 27 dans la version étendue, voir [Annexe 2](/docs/fair-guide/annexe-2){:target="_blank"}) qui doivent être satisfaits afin que les données soient considérées comme “_FAIRisées_”. Il est cependant possible de résumer l’ensemble de ces principes en quelques éléments-clés.
 {: .fw-300 }
 
-### Identifiant pérenne
+### Identifiant pérenneF
 
 Principes "FAIR" concernés
 {: .fs-4 .fw-500 .ml-5 .lh-tight }
 F1, F3, A1
-{: .ml-8 .lh-0 }
+{: .ml-8 .lh-tight }
 
 Points à retenir
 {: .fs-4 .fw-500 .ml-5 .lh-tight }
 -  Il existe différents systèmes d’identifiants pérennes (Persistent IDentifier, PID). Parmi les plus connus, on peut citer DOI ([Digital Object Identifier](https://www.doi.org)), ARK ([Archival Resource Key](https://arks.org)) ou bien encore VIAF ([Virtual International Authority File](https://viaf.org)). Par exemple, un DOI se présente comme “_10.1000/182_”, un ARK comme “_ark:/53355/cl010066723_” et un VIAF comme “_106965171_”. Il est possible de choisir un type d’identifiant qui convient le mieux à vos données. À noter toutefois qu’un DOI reste l’identifiant générique le plus utilisé et le mieux connu et qu’il peut être aisément associé à une plus grande variété de données numériques.
 - Une URL (_Uniform Resource Locator_, communément appelée “_adresse web_”) peut, à certains égards, être considérée comme un PID, mais son utilisation doit être déconseillée à cause de son caractère instable. En pratique: Si vos données sont, par exemple, stockées et affichées par le biais de votre propre site internet, l’adresse web (URL) qui permet d’accéder à la page où vos données sont affichées peut, à certains égards, être considérée comme un identifiant pérenne pour les données en question. Or, cette approche est contre-indiquée car la nature même d’un site internet ne permet pas de garantir la persistance d’une adresse web à moyen et, surtout, à long terme.
 - Toutes les données que vous souhaitez FAIRiser doivent posséder un identifiant pérenne. Si vous optez pour la FAIRisation de votre corpus en tant que seul jeu de données c’est _<u>ce jeu de données</u>_ qui doit avoir un PID. Si vous choisissez de FAIRiser les notices de votre corpus une par une alors c’est _<u>chaque notice</u>_ qui doit détenir son propre PID.
-{: .ml-8 }
+{: .ml-8 .lh-tight }
 
 Comment procéder?
 {: .fs-4 .fw-500 .ml-5 .lh-tight }
 ***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt se charge automatiquement de la création et de l’attribution d’un PID pour vos données.
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et d’attribuer par vous-même un PID pour vos données. (Pour la création manuelle d’un identifiant pérenne, vous pouvez vous appuyer, par exemple, sur les services de [OPIDoR-CNRS](https://opidor.fr/identifier)).
-{: .ml-8 }
+{: .ml-8 .lh-tight }
 
 ---
 
