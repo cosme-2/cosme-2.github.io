@@ -11,7 +11,7 @@ nav_order: 8
 
 [FAIR. Questionnaire détaillé.docx](/assets/doc/FAIR.%20Questionnaire%20detaille.docx){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
 
-<span style="margin-top: 34px;">télécharger le modèle du questionnaire détaillé</span>
+<div style="margin-top: 34px;">télécharger le modèle du questionnaire détaillé</div>
 {: .fs-4 .fw-300}
 
 ---
