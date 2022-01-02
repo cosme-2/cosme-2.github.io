@@ -72,21 +72,20 @@ Comment procéder?
 
 ### Métadonnées
 
-#### Principes "FAIR" concernés
-
+Principes "FAIR" concernés
+{: .fs-4 .fw-500 .ml-5 .lh-tight }
 F1, F2, F3, F4, A1, I1, I2
 
-#### Points à retenir
-
+Points à retenir
+{: .fs-4 .fw-500 .ml-5 .lh-tight }
 - Toutes les données que vous souhaitez FAIRiser doivent être accompagnées par des métadonnées. 
 - Dans la plupart des cas, les métadonnées sont stockées dans un fichier spécifique. Ce fichier doit être encodé sous un format et selon les standards recommandés pour la représentation des métadonnées. Parmi ces formats et standards, on retient avant tout les recommandations RDF et les formats RDF/XML et JSON-LD.
 - Chaque fichier de métadonnées doit contenir l’identifiant pérenne (PID) des données auxquelles elles [métadonnées] sont associées.
 - Les métadonnées doivent contenir des informations suffisamment détaillées (auteurs, intitulé, date de création, description, mots-clés, etc.) sur les données qu’elles accompagnent. Il est possible, par exemple, de s’appuyer sur les éléments du vocabulaire _Dublin Core_ pour la construction des métadonnées.
 
-#### Comment procéder?
-
+Comment procéder?
+{: .fs-4 .fw-500 .ml-5 .lh-tight }
 ***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt se charge automatiquement de la création et de l’attribution d’un PID pour vos données.
-
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et d’attribuer par vous-même un PID pour vos données. (Pour la création manuelle d’un identifiant pérenne, vous pouvez vous appuyer, par exemple, sur les services de [OPIDoR-CNRS](https://opidor.fr/identifier)).
 
 ---
