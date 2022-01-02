@@ -7,6 +7,14 @@ nav_order: 10
 
 # Annexe 7. FAIR par la pratique & Éléments-clés des principes FAIR
 {: .no_toc }
+<div style="margin-top: 30px;"></div>
+
+[FAIR par la pratique & Éléments-clés.pdf](/assets/doc/FAIR%20par%20la%20pratique%20&%20Elements-cles.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
+
+<div style="margin-top: 34px;">télécharger la brève présentation de FAIR</div>
+{: .fs-4 .fw-300}
+
+---
 
 Ce rapide tour des éléments-clés des principes FAIR et de leur mise en pratique permet de livrer, quand cela est nécessaire, une brève présentation de FAIR.
 {: .fs-6 .fw-300 }

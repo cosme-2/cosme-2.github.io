@@ -7,6 +7,14 @@ nav_order: 9
 
 # Annexe 6. Évaluation rapide (check-list) de la correspondance des données aux principes FAIR
 {: .no_toc }
+<div style="margin-top: 30px;"></div>
+
+[FAIR Check-list.pdf](/assets/doc/FAIR%20Check-list.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
+
+<div style="margin-top: 34px;">télécharger le modèle du check-list FAIR</div>
+{: .fs-4 .fw-300}
+
+---
 
 Cette check-list peut-être utiliser lors de l’évaluation rapide de la correspondance des données d’un corpus aux principes FAIR.
 {: .fw-300 }
