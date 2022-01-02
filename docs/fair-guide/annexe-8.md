@@ -123,7 +123,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 ![](/assets/images/Annexe8-Img1-Upload.jpg){:width="70%" .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img2-Upload-with file.jpg){:width="70%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img2-Upload-with-file.jpg){:width="70%" .d-block .mx-auto}
 
 ##### Image 1 & 2. Ajouter le jeu de données.
 {: .no_toc .text-center .mb-5 }
