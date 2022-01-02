@@ -63,10 +63,10 @@ Points à retenir
 {: .ml-8 }
 
 Comment procéder?
-{: .fs-4 .fw-500 .ml-6 }
+{: .fs-4 .fw-500 .ml-5 .lh-tight }
 ***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt se charge automatiquement de la création et de l’attribution d’un PID pour vos données.
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et d’attribuer par vous-même un PID pour vos données. (Pour la création manuelle d’un identifiant pérenne, vous pouvez vous appuyer, par exemple, sur les services de [OPIDoR-CNRS](https://opidor.fr/identifier)).
-{: .ml-6 }
+{: .ml-8 }
 
 ---
 
