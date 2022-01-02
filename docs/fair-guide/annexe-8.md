@@ -201,29 +201,3 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 {: .ml-6 }
 
 
-
-
-
-
-**************
-
-
-
-
-
-
-![](/assets/images/figure1.jpg){:width="70%" .d-block .mx-auto}
-
-##### Figure 1. Principes FAIR et écosystème basé sur un dépôt institutionnel dans le contexte du cycle de vie des données.
-{: .no_toc .text-center .mb-5 }
-
-
-
-
-
-
-
-
-
-
-
