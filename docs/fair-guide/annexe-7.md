@@ -50,7 +50,7 @@ Les recommandations FAIR sont composées de 15 principes (ou 27 dans la version 
 
 ### Identifiant pérenne
 
-<u>Principes "FAIR" concernés</u>
+<u>Principes FAIR concernés</u>
 {: .fs-4 .fw-500 .ml-5 .mt-4 .mb-1}
 F1, F3, A1
 {: .ml-8 .mt-1 }
@@ -72,108 +72,123 @@ F1, F3, A1
 
 ### Métadonnées
 
-Principes "FAIR" concernés
-{: .fs-4 .fw-500 .ml-5 .lh-tight }
+<u>Principes FAIR concernés</u>
+{: .fs-4 .fw-500 .ml-5 .mt-4 .mb-1}
 F1, F2, F3, F4, A1, I1, I2
+{: .ml-8 .mt-1 }
 
-Points à retenir
-{: .fs-4 .fw-500 .ml-5 .lh-tight }
+<u>Points à retenir</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
 - Toutes les données que vous souhaitez FAIRiser doivent être accompagnées par des métadonnées. 
 - Dans la plupart des cas, les métadonnées sont stockées dans un fichier spécifique. Ce fichier doit être encodé sous un format et selon les standards recommandés pour la représentation des métadonnées. Parmi ces formats et standards, on retient avant tout les recommandations RDF et les formats RDF/XML et JSON-LD.
 - Chaque fichier de métadonnées doit contenir l’identifiant pérenne (PID) des données auxquelles elles [métadonnées] sont associées.
 - Les métadonnées doivent contenir des informations suffisamment détaillées (auteurs, intitulé, date de création, description, mots-clés, etc.) sur les données qu’elles accompagnent. Il est possible, par exemple, de s’appuyer sur les éléments du vocabulaire _Dublin Core_ pour la construction des métadonnées.
+{: .ml-8 .mt-1 }
 
-Comment procéder?
-{: .fs-4 .fw-500 .ml-5 .lh-tight }
-***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt se charge automatiquement de la création et de l’attribution d’un PID pour vos données.
+<u>Comment procéder?</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
+***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt se charge automatiquement de la création et de l’attribution d’un PID pour vos données.<br/>
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et d’attribuer par vous-même un PID pour vos données. (Pour la création manuelle d’un identifiant pérenne, vous pouvez vous appuyer, par exemple, sur les services de [OPIDoR-CNRS](https://opidor.fr/identifier)).
+{: .ml-8 .mt-1 }
 
 ---
 
 ### Stockage et affichage des données et des métadonnées
 
-#### Principes "FAIR" concernés
-
+<u>Principes FAIR concernés</u>
+{: .fs-4 .fw-500 .ml-5 .mt-4 .mb-1}
 A1, A2
+{: .ml-8 .mt-1 }
 
-#### Points à retenir
-
+<u>Points à retenir</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
 -  Les données et les métadonnées doivent être accessibles par un moyen répandu et connu du plus grand nombre. En pratique, on s’attend, dans la majorité des cas, que les données et les métadonnées soient accessibles sur Internet par l’intermédiaire d’un site web.
+{: .ml-8 .mt-1 }
 
-#### Comment procéder?
-
-***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt met automatiquement à votre disposition un espace de stockage (un serveur) et un espace d’affichage (une page web) qui contient toutes les informations nécessaires pour accéder à vos données et métadonnées.
-
+<u>Comment procéder?</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
+***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, le dépôt met automatiquement à votre disposition un espace de stockage (un serveur) et un espace d’affichage (une page web) qui contient toutes les informations nécessaires pour accéder à vos données et métadonnées.<br/>
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de créer et de maintenir un espace de stockage et d’affichage pour vos données et métadonnées.
+{: .ml-8 .mt-1 }
 
 ---
 
 ### Format et langage des données
 
-#### Principes "FAIR" concernés
-
+<u>Principes FAIR concernés</u>
+{: .fs-4 .fw-500 .ml-5 .mt-4 .mb-1}
 I1
+{: .ml-8 .mt-1 }
 
-#### Points à retenir
-
+<u>Points à retenir</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
 -  Les données doivent être encodées sous un format et avec un langage connu et largement répandu. En pratique, c’est le critère le plus facile à satisfaire; il suffit d’éviter de représenter les données sous un format qui n’a été utilisé que par trois personnes dans le monde au milieu des années 80 du siècle passé…
+{: .ml-8 .mt-1 }
 
-#### Comment procéder?
-
+<u>Comment procéder?</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
 ***auteur des données:*** Quelle que soit l’approche que vous choisissez pour la FAIRisation de vos données (par l’intermédiaire d’un dépôt institutionnel ou par le biais d’une infrastructure personnelle), c’est à l’auteur de données qu’il appartient de s’assurer que ces données soient encodées sous un format et avec un langage appropriés.
+{: .ml-8 .mt-1 }
 
 ---
 
 ### Documentation des données
 
-#### Principes "FAIR" concernés
-
+<u>Principes FAIR concernés</u>
+{: .fs-4 .fw-500 .ml-5 .mt-4 .mb-1}
 I2, R1.3
+{: .ml-8 .mt-1 }
 
-#### Points à retenir
-
+<u>Points à retenir</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
 -  Toutes les données doivent être explicites et compréhensibles en l’état. En pratique, cela signifie que le modèle et la structure des données, les abréviations, les vocabulaires et les conventions utilisés, les éventuels écueils et les difficultés du traitement des données, tous ces éléments doivent être décrits et annotés. En résumé, cette documentation doit être suffisamment complète pour permettre à une personne tierce de comprendre et d’analyser les données présentes.
 - Si vous vous appuyez sur les modèles des données déjà décrits et documentés, par exemple les recommandations TEI P5 pour le langage XML, il suffit, dans la plupart des cas, de renvoyer vers cette documentation existante.
+{: .ml-8 .mt-1 }
 
-#### Comment procéder?
-
+<u>Comment procéder?</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
 ***auteur des données:*** Quelle que soit l’approche que vous choisissez pour la FAIRisation de vos données (par l’intermédiaire d’un dépôt institutionnel ou par le biais d’une infrastructure personnelle), c’est à l’auteur de données qu’il appartient de mettre en place une documentation appropriée.
+{: .ml-8 .mt-1 }
 
 ---
 
 ### Licence d’utilisation
 
-#### Principes "FAIR" concernés
-
+<u>Principes FAIR concernés</u>
+{: .fs-4 .fw-500 .ml-5 .mt-4 .mb-1}
 R1.1
+{: .ml-8 .mt-1 }
 
-#### Points à retenir
-
+<u>Points à retenir</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
 -  Les métadonnées doivent contenir de façon claire et explicite la licence d’utilisation associée aux données qu’elles [métadonnées] accompagnent.
+{: .ml-8 .mt-1 }
 
-#### Comment procéder?
-
-***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, vous pouvez choisir la licence lors de la mise en ligne; ce choix sera retenu par le dépôt et ajouté dans les métadonnées générées automatiquement.
-
+<u>Comment procéder?</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
+***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, vous pouvez choisir la licence lors de la mise en ligne; ce choix sera retenu par le dépôt et ajouté dans les métadonnées générées automatiquement.<br/>
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, il vous revient de vous assurer que vos métadonnées contiennent, de façon claire et explicite, la licence d’utilisation appropriée.
+{: .ml-8 .mt-1 }
 
 ---
 
 ### Provenance des données
 
-#### Principes "FAIR" concernés
-
+<u>Principes FAIR concernés</u>
+{: .fs-4 .fw-500 .ml-5 .mt-4 .mb-1}
 R1.2
+{: .ml-8 .mt-1 }
 
-#### Points à retenir
-
+<u>Points à retenir</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
 -  Les métadonnées doivent contenir les informations sur la provenance des données. En pratique, il s’agit, le plus souvent, d’indiquer la provenance de données en tant qu’objet digital. Par exemple, les données peuvent être produites lors d’un autre projet et ensuite réutilisées, corrigées et modifiées par le présent projet. Le contenu de ce champ peut, par exemple, être le suivant: “_Les données qui concernent les VIII<sup>e</sup> et IX<sup>e</sup> siècles ont été extraites d’un jeu de donnée sous format SQL produit lors du projet “X” et corrigées ensuite par Monsieur Untel. Les données qui concernent le XII<sup>e</sup> siècle ont été extraites d’un jeu de donnée sous format XML produit lors du projet “Y” sans aucune correction supplémentaire. Toutes les autres données ont été saisies manuellement par Monsieur Unautre et Madame Uneautre sous format des documents JSON dans la base MongoDB_”. Pour plus de détail sur la notion de la provenance des données, voir par exemple: [RD-Alliance/Issues: Indicators for R1.2: (meta)data are associated with detailed provenance](https://github.com/rd-alliance/FAIR-data-maturity-model-WG/issues/28).
+{: .ml-8 .mt-1 }
 
-#### Comment procéder?
-
-***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, vous pouvez soit inclure les informations sur la provenance des données dans le champ “Description” lors de la mise en ligne, soit accompagner vos données avec un document explicatif (par exemple un fichier  “Readme”) qui contiendra ces informations.
-
+<u>Comment procéder?</u>
+{: .fs-4 .fw-500 .ml-5 .mb-1 }
+***dépôt de données:*** Si vous entreposez les données dans un dépôt de données, vous pouvez soit inclure les informations sur la provenance des données dans le champ “Description” lors de la mise en ligne, soit accompagner vos données avec un document explicatif (par exemple un fichier  “Readme”) qui contiendra ces informations.<br/>
 ***infrastructure personnelle:*** Si c’est l’infrastructure personnelle qui a été choisie pour la FAIRisation, vous pouvez soit inclure les informations sur la provenance des données dans vos métadonnées, soit accompagner vos données avec un document explicatif (par exemple un fichier “Readme”) qui contiendra ces informations.
+{: .ml-8 .mt-1 }
 
 ---
 
