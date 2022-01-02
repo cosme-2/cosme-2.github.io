@@ -121,24 +121,24 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 <span class="left-indent-bold">FAIR: I3. - rempli.</span>
 {: .ml-6 }
 
-![](/assets/images/Annexe8-Img1-Upload.jpg){:width="90%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img1-Upload.jpg){: .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img2-Upload-with-file.jpg){:width="90%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img2-Upload-with-file.jpg){: .d-block .mx-auto}
 
 ##### Image 1 & 2. Ajouter le jeu de données.
 {: .no_toc .text-center .mb-5 }
 
-![](/assets/images/Annexe8-Img3-Dataset.jpg){:width="90%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img3-Dataset.jpg){: .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img4-Basic-information-1.jpg){:width="90%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img4-Basic-information-1.jpg){: .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img5-Basic-information-2.jpg){:width="90%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img5-Basic-information-2.jpg){: .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img6-Licence.jpg){:width="90%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img6-Licence.jpg){: .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img7-Funding.jpg){:width="90%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img7-Funding.jpg){: .d-block .mx-auto}
 
-![](/assets/images/Annexe8-Img8-Contributors.jpg){:width="90%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img8-Contributors.jpg){: .d-block .mx-auto}
 
 ##### Image 3 & 8. Remplir le formulaire des métadonnées.
 {: .no_toc .text-center .mb-5 }
@@ -169,7 +169,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 <span class="left-indent-bold">Sur la page du dépôt on choisir Export, par exemple JSON:</span>
 {: .ml-6 }
 
-![](/assets/images/Annexe8-Img11-Metadata-Export.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img11-Metadata-Export.jpg){: .d-block .mx-auto}
 
 ##### Image 11. Sélection de fichier d'export des métadonnées.
 {: .no_toc .text-center .mb-5 }
@@ -177,7 +177,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 <span class="left-indent-bold">Dans le texte qui s’affiche, on trouve l’identifiant:</span>
 {: .ml-6 }
 
-![](/assets/images/Annexe8-Img12-Metadata-DOI.jpg){:width="80%" .d-block .mx-auto}
+![](/assets/images/Annexe8-Img12-Metadata-DOI.jpg){: .d-block .mx-auto}
 
 ##### Image 12. Le PID des données est mentionnées dans les métadonnées.
 {: .no_toc .text-center .mb-5 }
