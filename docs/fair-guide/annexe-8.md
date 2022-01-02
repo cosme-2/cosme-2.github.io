@@ -155,6 +155,52 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 **Le dépôt est en ligne: [https://zenodo.org/record/4919334](https://zenodo.org/record/4919334){:target="_blank"}**
 
+3.2. Vérification de l’accessibilité et de l’exactitude des (méta)données.
+
+3.2.1. Vérifier que les données possèdent un identifiant persistant et unique (PID) (fourni par la ressource où les données sont enregistrées). 
+<span class="left-indent-bold">Le jeu de données possède l’identifiant DOI (“global”): 
+[http://doi.org/10.5281/zenodo.4919334](http://doi.org/10.5281/zenodo.4919334){:target="_blank"} </span>
+<span class="left-indent-bold">FAIR: F1 - rempli.</span>
+{: .ml-6 }
+
+3.2.2. Vérifier que le PID des données est mentionné dans les métadonnées.
+<span class="left-indent-bold">Sur la page du dépôt on choisir Export, par exemple JSON:</span>
+{: .ml-6 }
+
+![](/assets/images/Annexe8-Img11-Metadata-Export.jpg){:width="80%" .d-block .mx-auto}
+
+##### Image 11. Sélection de fichier d'export des métadonnées.
+{: .no_toc .text-center .mb-5 }
+
+<span class="left-indent-bold">Dans le texte qui s’affiche, on trouve l’identifiant:</span>
+{: .ml-6 }
+
+![](/assets/images/Annexe8-Img12-Metadata-DOI.jpg){:width="80%" .d-block .mx-auto}
+
+##### Image 12. Le PID des données est mentionnées dans les métadonnées.
+{: .no_toc .text-center .mb-5 }
+
+<span class="left-indent-bold">FAIR: F3 - rempli.</span>
+{: .ml-6 }
+
+3.2.3. Vérifier que les données sont accessibles via un protocole de communication ouvert, gratuit et largement utilisé. Si les données sont enregistrées dans une ressource qui est accessible via un site internet, ce critère est automatiquement rempli. 
+<span class="left-indent-bold">Le jeu de données est accessible via le dépôt Zenodo (voir Zenodo-FAIR Principles).</span>
+<span class="left-indent-bold">FAIR: A1.1 - rempli.</span>
+{: .ml-6 }
+
+3.2.4. Vérifier que les données sont accessibles via un protocole de communication qui permet, si nécessaire, de mettre en place une procédure d'authentification et d’autorisation. 
+<span class="left-indent-bold">Si nécessaire, il est possible de restreindre l’accès aux données mises en ligne dans le dépôt Zenodo (voir Zenodo-FAIR Principles).</span>
+<span class="left-indent-bold">FAIR: A1.2 - rempli.</span>
+{: .ml-6 }
+
+3.2.5. Vérifier que les métadonnées seront accessibles même lorsque les données elles-mêmes ne seront plus disponibles. (De façon ordinaire ce critère est considéré comme rempli, si la condition F4 est satisfaite).
+<span class="left-indent-bold">Le dépôt Zenodo garantit l’accessibilité des métadonnées durant toute l’existence du dépôt (voir Zenodo-FAIR Principles).</span>
+<span class="left-indent-bold">FAIR: A2 - rempli.</span>
+{: .ml-6 }
+
+
+
+
 
 
 **************
