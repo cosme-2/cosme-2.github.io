@@ -155,6 +155,8 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 **Le dépôt est en ligne: [https://zenodo.org/record/4919334](https://zenodo.org/record/4919334){:target="_blank"}**
 
+---
+
 3.2. Vérification de l’accessibilité et de l’exactitude des (méta)données.
 
 3.2.1. Vérifier que les données possèdent un identifiant persistant et unique (PID) (fourni par la ressource où les données sont enregistrées). 
