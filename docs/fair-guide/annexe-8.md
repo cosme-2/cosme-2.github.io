@@ -121,6 +121,22 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 <span class="left-indent-bold">FAIR: I3. - rempli.</span>
 {: .ml-6 }
 
+![](/assets/images/Annexe8-Img1-Upload.jpg){:width="70%" .d-block .mx-auto}
+
+![](/assets/images/Annexe8-Img2-Upload-with file.jpg){:width="70%" .d-block .mx-auto}
+
+##### Image 1 & 2. Ajouter le jeu de données.
+{: .no_toc .text-center .mb-5 }
+
+
+
+
+
+
+**************
+
+
+
 
 
 
