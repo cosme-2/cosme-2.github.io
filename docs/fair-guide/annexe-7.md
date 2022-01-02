@@ -50,10 +50,10 @@ Les recommandations FAIR sont composées de 15 principes (ou 27 dans la version 
 
 ### Identifiant pérenne
 
-Principes "FAIR" concernés
+Principes "FAIR" concernésj
 {: .fs-4 .fw-500 .ml-5 }
 F1, F3, A1
-{: .ml-8 .lh-tight }
+{: .ml-8 .lh-0 }
 
 Points à retenir
 {: .fs-4 .fw-500 .ml-6 }
