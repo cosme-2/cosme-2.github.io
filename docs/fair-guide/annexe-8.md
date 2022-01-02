@@ -186,17 +186,17 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 {: .ml-6 }
 
 3.2.3. Vérifier que les données sont accessibles via un protocole de communication ouvert, gratuit et largement utilisé. Si les données sont enregistrées dans une ressource qui est accessible via un site internet, ce critère est automatiquement rempli. 
-<span class="left-indent-bold">Le jeu de données est accessible via le dépôt Zenodo (voir Zenodo-FAIR Principles).</span>
+<span class="left-indent-bold">Le jeu de données est accessible via le dépôt Zenodo (voir [Zenodo-FAIR Principles](https://about.zenodo.org/principles/){:target="_blank"}).</span>
 <span class="left-indent-bold">FAIR: A1.1 - rempli.</span>
 {: .ml-6 }
 
 3.2.4. Vérifier que les données sont accessibles via un protocole de communication qui permet, si nécessaire, de mettre en place une procédure d'authentification et d’autorisation. 
-<span class="left-indent-bold">Si nécessaire, il est possible de restreindre l’accès aux données mises en ligne dans le dépôt Zenodo (voir Zenodo-FAIR Principles).</span>
+<span class="left-indent-bold">Si nécessaire, il est possible de restreindre l’accès aux données mises en ligne dans le dépôt Zenodo (voir [Zenodo-FAIR Principles](https://about.zenodo.org/principles/){:target="_blank"}).</span>
 <span class="left-indent-bold">FAIR: A1.2 - rempli.</span>
 {: .ml-6 }
 
 3.2.5. Vérifier que les métadonnées seront accessibles même lorsque les données elles-mêmes ne seront plus disponibles. (De façon ordinaire ce critère est considéré comme rempli, si la condition F4 est satisfaite).
-<span class="left-indent-bold">Le dépôt Zenodo garantit l’accessibilité des métadonnées durant toute l’existence du dépôt (voir Zenodo-FAIR Principles).</span>
+<span class="left-indent-bold">Le dépôt Zenodo garantit l’accessibilité des métadonnées durant toute l’existence du dépôt (voir [Zenodo-FAIR Principles](https://about.zenodo.org/principles/){:target="_blank"}).</span>
 <span class="left-indent-bold">FAIR: A2 - rempli.</span>
 {: .ml-6 }
 
