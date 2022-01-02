@@ -128,8 +128,32 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 ##### Image 1 & 2. Ajouter le jeu de données.
 {: .no_toc .text-center .mb-5 }
 
+![](/assets/images/Annexe8-Img3-Dataset.jpg){:width="70%" .d-block .mx-auto}
 
+![](/assets/images/Annexe8-Img4-Basic-information-1.jpg){:width="70%" .d-block .mx-auto}
 
+![](/assets/images/Annexe8-Img5-Basic-information-2.jpg){:width="70%" .d-block .mx-auto}
+
+![](/assets/images/Annexe8-Img6-Licence.jpg){:width="70%" .d-block .mx-auto}
+
+![](/assets/images/Annexe8-Img7-Funding.jpg){:width="70%" .d-block .mx-auto}
+
+![](/assets/images/Annexe8-Img8-Contributors.jpg){:width="70%" .d-block .mx-auto}
+
+##### Image 3 & 8. Remplir le formulaire des métadonnées.
+{: .no_toc .text-center .mb-5 }
+
+![](/assets/images/Annexe8-Img9-Start-upload.jpg){:width="70%" .d-block .mx-auto}
+
+##### Image 9. Uploader le fichier du corpus.
+{: .no_toc .text-center .mb-5 }
+
+![](/assets/images/Annexe8-Img10-Publish.jpg){:width="70%" .d-block .mx-auto}
+
+##### Image 10. Publier le dépôt en ligne.
+{: .no_toc .text-center .mb-5 }
+
+**Le dépôt est en ligne: [https://zenodo.org/record/4919334](https://zenodo.org/record/4919334){:target="_blank"}**
 
 
 
