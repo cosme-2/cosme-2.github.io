@@ -10,9 +10,9 @@ nav_order: 7
 
 ---
 
-[FAIR. Modèle des métadonnées.docx](/assets/doc/FAIR.docx){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
+[FAIR. Modèle des métadonnées.docx](/assets/doc/FAIR-Modèle.docx){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
 
-télécharger le modèle des métadonnées FAIR
+télécharger ce modèle des métadonnées FAIR en fichier .docx
 {: .fs-4 .fw-300 }
 
 ---
