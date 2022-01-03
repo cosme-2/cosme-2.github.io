@@ -11,7 +11,7 @@ nav_order: 9
 
 [FAIR Check-list.pdf](/assets/doc/FAIR%20Check-list.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000 .float-left .mr-2 }
 
-<div style="margin-top: 34px;">télécharger le modèle du check-list FAIR</div>
+<div style="margin-top: 34px;">télécharger le modèle de check-list FAIR</div>
 {: .fs-4 .fw-300}
 
 ---
