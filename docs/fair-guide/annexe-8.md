@@ -130,7 +130,7 @@ _(voir supra le programme complet et toutes les étapes de la FAIRisation [“É
 
 ![](/assets/images/Annexe8-Img2a-Communities.jpg){: .d-block .mx-auto}
 
-##### Image 2a. Ajouter la "communauté" auquel appartient le jeu de données (ici, la communauté "COSME<sup>2</sup>").
+##### Image 2a. Ajouter la "communauté" à laquelle appartient le jeu de données. (ici, la communauté "COSME<sup>2</sup>").
 {: .no_toc .text-center .mb-5 }
 
 ![](/assets/images/Annexe8-Img3-Dataset.jpg){: .d-block .mx-auto}
