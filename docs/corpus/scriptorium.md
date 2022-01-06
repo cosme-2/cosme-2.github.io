@@ -40,14 +40,14 @@ nav_order: 25
 | F1: Les (méta)données possèdent un identifiant persistant et unique au monde (persistent identifier, PID)	  | <span class="overview-table-no">Non</span> |
 | F2: Les données sont décrites avec des métadonnées riches													  | <span class="overview-table-no">Non</span> |
 | F3: Les métadonnées incluent, d’une façon claire et explicite, l’identifiant des données qu’elles décrivent | <span class="overview-table-no">Non</span> |
-| F4: Les (méta)données sont enregistrées ou indexées dans une ressource consultable						  | <span class="overview-table-partially">Partiellement</span> <span style="font-size: 11px; text-align: center; display: block;">(uniquement données)</span> |
+| F4: Les (méta)données sont enregistrées ou indexées dans une ressource consultable						  | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
 
 #### Accessible
 {: .no_toc }
 
-| A1. Les (méta)données sont récupérables par leur identifiant en utilisant un protocole standard de communication | <span class="overview-table-no">Non</span> |
-| A1.1. Le protocole est ouvert, gratuit et largement utilisé													   | <span class="overview-table-partially">Partiellement</span> <span style="font-size: 11px; text-align: center; display: block;">(uniquement données)</span> |
-| A1.2. Le protocole permet, si nécessaire, une procédure d'authentification et d'autorisation					   | <span class="overview-table-partially">Partiellement</span> <span style="font-size: 11px; text-align: center; display: block;">(uniquement données)</span> |
+| A1. Les (méta)données sont récupérables par leur identifiant en utilisant un protocole standard de communication | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
+| A1.1. Le protocole est ouvert, gratuit et largement utilisé													   | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
+| A1.2. Le protocole permet, si nécessaire, une procédure d'authentification et d'autorisation					   | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
 | A2. Les métadonnées sont accessibles, même lorsque les données ne sont plus disponibles						   | <span class="overview-table-no">Non</span> |
 
 #### Interoperable (= Interopérable)
