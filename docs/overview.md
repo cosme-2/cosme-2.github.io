@@ -70,3 +70,5 @@ _<u>(glissez ou déroulez le tableau à gauche et à droite pour le voir en enti
 | Prosopange  | sql, pdf, json, geoJson| 62 Mo| _à venir_ |  <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-partially">Partiellement</span>| <span class="overview-table-partially">Partiellement</span> | <span class="overview-table-no">Non</span>|
 
  __\*__ - En l’absence d’un accord explicite de(s) auteur(s) du corpus, les données n’ont pas pu être FAIRisées.
+{: .lh-1 .fs-2 .text-grey-dk-100 }
+
