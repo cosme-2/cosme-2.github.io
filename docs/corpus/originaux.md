@@ -71,7 +71,7 @@ __\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-ent
 ### FAIRisation
 
 _En l’absence d’un accord explicite de(s) auteur(s) du corpus, les données n’ont pas pu être FAIRisées._
-{: .lh-1 .fs-2 .text-grey-dk-100 }
+{: .lh-1 .fs-3 .text-grey-dk-100 }
 
 <!--
 | <span class="corpus-table-header-left">Données FAIRisées</span>         | _données textuelles:_ JSON (export depuis TELMA)<br/>_données visuelles:_ JPG |
