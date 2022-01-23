@@ -20,7 +20,7 @@ nav_order: 6
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Cartulaires italiens |
 | <span class="corpus-table-header-left">Adresse web</span>                             | _en cours de création sur TELMA Repertoires_<sup>*</sup> |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Paul Bertrand (IRHT)<br/>Coraline Rey |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Paul Bertrand (IRHT)<br/>Coraline Rey |
 
 ### Description des données
 

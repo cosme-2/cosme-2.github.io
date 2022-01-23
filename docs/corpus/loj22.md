@@ -20,7 +20,7 @@ nav_order: 19
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Lettres originales de Jean XXII |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: Lettres originales de Jean XXII](http://telma-chartes.irht.cnrs.fr/loj22/page/presentation){:target="_blank"} (accès restreint) |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Armand Jamme (CIHAM, UMR 5648) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Armand Jamme (CIHAM, UMR 5648) |
 
 ### Description des données
 

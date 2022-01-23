@@ -20,7 +20,7 @@ nav_order: 12
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | CIFM-CBMA (Corpus des Inscriptions de la France Médiévale - Corpus Burgundiae Medii Aevi) |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [CIFM-CBMA](http://www.cbma-project.eu/editions/textes_epigraphiques.html){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Eliana Magnani (LAMOP, UMR 8589) <br/> Estelle Ingrand-Varenne (CNRS-CESCM) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Eliana Magnani (LAMOP, UMR 8589) <br/> Estelle Ingrand-Varenne (CNRS-CESCM) |
 
 ### Description des données
 

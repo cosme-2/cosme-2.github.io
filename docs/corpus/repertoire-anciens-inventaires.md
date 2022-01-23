@@ -20,7 +20,7 @@ nav_order: 22
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Répertoire des anciens inventaires d'archives ecclésiastiques conservés aux Archives nationales (séries L & LL: Paris, Saint-Germain-des-Prés, Saint-Denis)<sup>\*</sup> |
 | <span class="corpus-table-header-left">Adresse web</span>                             | Actuellement dans la [salle des inventaires virtuelle des Archives Nationales](https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?formCaller=GENERALISTE&irId=FRAN_IR_058159){:target="_blank"} <br/> Objectif: migration vers TELMA Chartes<sup>\*\*</sup> |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Sébastien Nadiras (Archives nationales) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Sébastien Nadiras (Archives nationales) |
 
 __\*__ - Actuellement, le corpus “_Répertoire des anciens inventaires…_” est hébergé sur le site des Archives Nationales (encodé en XML avec le schéma EAD), mais sa migration vers la plateforme TELMA est en cours. La correspondance de ce corpus aux principes FAIR a été évaluée en fonction de son état actuel (sur le site des Archives Nationales). 
 {: .lh-1 .fs-2 .text-grey-dk-100 }

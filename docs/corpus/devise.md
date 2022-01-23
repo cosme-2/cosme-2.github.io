@@ -20,7 +20,7 @@ nav_order: 15
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Devise|
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Devise](https://devise.saprat.fr/page/la-base-devise){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Laurent Hablot (EPHE) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Laurent Hablot (EPHE) |
 
 ### Description des données
 

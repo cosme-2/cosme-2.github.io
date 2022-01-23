@@ -20,7 +20,7 @@ nav_order: 26
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Sigilla (Base numérique des sceaux conservés en France) |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Sigilla](http://www.sigilla.org){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Laurent Hablot (EPHE) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Laurent Hablot (EPHE) |
 
 ### Description des données
 

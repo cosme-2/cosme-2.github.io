@@ -20,7 +20,7 @@ nav_order: 16
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Distinguo |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Distinguo](http://distinguo.huma-num.fr){:target="_blank"} (Accès restreint) |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Marjorie Burghart (CIHAM, UMR 5648) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Marjorie Burghart (CIHAM, UMR 5648) |
 
 ### Description des données
 

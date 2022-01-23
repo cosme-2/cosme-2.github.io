@@ -20,7 +20,7 @@ nav_order: 13
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Col&Mon (Collégiales et monastères de la réforme carolingienne au Concile de Trente) |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Col&Mon](https://colemon.huma-num.fr){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Resps.scientifiques: Anne Massoni (Université de Limoges); Noëlle Deflou-Leca (Université  de Grenoble) <br/> Resp.technique: Rémi Crouzevialle (Université de Limoges) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Resps.scientifiques: Anne Massoni (Université de Limoges); Noëlle Deflou-Leca (Université  de Grenoble) <br/> Resp.technique: Rémi Crouzevialle (Université de Limoges) |
 
 ### Description des données
 

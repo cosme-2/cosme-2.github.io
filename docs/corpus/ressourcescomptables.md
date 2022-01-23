@@ -20,7 +20,7 @@ nav_order: 14
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Comptabilités Principautés S/E. Ressources comptables en Dauphiné, Provence, Savoie et Venaissin (XIIIe - XVe siècle)  |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Ressources comptables en Dauphiné, Provence, Savoie et Venaissin (XIIIe - XVe siècle)](http://ressourcescomptables.huma-num.fr){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Armand Jamme (CIHAM, UMR 5648) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Armand Jamme (CIHAM, UMR 5648) |
 
 ### Description des données
 

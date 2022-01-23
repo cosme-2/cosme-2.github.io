@@ -20,7 +20,7 @@ nav_order: 27
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Studium parisiense |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Studium parisiense](http://studium.univ-paris1.fr){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Thierry Kouamé (LAMOP, UMR 8589) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Thierry Kouamé (LAMOP, UMR 8589) |
 
 ### Description des données
 

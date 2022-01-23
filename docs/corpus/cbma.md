@@ -20,7 +20,7 @@ nav_order: 10
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | CBMA (Corpus Burgundiae Medii Aevi) |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Corpus Burgundiae Medii Aevi](http://www.cbma-project.eu/bdds2.html){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Eliana Magnani (LAMOP, UMR 8589) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Eliana Magnani (LAMOP, UMR 8589) |
 
 ### Description des données
 

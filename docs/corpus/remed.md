@@ -20,7 +20,7 @@ nav_order: 23
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | ReMed (Ressources médiévistes) |
 | <span class="corpus-table-header-left">Adresse web</span>                             | version actuelle: [base Heurist](https://heurist.huma-num.fr/heurist/?db=cosme_ressources){:target="_blank"} (accès restreint) <br/> version ancienne: [GoogleDoc](https://docs.google.com/document/d/1ZaMvrOMmDa5skw8lP2ewhnhdkNjHMv2ZerTlyM5Aygo/edit?usp=sharing){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Paul Bertrand (IRHT) <br/> Coraline Rey |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Paul Bertrand (IRHT) <br/> Coraline Rey |
 
 ### Description des données
 

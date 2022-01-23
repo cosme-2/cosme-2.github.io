@@ -20,7 +20,7 @@ nav_order: 29
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Prosopange. Prosopographie des officiers angevins, XIIIe-XVe siècle          |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Prosopange](http://base.angevine-europe.huma-num.fr/prosopange){:target="_blank"} (accès restreint) |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Resp. scientifique: Thierry Pécout (Université de Saint- Étienne)<br/>Resp. technique: Anne Tchounikine (INSA Lyon) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Resp. scientifique: Thierry Pécout (Université de Saint- Étienne)<br/>Resp. technique: Anne Tchounikine (INSA Lyon) |
 
 ### Description des données
 

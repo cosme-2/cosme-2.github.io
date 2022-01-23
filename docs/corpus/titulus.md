@@ -20,7 +20,7 @@ nav_order: 28
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Titulus. Corpus des inscriptions de la France médiévale |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Titulus](http://titulus.huma-num.fr){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Estelle Ingrand-Varenne (CNRS-CESCM) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Estelle Ingrand-Varenne (CNRS-CESCM) |
 
 ### Description des données
 

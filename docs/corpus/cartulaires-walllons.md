@@ -20,7 +20,7 @@ nav_order: 7
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Cartulaires walllons. Répertoire des cartulaires d'institutions religieuses médiévales sises dans l'espace wallon actuel |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: Cartulaires walllons](https://telma-repertoires.irht.cnrs.fr/cartulaires-wallons/page/presentation){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Paul Bertrand (IRHT, Université catholique de Louvain) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Paul Bertrand (IRHT, Université catholique de Louvain) |
 
 ### Description des données
 

@@ -20,7 +20,7 @@ nav_order: 5
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Bullarium Franciscanum |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: Bullarium Franciscanum](http://telma-chartes.irht.cnrs.fr/bullarium-franciscanum/page/presentation){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Isabelle Heullant-Donat (Université de Reims) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Isabelle Heullant-Donat (Université de Reims) |
 
 ### Description des données
 

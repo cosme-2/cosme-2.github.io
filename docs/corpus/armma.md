@@ -20,7 +20,7 @@ nav_order: 4
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Armma (ARmorial Monumental du Moyen-Âge)|
 | <span class="corpus-table-header-left">Adresse web</span>                             | [ARmorial Monumental du Moyen-Âge](https://armma.saprat.fr){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Laurent Hablot (EPHE) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Laurent Hablot (EPHE) |
 
 ### Description des données
 

@@ -20,7 +20,7 @@ nav_order: 17
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | e-Cartae. Actes des évêques d’Évreux |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [e-Cartae](https://www.unicaen.fr/puc/sources/ecartae/evreux/accueil){:target="_blank"} <br/> Le corpus est entièrement téléchargeable en [archive zip](https://www.unicaen.fr/puc/sources/ecartae/evreux/sourcesEcartae/actesEcartae.zip) |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Grégory Combalbert (Université Caen Normandie) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Grégory Combalbert (Université Caen Normandie) |
 
 ### Description des données
 

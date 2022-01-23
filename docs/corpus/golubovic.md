@@ -20,7 +20,7 @@ nav_order: 18
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Golubovic |
 | <span class="corpus-table-header-left">Adresse web</span>                             | _en cours vers TELMA Chartes_<sup>*</sup> |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Isabelle Heullant-Donat (Université de Reims) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Isabelle Heullant-Donat (Université de Reims) |
 
 ### Description des données
 

@@ -20,7 +20,7 @@ nav_order: 21
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | PALM (Plateforme d'analyse linguistique médiévale) |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [PALM](http://palm.huma-num.fr/PALM/){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Aude Mairey (LAMOP, UMR 8589) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Aude Mairey (LAMOP, UMR 8589) |
 
 ### Description des données
 

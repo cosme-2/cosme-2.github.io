@@ -20,7 +20,7 @@ nav_order: 9
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Castellanie / Comptes des châtellenies savoyardes |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Castellanie.net](http://castellanie.net){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Jean-Louis Gaulin (CIHAM, UMR 5648);<br/> Armand Jamme (CIHAM, UMR 5648) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Jean-Louis Gaulin (CIHAM, UMR 5648);<br/> Armand Jamme (CIHAM, UMR 5648) |
 
 ### Description des données
 

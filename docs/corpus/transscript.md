@@ -20,7 +20,7 @@ nav_order: 2
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Transscript |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: Transscript](http://telma-chartes.irht.cnrs.fr/transscript/page/transscript-project){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Isabelle Guyot-Bachy (Université de Lorraine); <br/>Michel Margue (Université de Luxembourg) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Isabelle Guyot-Bachy (Université de Lorraine); <br/>Michel Margue (Université de Luxembourg) |
 
 ### Description des données
 

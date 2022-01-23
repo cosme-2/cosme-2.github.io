@@ -20,7 +20,7 @@ nav_order: 25
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Scriptorium |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Scriptorium](http://www.scriptorium.be/catalogue.php){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Michael Lefèvre (Centre International de Codicologie ASBL) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Michael Lefèvre (Centre International de Codicologie ASBL) |
 
 ### Description des données
 

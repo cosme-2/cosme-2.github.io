@@ -20,7 +20,7 @@ nav_order: 24
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Scripta (Site Caennais de Recherche Informatique et de Publication des Textes Anciens) |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Scripta](https://www.unicaen.fr/scripta/pages/index.html){:target="_blank"} |
-| <span class="corpus-table-header-left">Resposables scientifiques et techniques</span> | Resp. scientifique: Pierre Bauduin (Université de Caen Normandie) <br/> Resp.technique: Thierry Buquet (CNRS, Craham) |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Resp. scientifique: Pierre Bauduin (Université de Caen Normandie) <br/> Resp.technique: Thierry Buquet (CNRS, Craham) |
 
 ### Description des données
 
