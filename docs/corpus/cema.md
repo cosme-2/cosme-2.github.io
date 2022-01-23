@@ -53,7 +53,7 @@ nav_order: 11
 #### Interoperable (= Interopérable)
 {: .no_toc }
 
-| I1. Les (méta)données utilisent un langage formel, accessible, partagé et largement répandu pour la représentation des connaissances | <span class="overview-table-yes">Oui</span> |
+| I1. Les (méta)données utilisent un langage formel, accessible, partagé et largement répandu pour la représentation des connaissances | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
 | I2. Les (méta)données utilisent des vocabulaires qui suivent les principes FAIR 													   | <span class="overview-table-no">Non</span> |
 | I3. Les (méta)données incluent des références qualifiées à d'autres (méta)données 												   | <span class="overview-table-no">Non</span> |
 
