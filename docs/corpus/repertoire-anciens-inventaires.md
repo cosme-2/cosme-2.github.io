@@ -73,8 +73,8 @@ __\*\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-e
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _à venir_ |
-| <span class="corpus-table-header-left">Dépôt de données</span>          	 | _à venir_ |
-| <span class="corpus-table-header-left">Citation bibliographique</span>   	 | _à venir_ |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | _à venir_ |
-| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | _à venir_ |
+| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles et visuelles_  |
+| <span class="corpus-table-header-left">Dépôt de données</span>          	 | Aucun dépôt de données. Disponible en ligne dans la salle des inventaires virtuelle des Archives nationales: [FRAN_IR_058159](https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?formCaller=GENERALISTE&irId=FRAN_IR_058159){:target="_blank"}.  |
+| <span class="corpus-table-header-left">Citation bibliographique</span>   	 | La salle des inventaires virtuelle des Archives nationales ne propose pas de citation bibliographique pour ses collections. |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Encoded Archival Description. Tag Library. Version 2002. PDF](https://www2.archivists.org/sites/all/files/EAD2002TL_5-03-V2.pdf){:target="_blank"} |
+| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | Oui, site web des Archives nationales.  |
