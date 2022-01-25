@@ -16,7 +16,7 @@ nav_order: 9
 
 ---
 
-Cette check-list peut-être utiliser lors de l’évaluation rapide de la correspondance des données d’un corpus aux principes FAIR.
+Cette check-list peut être utilisée lors de l’évaluation rapide de la correspondance des données d’un corpus aux principes FAIR.
 {: .fw-300 }
 
 | Données  		   |			 |
