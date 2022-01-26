@@ -18,9 +18,12 @@ nav_order: 10
 
 ### Information générale
 
-| <span class="corpus-table-header-left">Nom du corpus</span>                           | CBMA (Corpus Burgundiae Medii Aevi) |
+| <span class="corpus-table-header-left">Nom du corpus</span>                           | CBMA (Corpus Burgundiae Medii Aevi)<sup>\*</sup> |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Corpus Burgundiae Medii Aevi](http://www.cbma-project.eu/bdds2.html){:target="_blank"} |
 | <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Eliana Magnani (LAMOP, UMR 8589) |
+
+__\*__ - Le corpus “CBMA” est constitué de plusieurs sous-corpus. Pour plus de détails, voir le site web du projet: [http://www.cbma-project.eu](http://www.cbma-project.eu){:target="_blank"}. À l’heure actuelle, le sous-corpus hagiographique "bourguignon" (version de septembre 2019) et les clichés des manuscrits photographiés par les Archives départementales de la Côte d'Or ont été versés dans le dépôt Nakala (voir _infra_:  [FAIRisation](/docs/corpus/europange.html#fairisation). La révision des données de l’ensemble du corpus “CBMA” est en cours et fera l’objet des futurs versements.
+{: .lh-1 .fs-2 .text-grey-dk-100 }
 
 ### Description des données
 
@@ -67,8 +70,8 @@ nav_order: 10
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _à venir_ |
-| <span class="corpus-table-header-left">Dépôt de données</span>          	 | _à venir_ |
+| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ TXT, DOCX <br/> _données visuelles:_ JPG |
+| <span class="corpus-table-header-left">Dépôt de données</span>          	 | Corpus hagiographique "bourguignon": [![DOI:10.34847/nkl.baa5bj28](https://zenodo.org/badge/DOI/10.34847/nkl.baa5bj28.svg)](https://doi.org/10.34847/nkl.baa5bj28){:target="_blank"} (textes) <br/> Cartulaires (Archives départementales de la Côte d'Or): [![NAKALA/COLLECTION:11280/9ac31c84](https://zenodo.org/badge/DOI/11280/9ac31c84.svg)](https://www.nakala.fr/collection/11280/9ac31c84){:target="_blank"} (photos) <br/> Cartulaires (Archives départementales de la Côte d'Or): [![Generic badge](https://img.shields.io/badge/<NAKALA/COLLECTION>-<11280/9ac31c84>-<BLUE>.svg)](https://www.nakala.fr/collection/11280/9ac31c84){:target="_blank"} (photos) |
 | <span class="corpus-table-header-left">Citation bibliographique</span>     | _à venir_ |
 | <span class="corpus-table-header-left">Documentation technique</span> 	 | _à venir_ |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | _à venir_ |
