@@ -22,7 +22,7 @@ nav_order: 10
 | <span class="corpus-table-header-left">Adresse web</span>                             | [Corpus Burgundiae Medii Aevi](http://www.cbma-project.eu/bdds2.html){:target="_blank"} |
 | <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Eliana Magnani (LAMOP, UMR 8589) |
 
-__\*__ - Le corpus “CBMA” est constitué de plusieurs sous-corpus. Pour plus de détails, voir le site web du projet: [http://www.cbma-project.eu](http://www.cbma-project.eu){:target="_blank"}. À l’heure actuelle, le sous-corpus hagiographique "bourguignon" (version de septembre 2019) et les clichés des manuscrits photographiés par les Archives départementales de la Côte d'Or ont été versés dans le dépôt Nakala (voir _infra_:  [FAIRisation](/docs/corpus/europange.html#fairisation). La révision des données de l’ensemble du corpus “CBMA” est en cours et fera l’objet des futurs versements.
+__\*__ - Le corpus “CBMA” est constitué de plusieurs sous-corpus. Pour plus de détails, voir le site web du projet: [http://www.cbma-project.eu](http://www.cbma-project.eu){:target="_blank"}. À l’heure actuelle, le sous-corpus hagiographique "bourguignon" (version de septembre 2019) et les clichés des manuscrits photographiés par les Archives départementales de la Côte d'Or ont été versés dans le dépôt Nakala (voir _infra_:  [FAIRisation](#fairisation). La révision des données de l’ensemble du corpus “CBMA” est en cours et fera l’objet des futurs versements.
 {: .lh-1 .fs-2 .text-grey-dk-100 }
 
 ### Description des données
