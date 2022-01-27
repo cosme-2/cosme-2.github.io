@@ -67,8 +67,8 @@ nav_order: 12
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _à venir_ |
-| <span class="corpus-table-header-left">Dépôt de données</span>          	 | _à venir_ |
-| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | _à venir_ |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | _à venir_ |
-| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | _à venir_ |
+| <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _données textuelles:_ TXT |
+| <span class="corpus-table-header-left">Dépôt de données</span>          	 | Corpus épigraphique "bourguignon" (VIII<sup>e</sup>-XV<sup>e</sup> siècle): [![DOI:10.34847/nkl.e7de18k9](https://zenodo.org/badge/DOI/10.34847/nkl.e7de18k9.svg)](https://doi.org/10.34847/nkl.e7de18k9){:target="_blank"} <span style="display: block; padding-bottom: 10px;"/> Corpus épigraphique "provençal" (VIII<sup>e</sup>-XV<sup>e</sup> siècle): [![DOI:10.34847/nkl.a6f1ua6y](https://zenodo.org/badge/DOI/10.34847/nkl.a6f1ua6y.svg)](https://doi.org/10.34847/nkl.a6f1ua6y){:target="_blank"} |
+| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Corpus épigraphique "bourguignon" (VIII<sup>e</sup>-XV<sup>e</sup> siècle): _"Corpus épigraphique "bourguignon" (VIII<sup>e</sup>-XV<sup>e</sup> siècle) - Version 2019", 2021, [Dataset] NAKALA. https://doi.org/10.34847/nkl.e7de18k9_ <span style="display: block; padding-bottom: 10px;"/> Corpus épigraphique "provençal" (VIII<sup>e</sup>-XV<sup>e</sup> siècle): _"Corpus épigraphique "provençal" (VIII<sup>e</sup>-XV<sup>e</sup> siècle) - Version 2020 ", 2021, [Dataset] NAKALA. https://doi.org/10.34847/nkl.a6f1ua6y_ |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | La documentation est incluse dans les dépôts des données. |
+| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
