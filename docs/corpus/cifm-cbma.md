@@ -25,8 +25,8 @@ nav_order: 12
 ### Description des données
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles, données visuelles (photos des manuscrits, inscriptions) |
-| <span class="corpus-table-header-left">Format de données</span>                                            | L’ensemble des textes a été extrait de la base CBMA au format csv. Ensuite, chaque texte converti en txt. <br/> Fichiers xml (textes lemmatisés pour TXM). <br/> Images: jpg, tif |
-| <span class="corpus-table-header-left">Standards des données</span>                                        | Pour les fichiers xml: modèle personnel pour les textes lemmatisés. <br/> Pour les fichiers fmp12: modèle personnel de la base de données relationnelles sous FileMakerPro. |
+| <span class="corpus-table-header-left">Format de données</span>                                            | L’ensemble des textes a été extrait des volumes océrisés CIFM au format csv. Ensuite, chaque texte converti en txt. <br/> Fichiers xml (textes lemmatisés pour TXM). <br/> Images: jpg, tif |
+| <span class="corpus-table-header-left">Standards des données</span>                                        | Pour les fichiers xml: modèle personnel pour les textes lemmatisés. |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 1 Mo environs |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 2268 textes |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| TXM, Philologic4 (pour les fichiers xml des textes lemmatisés). |

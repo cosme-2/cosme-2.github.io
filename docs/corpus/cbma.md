@@ -28,11 +28,11 @@ __\*__ - Le corpus “CBMA” est constitué de plusieurs sous-corpus (pour plus
 ### Description des données
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles, données visuelles (photos des manuscrits, inscriptions) |
-| <span class="corpus-table-header-left">Format de données</span>                                            | fmp12, csv, tab, xlsx, xml, jpg, txt, pdf, doc/docx <br/> Actuellement les formats principaux de la saisie de données: csv pour les métadonnées et txt pour les textes. |
-| <span class="corpus-table-header-left">Standards des données</span>                                        | Pour les fichiers xml: modèle personnel pour les textes lemmatisés. <br/> Pour les fichiers fmp12: modèle personnel de la base de données relationnelles sous FileMakerPro. |
+| <span class="corpus-table-header-left">Format de données</span>                                            | csv, tab, xlsx, xml, jpg, txt, pdf, doc/docx <br/> Actuellement les formats principaux de la saisie de données: csv pour les métadonnées et txt pour les textes. |
+| <span class="corpus-table-header-left">Standards des données</span>                                        | Pour les fichiers xml: modèle personnel pour les textes lemmatisés. |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 30-50 Mo environ |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 29318 textes |
-| <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| FileMakerPro12 (base de données sous format fmp12) <br/> Logiciel de tableur (formats xlsx, tab) <br/> TXM, Philologic4, NoSketchEngine (pour les fichiers xml des textes lemmatisés). |
+| <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| Logiciel de tableur (formats xlsx, tab) <br/> TXM, Philologic4, NoSketchEngine (pour les fichiers xml des textes lemmatisés). |
 | <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | Interrogation et analyse des données: TXM, Philologic4, NoSketchEngine. <br/> Visualisation des manuscrits: [plateforme Mirador](https://manuscrits.cbma-project.eu){:target="_blank"}. <br/> Stockage des données: en cours de migration vers Nakala. |
 
 ### Correspondance aux principes FAIR
