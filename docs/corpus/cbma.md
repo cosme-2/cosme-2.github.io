@@ -33,7 +33,7 @@ __\*__ - Le corpus “CBMA” est constitué de plusieurs sous-corpus. Pour plus
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 30-50 Mo environ |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 29318 textes |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| FileMakerPro12 (base de données sous format fmp12) <br/> Logiciel de tableur (formats xlsx, tab) <br/> TXM, Philologic4, NoSketchEngine (pour les fichiers xml des textes lemmatisés). |
-| <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | Interrogation et analyse des données: TXM, Philologic4, NoSketchEngine. <br/> Visualisation des manuscrits: [plateforme Mirador](https://manuscrits.cbma-project.eu){:target="_blank"} <br/> Stockage des données: en cours de migration vers Nakala. |
+| <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | Interrogation et analyse des données: TXM, Philologic4, NoSketchEngine. <br/> Visualisation des manuscrits: [plateforme Mirador](https://manuscrits.cbma-project.eu){:target="_blank"}. <br/> Stockage des données: en cours de migration vers Nakala. |
 
 ### Correspondance aux principes FAIR
 
