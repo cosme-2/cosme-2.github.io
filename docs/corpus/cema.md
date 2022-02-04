@@ -67,8 +67,4 @@ nav_order: 11
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _à venir_ |
-| <span class="corpus-table-header-left">Dépôt de données</span>         	 | _à venir_ |
-| <span class="corpus-table-header-left">Citation bibliographique</span> 	 | _à venir_ |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | _à venir_ |
-| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | _à venir_ |
+| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | En cours de création de jeu de données |
