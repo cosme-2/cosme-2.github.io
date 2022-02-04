@@ -67,4 +67,4 @@ nav_order: 11
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | En cours de création de jeu de données |
+| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | En cours de création du jeu de données |
