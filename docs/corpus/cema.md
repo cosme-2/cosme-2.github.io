@@ -25,7 +25,7 @@ nav_order: 11
 ### Description des données
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles |
-| <span class="corpus-table-header-left">Format de données</span>                                            | xml, txt, csv, ods, sql |
+| <span class="corpus-table-header-left">Format de données</span>                                            | xml, txt, csv, ods, sql, pdf |
 | <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | textes: 700 Mo <br/> bibliographie des éditions des chartes: moins 1 Mo <br/> édition numérisé (3200 pdf): 198 Go |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 271 000 textes/documents <br/> 2 500 références bibliographiques |
