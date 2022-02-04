@@ -70,4 +70,4 @@ __\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-ent
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>         | _Les données ne sont pas prêtes pour la FAIRisation_ |
+| <span class="corpus-table-header-left">Données FAIRisées</span>         | _Les données ne sont pas prêtes pour la FAIRisation._ |
