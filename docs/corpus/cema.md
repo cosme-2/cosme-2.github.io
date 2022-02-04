@@ -19,7 +19,7 @@ nav_order: 11
 ### Information générale
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | CEMA (Cartae Europae Medii Aevi) |
-| <span class="corpus-table-header-left">Adresse web</span>                             | [CEMA](https://lamop.pantheonsorbonne.fr/axes-recherche/livres-textes-langages/cema){:target="_blank"} (uniquement la présentation du projet) |
+| <span class="corpus-table-header-left">Adresse web</span>                             | [CEMA](https://cema.lamop.fr){:target="_blank"} |
 | <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Nicolas Perreaux (LAMOP, UMR 8589) |
 
 ### Description des données
