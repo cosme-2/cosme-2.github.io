@@ -73,5 +73,5 @@ __\*__ - Le corpus “Europange” est constitué de plusieurs sous-corpus (Prov
 | <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _données textuelles et visuelles:_ Les pages HTML du sous-corpus "Provence" sont indexées et référencées par le moteur de recherche "Isidore". |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | Aucun dépôt de données. L'indexation et le référencement par le moteur de recherche "Isidore" des données du sous-corpus "Provence": [10670/2.7ceuwo](https://isidore.science/collection/10670/2.7ceuwo){:target="_blank"}. |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Le moteur de recherche "Isidore" ne propose pas de citation bibliographique pour ses collections. |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | _à venir_ |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Modèles conceptuel et physique](https://github.com/cosme-2/corpus/blob/main/europange/models/europange.models.pdf){:target="_blank"} |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | Oui, site web personnel basé sur le CMS Drupal 7. |
