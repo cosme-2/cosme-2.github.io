@@ -19,7 +19,7 @@ nav_order: 3
 ### Information générale
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | Aposcripta |
-| <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: Aposcripta](http://telma-chartes.irht.cnrs.fr/aposcripta/page/accueil){:target="_blank"} |
+| <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: Aposcripta](http://telma-chartes.irht.cnrs.fr/aposcripta/page/about-accueil){:target="_blank"} |
 | <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Julien Théry (CIHAM, UMR 5648) |
 
 ### Description des données
