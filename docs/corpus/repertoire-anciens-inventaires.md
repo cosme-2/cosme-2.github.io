@@ -66,15 +66,15 @@ __\*\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-e
 #### Reusable (= Réutilisable)
 {: .no_toc }
 
-| R1. Les méta(données) sont décrites d’une façon complète avec plusieurs attributs précis et pertinents	| <span class="overview-table-partially">Partiellement</span> |
-| R1.1. Les (méta)données sont publiées avec une licence d'utilisation des données claire et accessible 	| <span class="overview-table-no">Non</span> |
+| R1. Les méta(données) sont décrites d’une façon complète avec plusieurs attributs précis et pertinents	| <span class="overview-table-yes">Oui</span> |
+| R1.1. Les (méta)données sont publiées avec une licence d'utilisation des données claire et accessible 	| <span class="overview-table-yes">Oui</span> |
 | R1.2. Les (méta)données disposent d’une provenance détaillée												| <span class="overview-table-yes">Oui</span> |
 | R1.3. Les (méta)données répondent aux standards communautaires de leur domaine							| <span class="overview-table-yes">Oui</span> |
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles et visuelles_  |
-| <span class="corpus-table-header-left">Dépôt de données</span>          	 | Aucun dépôt de données. Disponible en ligne dans la salle des inventaires virtuelle des Archives nationales: [FRAN_IR_058159](https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?formCaller=GENERALISTE&irId=FRAN_IR_058159){:target="_blank"}.  |
-| <span class="corpus-table-header-left">Citation bibliographique</span>   	 | La salle des inventaires virtuelle des Archives nationales ne propose pas de citation bibliographique pour ses collections. |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Encoded Archival Description. Tag Library. Version 2002. PDF](https://www2.archivists.org/sites/all/files/EAD2002TL_5-03-V2.pdf){:target="_blank"} |
-| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | Oui, site web des Archives nationales. |
+| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | Les données sont disponbiles dans la salle des inventaires virtuelle des Archives nationales et par l'intermédiaire du dépôt Zenodo. <span style="display: block; padding-bottom: 10px;"/>  _données textuelles:_ PDF, XML (Archives nationales); XML (Zenodo) <br/> _données visuelles:_ JPG (Archives nationales)  |
+| <span class="corpus-table-header-left">Dépôt de données</span>          	 | Archives nationales: [FRAN_IR_058159](https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?formCaller=GENERALISTE&irId=FRAN_IR_058159){:target="_blank"}. <span style="display: block; padding-bottom: 10px;"/> Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5736935.svg)](https://doi.org/10.5281/zenodo.5736935){:target="_blank"}  |
+| <span class="corpus-table-header-left">Citation bibliographique</span>   	 | Jamme, Armand. (2021). Lettres Originales de Jean XXII (LOJ22) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5736935 |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | XML EAD: [Encoded Archival Description. Tag Library. Version 2002. PDF](https://www2.archivists.org/sites/all/files/EAD2002TL_5-03-V2.pdf){:target="_blank"} |
+| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | Site web des Archives nationales. |
