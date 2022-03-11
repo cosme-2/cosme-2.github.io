@@ -31,7 +31,7 @@ __\*\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-e
 ### Description des données
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles |
-| <span class="corpus-table-header-left">Format de données</span>                                            | Actuellement en plusieurs versions: <br/>  - xml (sur le site des AN); <br/>  - csv (version intermédiaire pour la migration vers TELMA). <br/> Objectif: migration vers TELMA Chartes |
+| <span class="corpus-table-header-left">Format de données</span>                                            | Actuellement en plusieurs versions: <br/>  - pdf, xml (sur le site des AN); <br/>  - csv (version intermédiaire pour la migration vers TELMA). <br/> Objectif: migration vers TELMA Chartes |
 | <span class="corpus-table-header-left">Standards des données</span>                                        | EAD (xml sur le site des AN) <br/> En cours de migration vers TELMA Chartes |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 123 Ko |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 312 notices |
