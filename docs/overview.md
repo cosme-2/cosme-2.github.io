@@ -41,7 +41,7 @@ Enfin, à l’heure actuelle il ne semble pas exister des conventions ou des **s
 
 Les objectifs et moyens divers de chaque corpus peuvent en outre dicter des démarches variées dans la mise en pratique des principes FAIR. En définitive, il est possible d’envisager deux approches: la mise des données dans un dépôt de données institutionnel ou l’élaboration d’une infrastructure personnelle de gestion des données. (Pour plus de détails, voir ["Écosystème FAIR"](/docs/fair-guide/presentation.html#écosystème-fair){:target="_blank"}).
 
-## Tableau récapitulatif des corpus et leur correspondance aux principes FAIR
+## Tableau récapitulatif des corpus et de leur correspondance aux principes FAIR
 
 Le tableau qui suit permet d'avoir un aperçu des informations principales sur chaque corpus et ses données et sur leur correspondance (simplifiée) aux principes FAIR. Pour plus de détails sur chaque corpus, voir: [Corpus](/docs/corpus){:target="_blank"}. Ces informations sont mises à jour au fur et à mesure de l'avancement des opérations de la FAIRisation.
 
@@ -52,7 +52,7 @@ _<u>(glissez ou déroulez le tableau à gauche et à droite pour le voir en enti
 {: .fs-3 .text-center }
 
 <span class="fs-3">
-[Télécharger le tableau récapitulatif en version PDF](/assets/doc/Guide-FAIR-v.3.2-[04.01.2022]-COSME2.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000  .d-inline-block .float-right .mb-3 }
+[Télécharger le tableau récapitulatif en version PDF](/assets/doc/COSME2[FAIR]%20Tableau%20recapitulatif.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000  .d-inline-block .float-right .mb-3 }
 </span>
 
 | Corpus       | Format(s)       	     | Taille 			       | Écosystème FAIR     | Findable			     | Accessible 		     	 | Interoperable 	     	|  Reusable 	  |
