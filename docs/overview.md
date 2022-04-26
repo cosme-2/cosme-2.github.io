@@ -51,7 +51,9 @@ Le tableau qui suit permet d'avoir un aperçu des informations principales sur c
 _<u>(glissez ou déroulez le tableau à gauche et à droite pour le voir en entier)</u>_
 {: .fs-3 .text-center }
 
-[Télécharger le tableau récapitulatif en version PDF](/assets/doc/Guide-FAIR-v.3.2-[04.01.2022]-COSME2.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000 .text-center }
+<span class="fs-3">
+[Télécharger le tableau récapitulatif en version PDF](/assets/doc/Guide-FAIR-v.3.2-[04.01.2022]-COSME2.pdf){: .btn .btn-blue .fw-300 .text-grey-lt-000 }
+</span>
 
 | Corpus       | Format(s)       	     | Taille 			       | Écosystème FAIR     | Findable			     | Accessible 		     	 | Interoperable 	     	|  Reusable 	  |
 |:-------------|:----------------------|:--------------------|:--------------------|:------------------|:----------------------|:---------------------|:--------------|
