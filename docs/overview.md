@@ -29,7 +29,7 @@ Le consortium COSME² soutient **29 corpus** différents développés au sein de
 
 Sur les 29 corpus, **16 possèdent un site internet personnel** et **11 sont ou seront hébergés par la plateforme TELMA** (4 corpus le sont déjà, 7 autres sont en cours de migration vers TELMA). Parmi les corpus présents sur internet, la totalité est hébergée sur des serveurs institutionnels (CNRS, Universités, Huma-Num).
 
-## Données
+## Données des corpus
 
 Les données produites par les différents corpus du consortium COSME² appartiennent aux données des sciences humaines et sociales et plus précieusement aux données issues de l'histoire médiévale. Ceci explique la prédominance de certains types de données ou de certains formats et dicte le choix des standards appliqués aux données. 
 
