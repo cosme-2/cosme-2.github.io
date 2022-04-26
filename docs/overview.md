@@ -12,6 +12,18 @@ th, td {
 </style>
 
 # Vue d'ensemble
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table des matières
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 Le consortium COSME² soutient **29 corpus** différents développés au sein de **15 universités et institutions académiques françaises et étrangères**. Chaque corpus représente l’ensemble des informations issues des différentes sources de l’histoire médiévale. Le positionnement du consortium COSME2 est pluridisciplinaire et fait appel à une communauté scientifique largement ouverte à toutes les disciplines, de l’archéologie jusqu’à la philosophie.
 
@@ -28,6 +40,8 @@ Les **formats** les plus utilisés pour les données textuelles sont **xml** (po
 Enfin, à l’heure actuelle il ne semble pas exister des conventions ou des **standards** largement admis pour encoder ou représenter sous une forme numérique différents types de données issues de l’histoire médiévale. On ne peut que signaler l’utilisation des **recommandations de TEI P5 ou EAD** pour l’encodage des données sous format xml.
 
 Les objectifs et moyens divers de chaque corpus peuvent en outre dicter des démarches variées dans la mise en pratique des principes FAIR. En définitive, il est possible d’envisager deux approches: la mise des données dans un dépôt de données institutionnel ou l’élaboration d’une infrastructure personnelle de gestion des données. (Pour plus de détails, voir ["Écosystème FAIR"](/docs/fair-guide/presentation.html#écosystème-fair){:target="_blank"}).
+
+## Tableau récapitulatif des corpus et leur correspondance aux principes FAIR
 
 Le tableau qui suit permet d'avoir un aperçu des informations principales sur chaque corpus et ses données et sur leur correspondance (simplifiée) aux principes FAIR. Pour plus de détails sur chaque corpus, voir: [Corpus](/docs/corpus){:target="_blank"}. Ces informations sont mises à jour au fur et à mesure de l'avancement des opérations de la FAIRisation.
 
