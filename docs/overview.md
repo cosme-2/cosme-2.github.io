@@ -46,7 +46,7 @@ Les objectifs et moyens divers de chaque corpus peuvent en outre dicter des dém
 Le tableau qui suit permet d'avoir un aperçu des informations principales sur chaque corpus et ses données et sur leur correspondance (simplifiée) aux principes FAIR. Pour plus de détails sur chaque corpus, voir: [Corpus](/docs/corpus){:target="_blank"}. Ces informations sont mises à jour au fur et à mesure de l'avancement des opérations de la FAIRisation.
 
 ##### Corpus du consortium COSME² et leur correspondance aux principes FAIR (voir: [Corpus](/docs/corpus){:target="_blank"})
-{: .text-center }
+{: .no_toc .text-center }
 
 _<u>(glissez ou déroulez le tableau à gauche et à droite pour le voir en entier)</u>_
 {: .fs-3 .text-center }
