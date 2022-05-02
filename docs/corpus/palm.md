@@ -67,8 +67,5 @@ nav_order: 21
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _à venir_ |
-| <span class="corpus-table-header-left">Dépôt de données</span>          	 | _à venir_ |
-| <span class="corpus-table-header-left">Citation bibliographique</span>   	 | _à venir_ |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | _à venir_ |
-| <span class="corpus-table-header-left">Infrastructure personnelle</span>   | _à venir_ |
+| <span class="corpus-table-header-left">Données FAIRisées</span>         | _Les données ne sont pas prêtes pour la FAIRisation. La plateforme doit être modernisée en profondeur._ |
+
