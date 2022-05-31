@@ -29,7 +29,7 @@ __\*__ - Le corpus “Europange” est constitué de plusieurs sous-corpus (Prov
 
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles, données visuelles           |
 | <span class="corpus-table-header-left">Format de données</span>                                            | pdf, jpg, sql           |
-| <span class="corpus-table-header-left">Standards des données</span>                                        | RDF / Dublin Core (page web html) ???<br/>Modèle personnel pour sql ou base de données de Drupal ???|
+| <span class="corpus-table-header-left">Standards des données</span>                                        | RDF / Dublin Core (page web html) <br/>Modèle personnel pour sql ou base de données de Drupal ???|
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 12 Go           |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 8137 notices<br/>6054 images           |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non           |
@@ -57,14 +57,14 @@ __\*__ - Le corpus “Europange” est constitué de plusieurs sous-corpus (Prov
 {: .no_toc }
 
 | I1. Les (méta)données utilisent un langage formel, accessible, partagé et largement répandu pour la représentation des connaissances| <span class="overview-table-yes">Oui</span> <span class="sub-text">(sous-corpus "Provence")</span> |
-| I2. Les (méta)données utilisent des vocabulaires qui suivent les principes FAIR 													  | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(métadonnées sous-corpus "Provence")</span>|
-| I3. Les (méta)données incluent des références qualifiées à d'autres (méta)données 												  | <span class="overview-table-yes">Oui</span> <span class="sub-text">(sous-corpus "Provence")</span>|
+| I2. Les (méta)données utilisent des vocabulaires qui suivent les principes FAIR 													  | <span class="overview-table-yes">Oui</span> <span class="sub-text">(sous-corpus "Provence")</span> |
+| I3. Les (méta)données incluent des références qualifiées à d'autres (méta)données 												  | <span class="overview-table-yes">Oui</span> <span class="sub-text">(sous-corpus "Provence")</span> |
 
 #### Reusable (= Réutilisable)
 {: .no_toc }
 
-| R1. Les méta(données) sont décrites d’une façon complète avec plusieurs attributs précis et pertinents	| <span class="overview-table-partially">Partiellement</span> <span style="font-size: 11px; text-align: center; display: block;">(sous-corpus "Provence")</span>|
-| R1.1. Les (méta)données sont publiées avec une licence d'utilisation des données claire et accessible 	| <span class="overview-table-no">Non</span>|
+| R1. Les méta(données) sont décrites d’une façon complète avec plusieurs attributs précis et pertinents	| <span class="overview-table-yes">Oui</span> <span class="sub-text">(sous-corpus "Provence")</span> |
+| R1.1. Les (méta)données sont publiées avec une licence d'utilisation des données claire et accessible 	| <span class="overview-table-yes">Oui</span> <span class="sub-text">(sous-corpus "Provence")</span> |
 | R1.2. Les (méta)données disposent d’une provenance détaillée												| <span class="overview-table-yes">Oui</span> <span class="sub-text">(sous-corpus "Provence")</span> |
 | R1.3. Les (méta)données répondent aux standards communautaires de leur domaine							| <span class="overview-table-yes">Oui</span> <span class="sub-text">(sous-corpus "Provence")</span> |
 
