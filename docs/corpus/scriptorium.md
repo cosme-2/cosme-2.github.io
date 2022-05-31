@@ -5,7 +5,7 @@ parent: Corpus
 nav_order: 25
 ---
 
-# Scriptorium
+# Scriptorium / Bulletin codicologique
 {: .no_toc }
 
 ## Table des matières
@@ -18,9 +18,9 @@ nav_order: 25
 
 ### Information générale
 
-| <span class="corpus-table-header-left">Nom du corpus</span>                           | Scriptorium |
-| <span class="corpus-table-header-left">Adresse web</span>                             | [Scriptorium](http://www.scriptorium.be/catalogue.php){:target="_blank"} |
-| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Mickaël Lefèvre (Centre International de Codicologie ASBL) |
+| <span class="corpus-table-header-left">Nom du corpus</span>                           | Scriptorium / Bulletin codicologique |
+| <span class="corpus-table-header-left">Adresse web</span>                             | [Scriptorium / Bulletin codicologique](http://www.scriptorium.be/catalogue.php){:target="_blank"} |
+| <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Van den Abeele, Baudouin (Centre International de Codicologie ASBL) : Project leader <br/> Smal, Antony (Centre International de Codicologie ASBL) : Project manager <br/> Lefèvre, Michael (Centre International de Codicologie ASBL) : Project manager (past)|
 
 ### Description des données
 
@@ -30,7 +30,7 @@ nav_order: 25
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 20,7 Mo |
 | <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 32.778 notices et références bibliographiques <br/> 281.087 cotes de manuscrit |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |
-| <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | site dédié <br/> _Une migration des données vers une autre structure est prévue prochainement. La nouvelle version de Scriptorium est réalisée avec le pôle numérique de l’IRHT et utilisera la même plateforme que Bibale. Les données seront stockées dans une base de données SQL._ |
+| <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | site dédié (hébergé par l'Institut de Recherche et d’Histoire des Textes) <br/> _Une migration des données vers une autre structure est prévue prochainement. La nouvelle version de Scriptorium est réalisée avec le pôle numérique de l’IRHT et utilisera la même plateforme que Bibale. Les données seront stockées dans une base de données SQL._ |
 
 ### Correspondance aux principes FAIR
 
