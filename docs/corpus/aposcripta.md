@@ -5,7 +5,7 @@ parent: Corpus
 nav_order: 3
 ---
 
-# Aposcripta
+# APOSCRIPTA database. Unified Corpus of Papal Letters
 {: .no_toc }
 
 ## Table des matières
@@ -18,7 +18,7 @@ nav_order: 3
 
 ### Information générale
 
-| <span class="corpus-table-header-left">Nom du corpus</span>                           | Aposcripta |
+| <span class="corpus-table-header-left">Nom du corpus</span>                           | APOSCRIPTA database. Unified Corpus of Papal Letters |
 | <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: Aposcripta](http://telma-chartes.irht.cnrs.fr/aposcripta/page/about-accueil){:target="_blank"} |
 | <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Julien Théry (CIHAM, UMR 5648) |
 
@@ -28,7 +28,7 @@ nav_order: 3
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql (certains éléments textuels peuvent garder les traces du balisage XML) |
 | <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données SQL de TELMA) |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | impossible à définir |
-| <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 8700 textes |
+| <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | plus de 24000 lettres |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |
 | <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | TELMA Chartes<sup>*</sup> |
 
