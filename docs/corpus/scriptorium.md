@@ -69,6 +69,6 @@ nav_order: 25
 
 | <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ SQL (export depuis le site web [Scriptorium / Bulletin codicologique](http://www.scriptorium.be/catalogue.php){:target="_blank"}) |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6603279.svg)](https://doi.org/10.5281/zenodo.6603279){:target="_blank"} |
-| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Centre International de Codicologie ASBL. (2022). Scriptorium / Bulletin codicologique (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6603279 |
+| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Centre International de Codicologie ASBL. (2022). Scriptorium / Bulletin codicologique [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6603279 |
 | <span class="corpus-table-header-left">Documentation technique</span>   	 | [MySQL Documentation](https://dev.mysql.com/doc/) <br/> La documentation supplémentaire est également incluse dans le dépôt Zenodo. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |

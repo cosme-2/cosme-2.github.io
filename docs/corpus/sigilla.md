@@ -67,7 +67,7 @@ nav_order: 26
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ CSV (export depuis CMS Drupal) |
+| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ CSV (export depuis CMS Drupal du site web [Sigilla](http://www.sigilla.org){:target="_blank"}) |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6421421.svg)](https://doi.org/10.5281/zenodo.6421421){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Laurent Hablot. (2022). Sigilla (Base numérique des sceaux conservés en France) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6421421 |
 | <span class="corpus-table-header-left">Documentation technique</span>   	 | [Common Format and MIME Type for Comma-Separated Values (CSV) Files](https://www.rfc-editor.org/rfc/rfc4180){:target="_blank"} |

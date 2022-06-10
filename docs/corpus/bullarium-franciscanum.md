@@ -72,6 +72,6 @@ __\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-ent
 
 | <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ JSON (export depuis TELMA) |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6394656.svg)](https://doi.org/10.5281/zenodo.6394656){:target="_blank"} |
-| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Heullant-Donat, Isabelle. (2022). Bullarium Franciscanum romanorum pontificum (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6394657 |
+| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Heullant-Donat, Isabelle. (2022). Bullarium Franciscanum romanorum pontificum [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6394657 |
 | <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schema JSON](https://github.com/cosme-2/corpus/tree/main/bullarium-franciscanum){:target="_blank"} |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
