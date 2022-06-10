@@ -70,5 +70,5 @@ nav_order: 15
 | <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ SQL (export depuis le site web [Devise](https://devise.saprat.fr/page/la-base-devise){:target="_blank"}) |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6631802.svg)](https://doi.org/10.5281/zenodo.6631802){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Hablot, Laurent. (2022). DEVISE [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6631802 |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [MySQL Documentation](https://dev.mysql.com/doc/) <br/> La documentation supplémentaire est également incluse dans le dépôt Zenodo. |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [MySQL Documentation](https://dev.mysql.com/doc/){:target="_blank"} <br/> La documentation supplémentaire est également incluse dans le dépôt Zenodo. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
