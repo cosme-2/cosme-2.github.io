@@ -19,7 +19,7 @@ nav_order: 3
 ### Information générale
 
 | <span class="corpus-table-header-left">Nom du corpus</span>                           | APOSCRIPTA database. Unified Corpus of Papal Letters |
-| <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: Aposcripta](http://telma-chartes.irht.cnrs.fr/aposcripta/page/about-accueil){:target="_blank"} |
+| <span class="corpus-table-header-left">Adresse web</span>                             | [TELMA: APOSCRIPTA database – Unified Corpus of Papal Letters](http://telma-chartes.irht.cnrs.fr/aposcripta/page/about-accueil){:target="_blank"} |
 | <span class="corpus-table-header-left">Responsables scientifiques et techniques</span> | Julien Théry (CIHAM, UMR 5648) |
 
 ### Description des données
@@ -28,7 +28,7 @@ nav_order: 3
 | <span class="corpus-table-header-left">Format de données</span>                                            | sql (certains éléments textuels peuvent garder les traces du balisage XML) |
 | <span class="corpus-table-header-left">Standards des données</span>                                        | modèle personnel (base de données SQL de TELMA) |
 | <span class="corpus-table-header-left">Taille des fichiers</span>                                          | impossible à définir |
-| <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | plus de 24000 lettres |
+| <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | plus de 25000 lettres |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |
 | <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | TELMA Chartes<sup>*</sup> |
 
@@ -40,38 +40,38 @@ __\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-ent
 #### Findable (= Facile à trouver)
 {: .no_toc }
 
-| F1: Les (méta)données possèdent un identifiant persistant et unique au monde (persistent identifier, PID)	  | <span class="overview-table-no">Non</span> |
-| F2: Les données sont décrites avec des métadonnées riches													  | <span class="overview-table-no">Non</span> |
-| F3: Les métadonnées incluent, d’une façon claire et explicite, l’identifiant des données qu’elles décrivent | <span class="overview-table-no">Non</span> |
-| F4: Les (méta)données sont enregistrées ou indexées dans une ressource consultable						  | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
+| F1: Les (méta)données possèdent un identifiant persistant et unique au monde (persistent identifier, PID)	  | <span class="overview-table-yes">Oui</span> |
+| F2: Les données sont décrites avec des métadonnées riches													  | <span class="overview-table-yes">Oui</span> |
+| F3: Les métadonnées incluent, d’une façon claire et explicite, l’identifiant des données qu’elles décrivent | <span class="overview-table-yes">Oui</span> |
+| F4: Les (méta)données sont enregistrées ou indexées dans une ressource consultable						  | <span class="overview-table-yes">Oui</span> |
 
 #### Accessible
 {: .no_toc }
 
-| A1. Les (méta)données sont récupérables par leur identifiant en utilisant un protocole standard de communication | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
-| A1.1. Le protocole est ouvert, gratuit et largement utilisé													   | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
-| A1.2. Le protocole permet, si nécessaire, une procédure d'authentification et d'autorisation					   | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
-| A2. Les métadonnées sont accessibles, même lorsque les données ne sont plus disponibles						   | <span class="overview-table-no">Non</span> |
+| A1. Les (méta)données sont récupérables par leur identifiant en utilisant un protocole standard de communication | <span class="overview-table-yes">Oui</span> |
+| A1.1. Le protocole est ouvert, gratuit et largement utilisé													   | <span class="overview-table-yes">Oui</span> |
+| A1.2. Le protocole permet, si nécessaire, une procédure d'authentification et d'autorisation					   | <span class="overview-table-yes">Oui</span> |
+| A2. Les métadonnées sont accessibles, même lorsque les données ne sont plus disponibles						   | <span class="overview-table-yes">Oui</span> |
 
 #### Interoperable (= Interopérable)
 {: .no_toc }
 
-| I1. Les (méta)données utilisent un langage formel, accessible, partagé et largement répandu pour la représentation des connaissances | <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
-| I2. Les (méta)données utilisent des vocabulaires qui suivent les principes FAIR 													   | <span class="overview-table-partially">Partiellement</span> |
-| I3. Les (méta)données incluent des références qualifiées à d'autres (méta)données 												   | <span class="overview-table-no">Non</span> |
+| I1. Les (méta)données utilisent un langage formel, accessible, partagé et largement répandu pour la représentation des connaissances | <span class="overview-table-yes">Oui</span> |
+| I2. Les (méta)données utilisent des vocabulaires qui suivent les principes FAIR 													   | <span class="overview-table-yes">Oui</span> |
+| I3. Les (méta)données incluent des références qualifiées à d'autres (méta)données 												   | <span class="overview-table-yes">Oui</span> |
 
 #### Reusable (= Réutilisable)
 {: .no_toc }
 
-| R1. Les méta(données) sont décrites d’une façon complète avec plusieurs attributs précis et pertinents	| <span class="overview-table-partially">Partiellement</span> |
-| R1.1. Les (méta)données sont publiées avec une licence d'utilisation des données claire et accessible 	| <span class="overview-table-partially">Partiellement</span> <span class="sub-text">(uniquement données)</span> |
-| R1.2. Les (méta)données disposent d’une provenance détaillée												| <span class="overview-table-no">Non</span> |
-| R1.3. Les (méta)données répondent aux standards communautaires de leur domaine							| <span class="overview-table-no">Non</span> |
+| R1. Les méta(données) sont décrites d’une façon complète avec plusieurs attributs précis et pertinents	| <span class="overview-table-yes">Oui</span> |
+| R1.1. Les (méta)données sont publiées avec une licence d'utilisation des données claire et accessible 	| <span class="overview-table-yes">Oui</span> |
+| R1.2. Les (méta)données disposent d’une provenance détaillée												| <span class="overview-table-yes">Oui</span> |
+| R1.3. Les (méta)données répondent aux standards communautaires de leur domaine							| <span class="overview-table-yes">Oui</span> |
 
 ### FAIRisation
 
-| <span class="corpus-table-header-left">Données FAIRisées</span>            | _données textuelles:_ JSON (export depuis TELMA) |
-| <span class="corpus-table-header-left">Dépôt de données</span>             | _en cours_ |
-| <span class="corpus-table-header-left">Citation bibliographique</span>     | _en cours_ |
+| <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ JSON (export depuis TELMA) |
+| <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6771269.svg)](https://doi.org/10.5281/zenodo.6771269){:target="_blank"} |
+| <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Théry, Julien. (2022). APOSCRIPTA database. Unified Corpus of Papal Letters [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6771269 |
 | <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schema JSON](https://github.com/cosme-2/corpus/tree/main/aposcripta){:target="_blank"} |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
