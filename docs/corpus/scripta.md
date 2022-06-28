@@ -70,5 +70,5 @@ nav_order: 24
 | <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _données textuelles:_ XML / TEI P5 et schéma personnel |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6384804.svg)](https://doi.org/10.5281/zenodo.6384804){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Bauduin, Pierre. (2022). SCRIPTA. Site Caennais de Recherche Informatique et de Publication des Textes Anciens. [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6384804 |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [TEI P5 Guidelines (Text Encoding Initiative)](https://tei-c.org/guidelines/p5/){:target="_blank"} et schéma personnel (voir dépôt sur Zenodo) |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [TEI P5 Guidelines (Text Encoding Initiative)](https://tei-c.org/guidelines/p5/){:target="_blank"} <br/> La documentation supplémentaire (schéma personnel) est également incluse dans le dépôt des données. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |

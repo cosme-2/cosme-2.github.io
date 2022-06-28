@@ -77,6 +77,6 @@ _En l’absence d’un accord explicite de(s) auteur(s) du corpus, les données 
 | <span class="corpus-table-header-left">Données FAIRisées</span>         | _données textuelles:_ JSON (export depuis TELMA)<br/>_données visuelles:_ JPG |
 | <span class="corpus-table-header-left">Dépôt de données</span>         	 | _en cours_ |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | _en cours_ |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schemas JSON](https://github.com/cosme-2/corpus/tree/main/originaux){:target="_blank"} |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schemas JSON](https://github.com/cosme-2/corpus/tree/main/originaux){:target="_blank"} <br/> La documentation supplémentaire est également incluse dans le dépôt des données. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
 -->

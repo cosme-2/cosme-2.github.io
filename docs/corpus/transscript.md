@@ -73,5 +73,5 @@ __\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-ent
 | <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ JSON (export depuis TELMA) |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6557439.svg)](https://doi.org/10.5281/zenodo.6557439){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Guyot-Bachy, Isabelle, & Margue, Michel. (2022). TranSscript [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6557439 |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schema JSON](https://github.com/cosme-2/corpus/tree/main/transscript){:target="_blank"} |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schema JSON](https://github.com/cosme-2/corpus/tree/main/transscript){:target="_blank"} <br/> La documentation supplémentaire est également incluse dans le dépôt des données. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |

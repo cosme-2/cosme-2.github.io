@@ -70,5 +70,5 @@ nav_order: 4
 | <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ CSV (export depuis CMS WordPress du site web [ArmmA](https://armma.saprat.fr){:target="_blank"}) |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6631777.svg)](https://doi.org/10.5281/zenodo.6631777){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Hablot, Laurent. (2022). ArmmA (ARmorial Monumental du Moyen-Age) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6631777 |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Common Format and MIME Type for Comma-Separated Values (CSV) Files](https://www.rfc-editor.org/rfc/rfc4180){:target="_blank"} <br/> La documentation supplémentaire est également incluse dans le dépôt Zenodo.|
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Common Format and MIME Type for Comma-Separated Values (CSV) Files](https://www.rfc-editor.org/rfc/rfc4180){:target="_blank"} <br/> La documentation supplémentaire est également incluse dans le dépôt des données. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |

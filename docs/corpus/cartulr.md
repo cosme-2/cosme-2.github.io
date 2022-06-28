@@ -73,5 +73,5 @@ __\*__ - À l’heure actuelle, la plateforme TELMA se décline en deux sous-ent
 | <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ JSON (export depuis TELMA) |
 | <span class="corpus-table-header-left">Dépôt de données</span>        	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5752666.svg)](https://doi.org/10.5281/zenodo.5752666){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span> 	 | Bertrand, Paul. (2021). CartulR. Répertoire des cartulaires médiévaux et modernes [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5752666 |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schemas JSON](https://github.com/cosme-2/corpus/tree/main/cartulr){:target="_blank"} |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [Schemas JSON](https://github.com/cosme-2/corpus/tree/main/cartulr){:target="_blank"} <br/> La documentation supplémentaire est également incluse dans le dépôt des données. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |

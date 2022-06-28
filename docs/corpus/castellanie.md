@@ -70,5 +70,5 @@ nav_order: 9
 | <span class="corpus-table-header-left">Données FAIRisées</span>         	 | _données textuelles:_ XML-TEI P5 / XML-schéma personnel |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6535990.svg)](https://doi.org/10.5281/zenodo.6535990){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Burghart, Marjorie, Chartrain, Frédéric, Gaulin, Jean-Louis, Gonnet, Florian, Guilleré, Christian, Kersuzan, Alain, Mantilleri, Nils, Poisson, Jean-Michel, & Ronot, Marianne. (2022). Castellanie. Comptes des châtellenies savoyardes [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6535990 |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [TEI P5 Guidelines (Text Encoding Initiative)](https://tei-c.org/guidelines/p5/){:target="_blank"} / Le schéma XML personnel est inclus dans le dépôt Zenodo. |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [TEI P5 Guidelines (Text Encoding Initiative)](https://tei-c.org/guidelines/p5/){:target="_blank"} <br/> La documentation supplémentaire (le schéma XML personnel) est également incluse dans le dépôt des données. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
