@@ -27,8 +27,8 @@ nav_order: 28
 | <span class="corpus-table-header-left">Nature de données</span>                                            | données textuelles, données visuelles |
 | <span class="corpus-table-header-left">Format de données</span>                                            | xml, jpg |
 | <span class="corpus-table-header-left">Standards des données</span>                                        | XML TEI P5 (EpiDoc) |
-| <span class="corpus-table-header-left">Taille des fichiers</span>                                          | - |
-| <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 4447 textes |
+| <span class="corpus-table-header-left">Taille des fichiers</span>                                          | 1.56 Go |
+| <span class="corpus-table-header-left">Unité de donnée et nb.d’unités</span>                               | 286 inscriptions (+ 447 images) |
 | <span class="corpus-table-header-left">Logiciels spécifiques nécessaires pour la lecture des données</span>| non |
 | <span class="corpus-table-header-left">Plateforme d’affichage et de stockage des données</span>            | site dédié |
 
@@ -70,5 +70,5 @@ nav_order: 28
 | <span class="corpus-table-header-left">Données FAIRisées</span>        	 | _données textuelles:_ XML-TEI P5 (EpiDoc) <br/> _données visuelles:_ JPG |
 | <span class="corpus-table-header-left">Dépôt de données</span>          	 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7038092.svg)](https://doi.org/10.5281/zenodo.7038092){:target="_blank"} |
 | <span class="corpus-table-header-left">Citation bibliographique</span>  	 | Ingrand-Varenne, Estelle, Treffort, Cécile, Favreau, Robert, & Debiais, Vincent. (2022). Titulus - CIFM [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7038092 |
-| <span class="corpus-table-header-left">Documentation technique</span>   	 | [EpiDoc Guidelines](https://epidoc.stoa.org/gl/latest/){:target="_blank"} <br/> La documentation supplémentaire est également incluse dans le dépôt des données et elle est disponible sur le site du projet: [TITULUS / Le projet](http://titulus.huma-num.fr/exist/apps/titulus/projet.html){:target="_blank"}. |
+| <span class="corpus-table-header-left">Documentation technique</span>   	 | [EpiDoc Guidelines](https://epidoc.stoa.org/gl/latest/){:target="_blank"} <br/> La documentation supplémentaire est également incluse dans le dépôt des données (5 fichiers DTD) et elle est disponible sur le site du projet: [TITULUS / Le projet](http://titulus.huma-num.fr/exist/apps/titulus/projet.html){:target="_blank"}. |
 | <span class="corpus-table-header-left">Infrastructure personnelle</span>   | non |
